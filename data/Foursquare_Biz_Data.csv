@@ -1,0 +1,1342 @@
+name,address,country,cross_street,formatted_address,locality,postcode,region,address_extended,categories
+La Luna Restaurant Downtown,306 King St W,CA,at Queen St,"306 King St W (at Queen St), Hamilton ON L8P 1B1",Hamilton,L8P 1B1,ON,,"['Lebanese Restaurant', 'Mediterranean Restaurant', 'Mexican Restaurant']"
+Coop Hamilton,274 King St W,CA,,"274 King St W, Hamilton ON L8P 1J6",Hamilton,L8P 1J6,ON,# 272,['Fried Chicken Joint']
+Smoke's Poutinerie,112 George St,CA,at Queen St. S.,"112 George St (at Queen St. S.), Hamilton ON L8P 1E2",Hamilton,L8P 1E2,ON,,"['Fast Food Restaurant', 'Poutine Restaurant', 'Steakhouse']"
+Coop Wicked Chicken Hamilton,274 King St W,CA,Hess St,"274 King St W (Hess St), Hamilton ON L8P 1J6",Hamilton,L8P 1J6,ON,# 272,['Fried Chicken Joint']
+Vida la Pita,217 King St W,CA,Caroline,"217 King St W (Caroline), Hamilton ON L8P 1A7",Hamilton,L8P 1A7,ON,,"['Fast Food Restaurant', 'Middle Eastern Restaurant']"
+Wimpy's Diner,405 Main St W,CA,,"405 Main St W, Hamilton ON L8P 1K5",Hamilton,L8P 1K5,ON,,['Diner']
+Brown Dog Coffee Shop,211 Locke St S,CA,,"211 Locke St S, Hamilton ON L8P 4B6",Hamilton,L8P 4B6,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+The Burnt Tongue,182 Locke St S,CA,Pine St.,"182 Locke St S (Pine St.), Hamilton ON L8P 4B3",Hamilton,L8P 4B3,ON,,['Soup Spot']
+Pizza Hut,610 King St W,CA,Dundurn,"610 King St W (Dundurn), Hamilton ON L8P 1C2",Hamilton,L8P 1C2,ON,,"['Pizzeria', 'Fast Food Restaurant']"
+Donut Monster,246 Locke St S,CA,,"246 Locke St S, Hamilton ON L8P 4B9",Hamilton,L8P 4B9,ON,,"['Bagel Shop', 'Bakery', 'Restaurant']"
+The Harbour Diner,486 James St N,CA,btwn Ferrie St and Picton St,"486 James St N (btwn Ferrie St and Picton St), Hamilton ON L8L 1J1",Hamilton,L8L 1J1,ON,,"['Diner', 'Comfort Food Restaurant']"
+Fisher's Pier 4 Pub & Grub,554 James St N,CA,,"554 James St N, Hamilton ON L8L 1J5",Hamilton,L8L 1J5,ON,,['Restaurant']
+Saltlick Smokehouse,282 James St N,CA,Barton Street,"282 James St N (Barton Street), Hamilton ON L8R 2L3",Hamilton,L8R 2L3,ON,,['BBQ Joint']
+Charred,244 James St N,CA,btwn Robert St & Colbourne St,"244 James St N (btwn Robert St & Colbourne St), Hamilton ON L8R 2L3",Hamilton,L8R 2L3,ON,,"['BBQ Joint', 'Portuguese Restaurant']"
+Mulberry Street Coffeehouse,193 James St N,CA,Mulberry St.,"193 James St N (Mulberry St.), Hamilton ON L8R 2L2",Hamilton,L8R 2L2,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+Bonanza Bakery,100 Murray St E,CA,,"100 Murray St E, Hamilton ON L8L 3G4",Hamilton,L8L 3G4,ON,,['Bakery']
+Born and Raised,224 James St N,CA,,"224 James St N, Hamilton ON L8R 2L3",Hamilton,L8R 2L3,ON,,"['Gastropub', 'Italian Restaurant']"
+Ola Bakery & Pastries,230 James St N,CA,Barton St. W,"230 James St N (Barton St. W), Hamilton ON L8R 2L3",Hamilton,L8R 2L3,ON,,"['Bakery', 'Coffee Shop', 'Restaurant']"
+Neit Bar,337 James St N,CA,Murray,"337 James St N (Murray), Hamilton ON L8L 1H3",Hamilton,L8L 1H3,ON,,['Restaurant']
+Mesa,255 James St N,CA,,"255 James St N, Hamilton ON L8R 2L2",Hamilton,L8R 2L2,ON,,['Mexican Restaurant']
+The Harbour Diner,486 James St N,CA,btwn Ferrie St and Picton St,"486 James St N (btwn Ferrie St and Picton St), Hamilton ON L8L 1J1",Hamilton,L8L 1J1,ON,,"['Diner', 'Comfort Food Restaurant']"
+Fisher's Pier 4 Pub & Grub,554 James St N,CA,,"554 James St N, Hamilton ON L8L 1J5",Hamilton,L8L 1J5,ON,,['Restaurant']
+Saltlick Smokehouse,282 James St N,CA,Barton Street,"282 James St N (Barton Street), Hamilton ON L8R 2L3",Hamilton,L8R 2L3,ON,,['BBQ Joint']
+Charred,244 James St N,CA,btwn Robert St & Colbourne St,"244 James St N (btwn Robert St & Colbourne St), Hamilton ON L8R 2L3",Hamilton,L8R 2L3,ON,,"['BBQ Joint', 'Portuguese Restaurant']"
+Mulberry Street Coffeehouse,193 James St N,CA,Mulberry St.,"193 James St N (Mulberry St.), Hamilton ON L8R 2L2",Hamilton,L8R 2L2,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+Bonanza Bakery,100 Murray St E,CA,,"100 Murray St E, Hamilton ON L8L 3G4",Hamilton,L8L 3G4,ON,,['Bakery']
+Born and Raised,224 James St N,CA,,"224 James St N, Hamilton ON L8R 2L3",Hamilton,L8R 2L3,ON,,"['Gastropub', 'Italian Restaurant']"
+Ola Bakery & Pastries,230 James St N,CA,Barton St. W,"230 James St N (Barton St. W), Hamilton ON L8R 2L3",Hamilton,L8R 2L3,ON,,"['Bakery', 'Coffee Shop', 'Restaurant']"
+Neit Bar,337 James St N,CA,Murray,"337 James St N (Murray), Hamilton ON L8L 1H3",Hamilton,L8L 1H3,ON,,['Restaurant']
+Mesa,255 James St N,CA,,"255 James St N, Hamilton ON L8R 2L2",Hamilton,L8R 2L2,ON,,['Mexican Restaurant']
+August 8,1 Wilson St,CA,James St.,"1 Wilson St (James St.), Hamilton ON L8R 1C4",Hamilton,L8R 1C4,ON,# 12,"['Dim Sum Restaurant', 'Sushi Restaurant']"
+The Burnt Tongue,10 Cannon St E,CA,James St N,"10 Cannon St E (James St N), Hamilton ON L8L 1Z5",Hamilton,L8L 1Z5,ON,,"['Fast Food Restaurant', 'Soup Spot']"
+Mulberry Street Coffeehouse,193 James St N,CA,Mulberry St.,"193 James St N (Mulberry St.), Hamilton ON L8R 2L2",Hamilton,L8R 2L2,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+The Mule,41 King William St,CA,Hughson,"41 King William St (Hughson), Hamilton ON L8R 1A2",Hamilton,L8R 1A2,ON,,['Taco Restaurant']
+Charred,244 James St N,CA,btwn Robert St & Colbourne St,"244 James St N (btwn Robert St & Colbourne St), Hamilton ON L8R 2L3",Hamilton,L8R 2L3,ON,,"['BBQ Joint', 'Portuguese Restaurant']"
+Lulu's Shawarma,32 John St N,CA,at King William St.,"32 John St N (at King William St.), Hamilton ON L8R 1H3",Hamilton,L8R 1H3,ON,,"['Mediterranean Restaurant', 'Middle Eastern Restaurant']"
+Burrito Boyz,66 King St E,CA,,"66 King St E, Hamilton ON L8N 1A6",Hamilton,L8N 1A6,ON,,['Burrito Restaurant']
+Saltlick Smokehouse,282 James St N,CA,Barton Street,"282 James St N (Barton Street), Hamilton ON L8R 2L3",Hamilton,L8R 2L3,ON,,['BBQ Joint']
+Vida la Pita,217 King St W,CA,Caroline,"217 King St W (Caroline), Hamilton ON L8P 1A7",Hamilton,L8P 1A7,ON,,"['Fast Food Restaurant', 'Middle Eastern Restaurant']"
+Coop Hamilton,274 King St W,CA,,"274 King St W, Hamilton ON L8P 1J6",Hamilton,L8P 1J6,ON,# 272,['Fried Chicken Joint']
+August 8,1 Wilson St,CA,James St.,"1 Wilson St (James St.), Hamilton ON L8R 1C4",Hamilton,L8R 1C4,ON,# 12,"['Dim Sum Restaurant', 'Sushi Restaurant']"
+The Burnt Tongue,10 Cannon St E,CA,James St N,"10 Cannon St E (James St N), Hamilton ON L8L 1Z5",Hamilton,L8L 1Z5,ON,,"['Fast Food Restaurant', 'Soup Spot']"
+Mulberry Street Coffeehouse,193 James St N,CA,Mulberry St.,"193 James St N (Mulberry St.), Hamilton ON L8R 2L2",Hamilton,L8R 2L2,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+The Mule,41 King William St,CA,Hughson,"41 King William St (Hughson), Hamilton ON L8R 1A2",Hamilton,L8R 1A2,ON,,['Taco Restaurant']
+Charred,244 James St N,CA,btwn Robert St & Colbourne St,"244 James St N (btwn Robert St & Colbourne St), Hamilton ON L8R 2L3",Hamilton,L8R 2L3,ON,,"['BBQ Joint', 'Portuguese Restaurant']"
+Lulu's Shawarma,32 John St N,CA,at King William St.,"32 John St N (at King William St.), Hamilton ON L8R 1H3",Hamilton,L8R 1H3,ON,,"['Mediterranean Restaurant', 'Middle Eastern Restaurant']"
+Burrito Boyz,66 King St E,CA,,"66 King St E, Hamilton ON L8N 1A6",Hamilton,L8N 1A6,ON,,['Burrito Restaurant']
+Saltlick Smokehouse,282 James St N,CA,Barton Street,"282 James St N (Barton Street), Hamilton ON L8R 2L3",Hamilton,L8R 2L3,ON,,['BBQ Joint']
+Vida la Pita,217 King St W,CA,Caroline,"217 King St W (Caroline), Hamilton ON L8P 1A7",Hamilton,L8P 1A7,ON,,"['Fast Food Restaurant', 'Middle Eastern Restaurant']"
+Coop Hamilton,274 King St W,CA,,"274 King St W, Hamilton ON L8P 1J6",Hamilton,L8P 1J6,ON,# 272,['Fried Chicken Joint']
+Durand Coffee,142 Charlton Ave W,CA,Caroline St S.,"142 Charlton Ave W (Caroline St S.), Hamilton ON L8P 2C7",Hamilton,L8P 2C7,ON,,"['Café', 'Coffee Shop']"
+Earth to Table Bread Bar,258 Locke St S,CA,Herkimer St.,"258 Locke St S (Herkimer St.), Hamilton ON L8P 4B9",Hamilton,L8P 4B9,ON,,"['Bakery', 'Pizzeria']"
+Queen's Pizza & Wings,178 Queen St S,CA,at Duke St.,"178 Queen St S (at Duke St.), Hamilton ON L8P 3S7",Hamilton,L8P 3S7,ON,,['Pizzeria']
+One Duke Restaurant & Lounge,1 Duke St,CA,at James St. South,"1 Duke St (at James St. South), Hamilton ON L8P 1W9",Hamilton,L8P 1W9,ON,,"['American Restaurant', 'Comfort Food Restaurant', 'Italian Restaurant']"
+Donut Monster,246 Locke St S,CA,,"246 Locke St S, Hamilton ON L8P 4B9",Hamilton,L8P 4B9,ON,,"['Bagel Shop', 'Bakery', 'Restaurant']"
+Red Crow Coffee,211 James St S,CA,Charlton Ave,"211 James St S (Charlton Ave), Hamilton ON L8P 3B2",Hamilton,L8P 3B2,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+Brown Dog Coffee Shop,211 Locke St S,CA,,"211 Locke St S, Hamilton ON L8P 4B6",Hamilton,L8P 4B6,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+Wass Ethiopian Restaurant,207 James St N,CA,at Forest Ave.,"207 James St N (at Forest Ave.), Hamilton ON L8R 2L2",Hamilton,L8R 2L2,ON,,['Ethiopian Restaurant']
+Bronzie's Place,201 James St S,CA,at Forest Ave,"201 James St S (at Forest Ave), Hamilton ON L8P 3A8",Hamilton,L8P 3A8,ON,,['Pizzeria']
+Tomah,132 Queen St S,CA,,"132 Queen St S, Hamilton ON L8P 3S2",Hamilton,L8P 3S2,ON,,['Syrian Restaurant']
+Atlantic Submarines,212 John St S,CA,Young Street,"212 John St S (Young Street), Hamilton ON L8N 2C8",Hamilton,L8N 2C8,ON,,['Sandwich Spot']
+Red Crow Coffee,211 James St S,CA,Charlton Ave,"211 James St S (Charlton Ave), Hamilton ON L8P 3B2",Hamilton,L8P 3B2,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+Wass Ethiopian Restaurant,207 James St N,CA,at Forest Ave.,"207 James St N (at Forest Ave.), Hamilton ON L8R 2L2",Hamilton,L8R 2L2,ON,,['Ethiopian Restaurant']
+Bronzie's Place,201 James St S,CA,at Forest Ave,"201 James St S (at Forest Ave), Hamilton ON L8P 3A8",Hamilton,L8P 3A8,ON,,['Pizzeria']
+One Duke Restaurant & Lounge,1 Duke St,CA,at James St. South,"1 Duke St (at James St. South), Hamilton ON L8P 1W9",Hamilton,L8P 1W9,ON,,"['American Restaurant', 'Comfort Food Restaurant', 'Italian Restaurant']"
+Mezcal TNT,150 James St S,CA,Augusta,"150 James St S (Augusta), Hamilton ON L8P 3A2",Hamilton,L8P 3A2,ON,,"['Bar', 'Tex-Mex Restaurant']"
+Radius,151 James St S,CA,at Augusta St,"151 James St S (at Augusta St), Hamilton ON L8P 2Z5",Hamilton,L8P 2Z5,ON,,['Fast Food Restaurant']
+Tea Hut,100 Main St E,CA,,"100 Main St E, Hamilton ON L8N 3W4",Hamilton,L8N 3W4,ON,# 100,"['Bar', 'Diner', 'Asian Restaurant']"
+Burrito Boyz,66 King St E,CA,,"66 King St E, Hamilton ON L8N 1A6",Hamilton,L8N 1A6,ON,,['Burrito Restaurant']
+Shakespeare's Steak and Seafood,181 Main St E,CA,,"181 Main St E, Hamilton ON L8N 1H2",Hamilton,L8N 1H2,ON,,"['Diner', 'Seafood Restaurant', 'Steakhouse']"
+La Luna Restaurant Downtown,306 King St W,CA,at Queen St,"306 King St W (at Queen St), Hamilton ON L8P 1B1",Hamilton,L8P 1B1,ON,,"['Lebanese Restaurant', 'Mediterranean Restaurant', 'Mexican Restaurant']"
+Coop Hamilton,274 King St W,CA,,"274 King St W, Hamilton ON L8P 1J6",Hamilton,L8P 1J6,ON,# 272,['Fried Chicken Joint']
+Smoke's Poutinerie,112 George St,CA,at Queen St. S.,"112 George St (at Queen St. S.), Hamilton ON L8P 1E2",Hamilton,L8P 1E2,ON,,"['Fast Food Restaurant', 'Poutine Restaurant', 'Steakhouse']"
+Coop Wicked Chicken Hamilton,274 King St W,CA,Hess St,"274 King St W (Hess St), Hamilton ON L8P 1J6",Hamilton,L8P 1J6,ON,# 272,['Fried Chicken Joint']
+Vida la Pita,217 King St W,CA,Caroline,"217 King St W (Caroline), Hamilton ON L8P 1A7",Hamilton,L8P 1A7,ON,,"['Fast Food Restaurant', 'Middle Eastern Restaurant']"
+Wimpy's Diner,405 Main St W,CA,,"405 Main St W, Hamilton ON L8P 1K5",Hamilton,L8P 1K5,ON,,['Diner']
+Brown Dog Coffee Shop,211 Locke St S,CA,,"211 Locke St S, Hamilton ON L8P 4B6",Hamilton,L8P 4B6,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+The Burnt Tongue,182 Locke St S,CA,Pine St.,"182 Locke St S (Pine St.), Hamilton ON L8P 4B3",Hamilton,L8P 4B3,ON,,['Soup Spot']
+Pizza Hut,610 King St W,CA,Dundurn,"610 King St W (Dundurn), Hamilton ON L8P 1C2",Hamilton,L8P 1C2,ON,,"['Pizzeria', 'Fast Food Restaurant']"
+Donut Monster,246 Locke St S,CA,,"246 Locke St S, Hamilton ON L8P 4B9",Hamilton,L8P 4B9,ON,,"['Bagel Shop', 'Bakery', 'Restaurant']"
+La Luna Restaurant Downtown,306 King St W,CA,at Queen St,"306 King St W (at Queen St), Hamilton ON L8P 1B1",Hamilton,L8P 1B1,ON,,"['Lebanese Restaurant', 'Mediterranean Restaurant', 'Mexican Restaurant']"
+Coop Hamilton,274 King St W,CA,,"274 King St W, Hamilton ON L8P 1J6",Hamilton,L8P 1J6,ON,# 272,['Fried Chicken Joint']
+Smoke's Poutinerie,112 George St,CA,at Queen St. S.,"112 George St (at Queen St. S.), Hamilton ON L8P 1E2",Hamilton,L8P 1E2,ON,,"['Fast Food Restaurant', 'Poutine Restaurant', 'Steakhouse']"
+Coop Wicked Chicken Hamilton,274 King St W,CA,Hess St,"274 King St W (Hess St), Hamilton ON L8P 1J6",Hamilton,L8P 1J6,ON,# 272,['Fried Chicken Joint']
+Vida la Pita,217 King St W,CA,Caroline,"217 King St W (Caroline), Hamilton ON L8P 1A7",Hamilton,L8P 1A7,ON,,"['Fast Food Restaurant', 'Middle Eastern Restaurant']"
+Wimpy's Diner,405 Main St W,CA,,"405 Main St W, Hamilton ON L8P 1K5",Hamilton,L8P 1K5,ON,,['Diner']
+Brown Dog Coffee Shop,211 Locke St S,CA,,"211 Locke St S, Hamilton ON L8P 4B6",Hamilton,L8P 4B6,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+The Burnt Tongue,182 Locke St S,CA,Pine St.,"182 Locke St S (Pine St.), Hamilton ON L8P 4B3",Hamilton,L8P 4B3,ON,,['Soup Spot']
+Pizza Hut,610 King St W,CA,Dundurn,"610 King St W (Dundurn), Hamilton ON L8P 1C2",Hamilton,L8P 1C2,ON,,"['Pizzeria', 'Fast Food Restaurant']"
+Donut Monster,246 Locke St S,CA,,"246 Locke St S, Hamilton ON L8P 4B9",Hamilton,L8P 4B9,ON,,"['Bagel Shop', 'Bakery', 'Restaurant']"
+Bonanza Bakery,100 Murray St E,CA,,"100 Murray St E, Hamilton ON L8L 3G4",Hamilton,L8L 3G4,ON,,['Bakery']
+A&W Restaurant,190 Barton St E,CA,,"190 Barton St E, Hamilton ON L8L 2W8",Hamilton,L8L 2W8,ON,,"['American Restaurant', 'Fast Food Restaurant']"
+August 8,1 Wilson St,CA,James St.,"1 Wilson St (James St.), Hamilton ON L8R 1C4",Hamilton,L8R 1C4,ON,# 12,"['Dim Sum Restaurant', 'Sushi Restaurant']"
+The Burnt Tongue,10 Cannon St E,CA,James St N,"10 Cannon St E (James St N), Hamilton ON L8L 1Z5",Hamilton,L8L 1Z5,ON,,"['Fast Food Restaurant', 'Soup Spot']"
+Mulberry Street Coffeehouse,193 James St N,CA,Mulberry St.,"193 James St N (Mulberry St.), Hamilton ON L8R 2L2",Hamilton,L8R 2L2,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+Charred,244 James St N,CA,btwn Robert St & Colbourne St,"244 James St N (btwn Robert St & Colbourne St), Hamilton ON L8R 2L3",Hamilton,L8R 2L3,ON,,"['BBQ Joint', 'Portuguese Restaurant']"
+Lulu's Shawarma,32 John St N,CA,at King William St.,"32 John St N (at King William St.), Hamilton ON L8R 1H3",Hamilton,L8R 1H3,ON,,"['Mediterranean Restaurant', 'Middle Eastern Restaurant']"
+The Mule,41 King William St,CA,Hughson,"41 King William St (Hughson), Hamilton ON L8R 1A2",Hamilton,L8R 1A2,ON,,['Taco Restaurant']
+Black Forest Inn,255 King St E,CA,,"255 King St E, Hamilton ON L8N 1B9",Hamilton,L8N 1B9,ON,,['German Restaurant']
+Saltlick Smokehouse,282 James St N,CA,Barton Street,"282 James St N (Barton Street), Hamilton ON L8R 2L3",Hamilton,L8R 2L3,ON,,['BBQ Joint']
+Pinks Burgers,1335 Main St W,CA,,"1335 Main St W, Hamilton ON L8S 1C6",Hamilton,L8S 1C6,ON,,['Burger Joint']
+Subway,1331 Main St W,CA,at Broadway Ave.,"1331 Main St W (at Broadway Ave.), Hamilton ON L8S 1C6",Hamilton,L8S 1C6,ON,Unit 3,"['Fast Food Restaurant', 'Sandwich Spot']"
+Second Cup Café,1280 Main Street West,CA,,"1280 Main Street West, Hamilton ON L8S 4K1",Hamilton,L8S 4K1,ON,,"['Café', 'Coffee Shop']"
+Maple Leaf Pancake House,1520 Main St W,CA,,"1520 Main St W, Hamilton ON L8S 1E3",Hamilton,L8S 1E3,ON,,['Diner']
+The Chopped Leaf,1280 Main St W,CA,,"1280 Main St W, Hamilton ON L8S 4L8",Hamilton,L8S 4L8,ON,,['Salad Restaurant']
+Williams Coffee Pub,1309 Main St W,CA,,"1309 Main St W, Hamilton ON L8S 1C5",Hamilton,L8S 1C5,ON,A-2,"['Bar', 'Café', 'Diner']"
+The Arch Noodle House,1309 Main St W,CA,,"1309 Main St W, Hamilton ON L8S 1C5",Hamilton,L8S 1C5,ON,,['Noodle Restaurant']
+McMaster Children's Hospital Cafeteria,1200 Main St W,CA,,"1200 Main St W, Hamilton ON",Hamilton,,ON,,['Food Court']
+Gino's Pizza,1309 Main St W,CA,at Broadway Ave,"1309 Main St W (at Broadway Ave), Hamilton ON L8S 1C5",Hamilton,L8S 1C5,ON,,['Pizzeria']
+Willy Dog,Scholars Rd,CA,King Street West,"Scholars Rd (King Street West), Hamilton ON",Hamilton,,ON,,['Food Truck']
+Hi-Line Centre Pizza & Wings,1150 King St E,CA,Gage,"1150 King St E (Gage), Hamilton ON L8M 1E8",Hamilton,L8M 1E8,ON,# 2,['Pizzeria']
+Festival Foods,1013 King St E,CA,Spadina,"1013 King St E (Spadina), Hamilton ON L8M 1C9",Hamilton,L8M 1C9,ON,,['Fast Food Restaurant']
+Tall Tree Sandwich Co,1000 King St E,CA,,"1000 King St E, Hamilton ON L8M 1C8",Hamilton,L8M 1C8,ON,,['Sandwich Spot']
+KFC,Barton St,CA,,"Barton St, Hamilton ON L8L 6Y5",Hamilton,L8L 6Y5,ON,,['Fast Food Restaurant']
+Vibez Caribbean and Southern Food,971 King St E,CA,,"971 King St E, Hamilton ON L8M 1C3",Hamilton,L8M 1C3,ON,,['Caribbean Restaurant']
+Subway,847 Barton St E,CA,,"847 Barton St E, Hamilton ON L8L 3B4",Hamilton,L8L 3B4,ON,,"['Fast Food Restaurant', 'Sandwich Spot']"
+KFC,856 Barton St E,CA,,"856 Barton St E, Hamilton ON L8L 3B5",Hamilton,L8L 3B5,ON,,['Fast Food Restaurant']
+McDonald's,787 Barton St E,CA,Lottridge,"787 Barton St E (Lottridge), Hamilton ON L8L 3B2",Hamilton,L8L 3B2,ON,,"['Burger Joint', 'Fast Food Restaurant']"
+Subway,810 Main St E,CA,,"810 Main St E, Hamilton ON L8M 1L6",Hamilton,L8M 1L6,ON,Unit 1,"['Fast Food Restaurant', 'Sandwich Spot']"
+Tim Hortons,954 Barton St E,CA,,"954 Barton St E, Hamilton ON L8L 3C5",Hamilton,L8L 3C5,ON,,['Restaurant']
+Durand Coffee,142 Charlton Ave W,CA,Caroline St S.,"142 Charlton Ave W (Caroline St S.), Hamilton ON L8P 2C7",Hamilton,L8P 2C7,ON,,"['Café', 'Coffee Shop']"
+Earth to Table Bread Bar,258 Locke St S,CA,Herkimer St.,"258 Locke St S (Herkimer St.), Hamilton ON L8P 4B9",Hamilton,L8P 4B9,ON,,"['Bakery', 'Pizzeria']"
+Queen's Pizza & Wings,178 Queen St S,CA,at Duke St.,"178 Queen St S (at Duke St.), Hamilton ON L8P 3S7",Hamilton,L8P 3S7,ON,,['Pizzeria']
+One Duke Restaurant & Lounge,1 Duke St,CA,at James St. South,"1 Duke St (at James St. South), Hamilton ON L8P 1W9",Hamilton,L8P 1W9,ON,,"['American Restaurant', 'Comfort Food Restaurant', 'Italian Restaurant']"
+Donut Monster,246 Locke St S,CA,,"246 Locke St S, Hamilton ON L8P 4B9",Hamilton,L8P 4B9,ON,,"['Bagel Shop', 'Bakery', 'Restaurant']"
+Red Crow Coffee,211 James St S,CA,Charlton Ave,"211 James St S (Charlton Ave), Hamilton ON L8P 3B2",Hamilton,L8P 3B2,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+Brown Dog Coffee Shop,211 Locke St S,CA,,"211 Locke St S, Hamilton ON L8P 4B6",Hamilton,L8P 4B6,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+Wass Ethiopian Restaurant,207 James St N,CA,at Forest Ave.,"207 James St N (at Forest Ave.), Hamilton ON L8R 2L2",Hamilton,L8R 2L2,ON,,['Ethiopian Restaurant']
+Bronzie's Place,201 James St S,CA,at Forest Ave,"201 James St S (at Forest Ave), Hamilton ON L8P 3A8",Hamilton,L8P 3A8,ON,,['Pizzeria']
+Tomah,132 Queen St S,CA,,"132 Queen St S, Hamilton ON L8P 3S2",Hamilton,L8P 3S2,ON,,['Syrian Restaurant']
+La Luna Restaurant Downtown,306 King St W,CA,at Queen St,"306 King St W (at Queen St), Hamilton ON L8P 1B1",Hamilton,L8P 1B1,ON,,"['Lebanese Restaurant', 'Mediterranean Restaurant', 'Mexican Restaurant']"
+Coop Hamilton,274 King St W,CA,,"274 King St W, Hamilton ON L8P 1J6",Hamilton,L8P 1J6,ON,# 272,['Fried Chicken Joint']
+Smoke's Poutinerie,112 George St,CA,at Queen St. S.,"112 George St (at Queen St. S.), Hamilton ON L8P 1E2",Hamilton,L8P 1E2,ON,,"['Fast Food Restaurant', 'Poutine Restaurant', 'Steakhouse']"
+Coop Wicked Chicken Hamilton,274 King St W,CA,Hess St,"274 King St W (Hess St), Hamilton ON L8P 1J6",Hamilton,L8P 1J6,ON,# 272,['Fried Chicken Joint']
+Vida la Pita,217 King St W,CA,Caroline,"217 King St W (Caroline), Hamilton ON L8P 1A7",Hamilton,L8P 1A7,ON,,"['Fast Food Restaurant', 'Middle Eastern Restaurant']"
+Wimpy's Diner,405 Main St W,CA,,"405 Main St W, Hamilton ON L8P 1K5",Hamilton,L8P 1K5,ON,,['Diner']
+Brown Dog Coffee Shop,211 Locke St S,CA,,"211 Locke St S, Hamilton ON L8P 4B6",Hamilton,L8P 4B6,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+The Burnt Tongue,182 Locke St S,CA,Pine St.,"182 Locke St S (Pine St.), Hamilton ON L8P 4B3",Hamilton,L8P 4B3,ON,,['Soup Spot']
+Pizza Hut,610 King St W,CA,Dundurn,"610 King St W (Dundurn), Hamilton ON L8P 1C2",Hamilton,L8P 1C2,ON,,"['Pizzeria', 'Fast Food Restaurant']"
+Donut Monster,246 Locke St S,CA,,"246 Locke St S, Hamilton ON L8P 4B9",Hamilton,L8P 4B9,ON,,"['Bagel Shop', 'Bakery', 'Restaurant']"
+Queen's Pizza & Wings,838 King St E,CA,,"838 King St E, Hamilton ON L8M 1B4",Hamilton,L8M 1B4,ON,# 2,['Pizzeria']
+Bruno's Pizza & Wings,718 Main St E,CA,Sherman,"718 Main St E (Sherman), Hamilton ON L8M 1K9",Hamilton,L8M 1K9,ON,,['Pizzeria']
+Big Top Family Restaurant,754 Main St E,CA,,"754 Main St E, Hamilton ON L8M 1L1",Hamilton,L8M 1L1,ON,,['Diner']
+Subway,810 Main St E,CA,,"810 Main St E, Hamilton ON L8M 1L6",Hamilton,L8M 1L6,ON,Unit 1,"['Fast Food Restaurant', 'Sandwich Spot']"
+Vibez Caribbean and Southern Food,971 King St E,CA,,"971 King St E, Hamilton ON L8M 1C3",Hamilton,L8M 1C3,ON,,['Caribbean Restaurant']
+Tall Tree Sandwich Co,1000 King St E,CA,,"1000 King St E, Hamilton ON L8M 1C8",Hamilton,L8M 1C8,ON,,['Sandwich Spot']
+Festival Foods,1013 King St E,CA,Spadina,"1013 King St E (Spadina), Hamilton ON L8M 1C9",Hamilton,L8M 1C9,ON,,['Fast Food Restaurant']
+541 Eatery & Exchange,541 Barton St E,CA,,"541 Barton St E, Hamilton ON L8L 2Z2",Hamilton,L8L 2Z2,ON,,['Restaurant']
+DeRosa Bakery and Restaurant,71 Sanford Ave N,CA,,"71 Sanford Ave N, Hamilton ON L8L 5Y9",Hamilton,L8L 5Y9,ON,# 21,['Deli']
+Amir Pita and Grill,114 Sanford Ave N,CA,,"114 Sanford Ave N, Hamilton ON L8L 5Z2",Hamilton,L8L 5Z2,ON,Unit 2,"['Bar', 'Fast Food Restaurant', 'Middle Eastern Restaurant']"
+Hi-Line Centre Pizza & Wings,1150 King St E,CA,Gage,"1150 King St E (Gage), Hamilton ON L8M 1E8",Hamilton,L8M 1E8,ON,# 2,['Pizzeria']
+Festival Foods,1013 King St E,CA,Spadina,"1013 King St E (Spadina), Hamilton ON L8M 1C9",Hamilton,L8M 1C9,ON,,['Fast Food Restaurant']
+Tall Tree Sandwich Co,1000 King St E,CA,,"1000 King St E, Hamilton ON L8M 1C8",Hamilton,L8M 1C8,ON,,['Sandwich Spot']
+KFC,Barton St,CA,,"Barton St, Hamilton ON L8L 6Y5",Hamilton,L8L 6Y5,ON,,['Fast Food Restaurant']
+Vibez Caribbean and Southern Food,971 King St E,CA,,"971 King St E, Hamilton ON L8M 1C3",Hamilton,L8M 1C3,ON,,['Caribbean Restaurant']
+Subway,847 Barton St E,CA,,"847 Barton St E, Hamilton ON L8L 3B4",Hamilton,L8L 3B4,ON,,"['Fast Food Restaurant', 'Sandwich Spot']"
+KFC,856 Barton St E,CA,,"856 Barton St E, Hamilton ON L8L 3B5",Hamilton,L8L 3B5,ON,,['Fast Food Restaurant']
+McDonald's,787 Barton St E,CA,Lottridge,"787 Barton St E (Lottridge), Hamilton ON L8L 3B2",Hamilton,L8L 3B2,ON,,"['Burger Joint', 'Fast Food Restaurant']"
+Subway,810 Main St E,CA,,"810 Main St E, Hamilton ON L8M 1L6",Hamilton,L8M 1L6,ON,Unit 1,"['Fast Food Restaurant', 'Sandwich Spot']"
+Tim Hortons,954 Barton St E,CA,,"954 Barton St E, Hamilton ON L8L 3C5",Hamilton,L8L 3C5,ON,,['Restaurant']
+La Luna Restaurant Downtown,306 King St W,CA,at Queen St,"306 King St W (at Queen St), Hamilton ON L8P 1B1",Hamilton,L8P 1B1,ON,,"['Lebanese Restaurant', 'Mediterranean Restaurant', 'Mexican Restaurant']"
+Coop Hamilton,274 King St W,CA,,"274 King St W, Hamilton ON L8P 1J6",Hamilton,L8P 1J6,ON,# 272,['Fried Chicken Joint']
+Smoke's Poutinerie,112 George St,CA,at Queen St. S.,"112 George St (at Queen St. S.), Hamilton ON L8P 1E2",Hamilton,L8P 1E2,ON,,"['Fast Food Restaurant', 'Poutine Restaurant', 'Steakhouse']"
+Coop Wicked Chicken Hamilton,274 King St W,CA,Hess St,"274 King St W (Hess St), Hamilton ON L8P 1J6",Hamilton,L8P 1J6,ON,# 272,['Fried Chicken Joint']
+Vida la Pita,217 King St W,CA,Caroline,"217 King St W (Caroline), Hamilton ON L8P 1A7",Hamilton,L8P 1A7,ON,,"['Fast Food Restaurant', 'Middle Eastern Restaurant']"
+Wimpy's Diner,405 Main St W,CA,,"405 Main St W, Hamilton ON L8P 1K5",Hamilton,L8P 1K5,ON,,['Diner']
+Brown Dog Coffee Shop,211 Locke St S,CA,,"211 Locke St S, Hamilton ON L8P 4B6",Hamilton,L8P 4B6,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+The Burnt Tongue,182 Locke St S,CA,Pine St.,"182 Locke St S (Pine St.), Hamilton ON L8P 4B3",Hamilton,L8P 4B3,ON,,['Soup Spot']
+Pizza Hut,610 King St W,CA,Dundurn,"610 King St W (Dundurn), Hamilton ON L8P 1C2",Hamilton,L8P 1C2,ON,,"['Pizzeria', 'Fast Food Restaurant']"
+Donut Monster,246 Locke St S,CA,,"246 Locke St S, Hamilton ON L8P 4B9",Hamilton,L8P 4B9,ON,,"['Bagel Shop', 'Bakery', 'Restaurant']"
+Stonewalls,339 York Blvd,CA,Florence St,"339 York Blvd (Florence St), Hamilton ON L8R 3K5",Hamilton,L8R 3K5,ON,,"['Lounge', 'Gastropub', 'Fast Food Restaurant']"
+Pho Nhung,85 Queen St N,CA,,"85 Queen St N, Hamilton ON L8R 2V5",Hamilton,L8R 2V5,ON,,['Vietnamese Restaurant']
+Buona Vita Pizza,82 Queen St N,CA,,"82 Queen St N, Hamilton ON L8R 2V4",Hamilton,L8R 2V4,ON,# 3,['Pizzeria']
+Tung Hing Bakery,103 Queen St N,CA,,"103 Queen St N, Hamilton ON L8R 2V5",Hamilton,L8R 2V5,ON,,['Bakery']
+Durand Coffee,142 Charlton Ave W,CA,Caroline St S.,"142 Charlton Ave W (Caroline St S.), Hamilton ON L8P 2C7",Hamilton,L8P 2C7,ON,,"['Café', 'Coffee Shop']"
+Earth to Table Bread Bar,258 Locke St S,CA,Herkimer St.,"258 Locke St S (Herkimer St.), Hamilton ON L8P 4B9",Hamilton,L8P 4B9,ON,,"['Bakery', 'Pizzeria']"
+Queen's Pizza & Wings,178 Queen St S,CA,at Duke St.,"178 Queen St S (at Duke St.), Hamilton ON L8P 3S7",Hamilton,L8P 3S7,ON,,['Pizzeria']
+One Duke Restaurant & Lounge,1 Duke St,CA,at James St. South,"1 Duke St (at James St. South), Hamilton ON L8P 1W9",Hamilton,L8P 1W9,ON,,"['American Restaurant', 'Comfort Food Restaurant', 'Italian Restaurant']"
+Donut Monster,246 Locke St S,CA,,"246 Locke St S, Hamilton ON L8P 4B9",Hamilton,L8P 4B9,ON,,"['Bagel Shop', 'Bakery', 'Restaurant']"
+Red Crow Coffee,211 James St S,CA,Charlton Ave,"211 James St S (Charlton Ave), Hamilton ON L8P 3B2",Hamilton,L8P 3B2,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+Brown Dog Coffee Shop,211 Locke St S,CA,,"211 Locke St S, Hamilton ON L8P 4B6",Hamilton,L8P 4B6,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+Wass Ethiopian Restaurant,207 James St N,CA,at Forest Ave.,"207 James St N (at Forest Ave.), Hamilton ON L8R 2L2",Hamilton,L8R 2L2,ON,,['Ethiopian Restaurant']
+Bronzie's Place,201 James St S,CA,at Forest Ave,"201 James St S (at Forest Ave), Hamilton ON L8P 3A8",Hamilton,L8P 3A8,ON,,['Pizzeria']
+Tomah,132 Queen St S,CA,,"132 Queen St S, Hamilton ON L8P 3S2",Hamilton,L8P 3S2,ON,,['Syrian Restaurant']
+Mr Dumpling Express,50 Dundurn St S,CA,at Main St W,"50 Dundurn St S (at Main St W), Hamilton ON L8P 4W3",Hamilton,L8P 4W3,ON,,"['Chinese Restaurant', 'Fast Food Restaurant']"
+McDonald's,50 Dundurn St S,CA,at Main St W,"50 Dundurn St S (at Main St W), Hamilton ON L8P 4W3",Hamilton,L8P 4W3,ON,,"['Burger Joint', 'Fast Food Restaurant']"
+Subway,50 Dundurn St S,CA,at Main St W,"50 Dundurn St S (at Main St W), Hamilton ON L8P 4W3",Hamilton,L8P 4W3,ON,Unit 107,"['Fast Food Restaurant', 'Sandwich Spot']"
+Pizza Pizza,50 Dundurn St S,CA,,"50 Dundurn St S, Hamilton ON L8P 4W3",Hamilton,L8P 4W3,ON,Unit 4,"['Pizzeria', 'Fast Food Restaurant']"
+Shehnai Restaurant,447 Main St W,CA,,"447 Main St W, Hamilton ON L8P 1K5",Hamilton,L8P 1K5,ON,,"['Diner', 'Indian Restaurant']"
+Wimpy's Diner,405 Main St W,CA,,"405 Main St W, Hamilton ON L8P 1K5",Hamilton,L8P 1K5,ON,,['Diner']
+KFC,631 King St W,CA,,"631 King St W, Hamilton ON L8P 1C4",Hamilton,L8P 1C4,ON,,"['Fried Chicken Joint', 'Fast Food Restaurant']"
+Pizza Hut,610 King St W,CA,Dundurn,"610 King St W (Dundurn), Hamilton ON L8P 1C2",Hamilton,L8P 1C2,ON,,"['Pizzeria', 'Fast Food Restaurant']"
+Brown Dog Coffee Shop,211 Locke St S,CA,,"211 Locke St S, Hamilton ON L8P 4B6",Hamilton,L8P 4B6,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+The Burnt Tongue,182 Locke St S,CA,Pine St.,"182 Locke St S (Pine St.), Hamilton ON L8P 4B3",Hamilton,L8P 4B3,ON,,['Soup Spot']
+Mr Dumpling Express,50 Dundurn St S,CA,at Main St W,"50 Dundurn St S (at Main St W), Hamilton ON L8P 4W3",Hamilton,L8P 4W3,ON,,"['Chinese Restaurant', 'Fast Food Restaurant']"
+McDonald's,50 Dundurn St S,CA,at Main St W,"50 Dundurn St S (at Main St W), Hamilton ON L8P 4W3",Hamilton,L8P 4W3,ON,,"['Burger Joint', 'Fast Food Restaurant']"
+Subway,50 Dundurn St S,CA,at Main St W,"50 Dundurn St S (at Main St W), Hamilton ON L8P 4W3",Hamilton,L8P 4W3,ON,Unit 107,"['Fast Food Restaurant', 'Sandwich Spot']"
+Pizza Pizza,50 Dundurn St S,CA,,"50 Dundurn St S, Hamilton ON L8P 4W3",Hamilton,L8P 4W3,ON,Unit 4,"['Pizzeria', 'Fast Food Restaurant']"
+Shehnai Restaurant,447 Main St W,CA,,"447 Main St W, Hamilton ON L8P 1K5",Hamilton,L8P 1K5,ON,,"['Diner', 'Indian Restaurant']"
+Wimpy's Diner,405 Main St W,CA,,"405 Main St W, Hamilton ON L8P 1K5",Hamilton,L8P 1K5,ON,,['Diner']
+KFC,631 King St W,CA,,"631 King St W, Hamilton ON L8P 1C4",Hamilton,L8P 1C4,ON,,"['Fried Chicken Joint', 'Fast Food Restaurant']"
+Pizza Hut,610 King St W,CA,Dundurn,"610 King St W (Dundurn), Hamilton ON L8P 1C2",Hamilton,L8P 1C2,ON,,"['Pizzeria', 'Fast Food Restaurant']"
+Brown Dog Coffee Shop,211 Locke St S,CA,,"211 Locke St S, Hamilton ON L8P 4B6",Hamilton,L8P 4B6,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+The Burnt Tongue,182 Locke St S,CA,Pine St.,"182 Locke St S (Pine St.), Hamilton ON L8P 4B3",Hamilton,L8P 4B3,ON,,['Soup Spot']
+Aberdeen Tavern,432 Aberdeen Ave,CA,Dundurn Street,"432 Aberdeen Ave (Dundurn Street), Hamilton ON L8P 2S2",Hamilton,L8P 2S2,ON,,['American Restaurant']
+Earth to Table Bread Bar,258 Locke St S,CA,Herkimer St.,"258 Locke St S (Herkimer St.), Hamilton ON L8P 4B9",Hamilton,L8P 4B9,ON,,"['Bakery', 'Pizzeria']"
+Donut Monster,246 Locke St S,CA,,"246 Locke St S, Hamilton ON L8P 4B9",Hamilton,L8P 4B9,ON,,"['Bagel Shop', 'Bakery', 'Restaurant']"
+Dundurn Market,346 Dundurn St S,CA,Aberdeen Avenue,"346 Dundurn St S (Aberdeen Avenue), Hamilton ON L8P 4L6",Hamilton,L8P 4L6,ON,,"['Bistro', 'Café', 'Deli']"
+Brown Dog Coffee Shop,211 Locke St S,CA,,"211 Locke St S, Hamilton ON L8P 4B6",Hamilton,L8P 4B6,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+The Burnt Tongue,182 Locke St S,CA,Pine St.,"182 Locke St S (Pine St.), Hamilton ON L8P 4B3",Hamilton,L8P 4B3,ON,,['Soup Spot']
+Durand Coffee,142 Charlton Ave W,CA,Caroline St S.,"142 Charlton Ave W (Caroline St S.), Hamilton ON L8P 2C7",Hamilton,L8P 2C7,ON,,"['Café', 'Coffee Shop']"
+CIMA Enoteca,190 Locke St S,CA,,"190 Locke St S, Hamilton ON L8P 4B4",Hamilton,L8P 4B4,ON,,['Italian Restaurant']
+Delirious Burger Co,197 Locke St S,CA,,"197 Locke St S, Hamilton ON L8P 4B5",Hamilton,L8P 4B5,ON,,['Burger Joint']
+Queen's Pizza & Wings,178 Queen St S,CA,at Duke St.,"178 Queen St S (at Duke St.), Hamilton ON L8P 3S7",Hamilton,L8P 3S7,ON,,['Pizzeria']
+Pinks Burgers,1335 Main St W,CA,,"1335 Main St W, Hamilton ON L8S 1C6",Hamilton,L8S 1C6,ON,,['Burger Joint']
+Subway,1331 Main St W,CA,at Broadway Ave.,"1331 Main St W (at Broadway Ave.), Hamilton ON L8S 1C6",Hamilton,L8S 1C6,ON,Unit 3,"['Fast Food Restaurant', 'Sandwich Spot']"
+Second Cup Café,1280 Main Street West,CA,,"1280 Main Street West, Hamilton ON L8S 4K1",Hamilton,L8S 4K1,ON,,"['Café', 'Coffee Shop']"
+Maple Leaf Pancake House,1520 Main St W,CA,,"1520 Main St W, Hamilton ON L8S 1E3",Hamilton,L8S 1E3,ON,,['Diner']
+The Chopped Leaf,1280 Main St W,CA,,"1280 Main St W, Hamilton ON L8S 4L8",Hamilton,L8S 4L8,ON,,['Salad Restaurant']
+Williams Coffee Pub,1309 Main St W,CA,,"1309 Main St W, Hamilton ON L8S 1C5",Hamilton,L8S 1C5,ON,A-2,"['Bar', 'Café', 'Diner']"
+The Arch Noodle House,1309 Main St W,CA,,"1309 Main St W, Hamilton ON L8S 1C5",Hamilton,L8S 1C5,ON,,['Noodle Restaurant']
+McMaster Children's Hospital Cafeteria,1200 Main St W,CA,,"1200 Main St W, Hamilton ON",Hamilton,,ON,,['Food Court']
+Gino's Pizza,1309 Main St W,CA,at Broadway Ave,"1309 Main St W (at Broadway Ave), Hamilton ON L8S 1C5",Hamilton,L8S 1C5,ON,,['Pizzeria']
+Willy Dog,Scholars Rd,CA,King Street West,"Scholars Rd (King Street West), Hamilton ON",Hamilton,,ON,,['Food Truck']
+Pinks Burgers,1335 Main St W,CA,,"1335 Main St W, Hamilton ON L8S 1C6",Hamilton,L8S 1C6,ON,,['Burger Joint']
+Subway,1331 Main St W,CA,at Broadway Ave.,"1331 Main St W (at Broadway Ave.), Hamilton ON L8S 1C6",Hamilton,L8S 1C6,ON,Unit 3,"['Fast Food Restaurant', 'Sandwich Spot']"
+Second Cup Café,1280 Main Street West,CA,,"1280 Main Street West, Hamilton ON L8S 4K1",Hamilton,L8S 4K1,ON,,"['Café', 'Coffee Shop']"
+Maple Leaf Pancake House,1520 Main St W,CA,,"1520 Main St W, Hamilton ON L8S 1E3",Hamilton,L8S 1E3,ON,,['Diner']
+The Chopped Leaf,1280 Main St W,CA,,"1280 Main St W, Hamilton ON L8S 4L8",Hamilton,L8S 4L8,ON,,['Salad Restaurant']
+Williams Coffee Pub,1309 Main St W,CA,,"1309 Main St W, Hamilton ON L8S 1C5",Hamilton,L8S 1C5,ON,A-2,"['Bar', 'Café', 'Diner']"
+The Arch Noodle House,1309 Main St W,CA,,"1309 Main St W, Hamilton ON L8S 1C5",Hamilton,L8S 1C5,ON,,['Noodle Restaurant']
+McMaster Children's Hospital Cafeteria,1200 Main St W,CA,,"1200 Main St W, Hamilton ON",Hamilton,,ON,,['Food Court']
+Gino's Pizza,1309 Main St W,CA,at Broadway Ave,"1309 Main St W (at Broadway Ave), Hamilton ON L8S 1C5",Hamilton,L8S 1C5,ON,,['Pizzeria']
+Willy Dog,Scholars Rd,CA,King Street West,"Scholars Rd (King Street West), Hamilton ON",Hamilton,,ON,,['Food Truck']
+Pinks Burgers,1335 Main St W,CA,,"1335 Main St W, Hamilton ON L8S 1C6",Hamilton,L8S 1C6,ON,,['Burger Joint']
+Subway,1331 Main St W,CA,at Broadway Ave.,"1331 Main St W (at Broadway Ave.), Hamilton ON L8S 1C6",Hamilton,L8S 1C6,ON,Unit 3,"['Fast Food Restaurant', 'Sandwich Spot']"
+Second Cup Café,1280 Main Street West,CA,,"1280 Main Street West, Hamilton ON L8S 4K1",Hamilton,L8S 4K1,ON,,"['Café', 'Coffee Shop']"
+Maple Leaf Pancake House,1520 Main St W,CA,,"1520 Main St W, Hamilton ON L8S 1E3",Hamilton,L8S 1E3,ON,,['Diner']
+The Chopped Leaf,1280 Main St W,CA,,"1280 Main St W, Hamilton ON L8S 4L8",Hamilton,L8S 4L8,ON,,['Salad Restaurant']
+Williams Coffee Pub,1309 Main St W,CA,,"1309 Main St W, Hamilton ON L8S 1C5",Hamilton,L8S 1C5,ON,A-2,"['Bar', 'Café', 'Diner']"
+The Arch Noodle House,1309 Main St W,CA,,"1309 Main St W, Hamilton ON L8S 1C5",Hamilton,L8S 1C5,ON,,['Noodle Restaurant']
+McMaster Children's Hospital Cafeteria,1200 Main St W,CA,,"1200 Main St W, Hamilton ON",Hamilton,,ON,,['Food Court']
+Gino's Pizza,1309 Main St W,CA,at Broadway Ave,"1309 Main St W (at Broadway Ave), Hamilton ON L8S 1C5",Hamilton,L8S 1C5,ON,,['Pizzeria']
+Willy Dog,Scholars Rd,CA,King Street West,"Scholars Rd (King Street West), Hamilton ON",Hamilton,,ON,,['Food Truck']
+Pinks Burgers,1335 Main St W,CA,,"1335 Main St W, Hamilton ON L8S 1C6",Hamilton,L8S 1C6,ON,,['Burger Joint']
+Subway,1331 Main St W,CA,at Broadway Ave.,"1331 Main St W (at Broadway Ave.), Hamilton ON L8S 1C6",Hamilton,L8S 1C6,ON,Unit 3,"['Fast Food Restaurant', 'Sandwich Spot']"
+Second Cup Café,1280 Main Street West,CA,,"1280 Main Street West, Hamilton ON L8S 4K1",Hamilton,L8S 4K1,ON,,"['Café', 'Coffee Shop']"
+Maple Leaf Pancake House,1520 Main St W,CA,,"1520 Main St W, Hamilton ON L8S 1E3",Hamilton,L8S 1E3,ON,,['Diner']
+The Chopped Leaf,1280 Main St W,CA,,"1280 Main St W, Hamilton ON L8S 4L8",Hamilton,L8S 4L8,ON,,['Salad Restaurant']
+Williams Coffee Pub,1309 Main St W,CA,,"1309 Main St W, Hamilton ON L8S 1C5",Hamilton,L8S 1C5,ON,A-2,"['Bar', 'Café', 'Diner']"
+The Arch Noodle House,1309 Main St W,CA,,"1309 Main St W, Hamilton ON L8S 1C5",Hamilton,L8S 1C5,ON,,['Noodle Restaurant']
+McMaster Children's Hospital Cafeteria,1200 Main St W,CA,,"1200 Main St W, Hamilton ON",Hamilton,,ON,,['Food Court']
+Gino's Pizza,1309 Main St W,CA,at Broadway Ave,"1309 Main St W (at Broadway Ave), Hamilton ON L8S 1C5",Hamilton,L8S 1C5,ON,,['Pizzeria']
+Willy Dog,Scholars Rd,CA,King Street West,"Scholars Rd (King Street West), Hamilton ON",Hamilton,,ON,,['Food Truck']
+Valentino's Restaurant,824 King St W,CA,at Paradise Rd N,"824 King St W (at Paradise Rd N), Hamilton ON L8S 1K3",Hamilton,L8S 1K3,ON,,"['Bakery', 'Pizzeria', 'Italian Restaurant']"
+Second Cup Coffee Co,1004 King St W,CA,at Marion Ave,"1004 King St W (at Marion Ave), Hamilton ON L8S 1L1",Hamilton,L8S 1L1,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+Subway,1018 King St W,CA,Marion Ave. North,"1018 King St W (Marion Ave. North), Hamilton ON L8S 1L4",Hamilton,L8S 1L4,ON,,"['Fast Food Restaurant', 'Sandwich Spot']"
+Breezy Corners,1480 6 Hwy N,CA,Carlisle Rd,"1480 6 Hwy N (Carlisle Rd), Hamilton ON L8N 2Z7",Hamilton,L8N 2Z7,ON,,['American Restaurant']
+Ye Olde Squire,875 Main St W,CA,,"875 Main St W, Hamilton ON L8S 4P9",Hamilton,L8S 4P9,ON,,"['Bar', 'English Restaurant']"
+Valentino's Restaurant,824 King St W,CA,at Paradise Rd N,"824 King St W (at Paradise Rd N), Hamilton ON L8S 1K3",Hamilton,L8S 1K3,ON,,"['Bakery', 'Pizzeria', 'Italian Restaurant']"
+The Hungry Traveler Hamilton,649 Main St W,CA,,"649 Main St W, Hamilton ON L8S 1A2",Hamilton,L8S 1A2,ON,,"['Breakfast Spot', 'American Restaurant']"
+Saigon Asian Restaurant,1024 King St W,CA,,"1024 King St W, Hamilton ON L8S 1L5",Hamilton,L8S 1L5,ON,,['Vietnamese Restaurant']
+Burrito Bandidos,1028 King St W,CA,Paisley Ave. N.,"1028 King St W (Paisley Ave. N.), Hamilton ON L8S 1L5",Hamilton,L8S 1L5,ON,,"['Fast Food Restaurant', 'Burrito Restaurant']"
+Second Cup Coffee Co,1004 King St W,CA,at Marion Ave,"1004 King St W (at Marion Ave), Hamilton ON L8S 1L1",Hamilton,L8S 1L1,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+Subway,1018 King St W,CA,Marion Ave. North,"1018 King St W (Marion Ave. North), Hamilton ON L8S 1L4",Hamilton,L8S 1L4,ON,,"['Fast Food Restaurant', 'Sandwich Spot']"
+Pita Pit,1056 King St W,CA,,"1056 King St W, Hamilton ON L8S 1L7",Hamilton,L8S 1L7,ON,Hamilton-Westdale,"['Sandwich Spot', 'Restaurant']"
+Mr Dumpling Express,50 Dundurn St S,CA,at Main St W,"50 Dundurn St S (at Main St W), Hamilton ON L8P 4W3",Hamilton,L8P 4W3,ON,,"['Chinese Restaurant', 'Fast Food Restaurant']"
+Subway,50 Dundurn St S,CA,at Main St W,"50 Dundurn St S (at Main St W), Hamilton ON L8P 4W3",Hamilton,L8P 4W3,ON,Unit 107,"['Fast Food Restaurant', 'Sandwich Spot']"
+Mr. Sub,1144 Main St W,CA,,"1144 Main St W, Hamilton ON L8S 1C1",Hamilton,L8S 1C1,ON,,"['Restaurant', 'Sandwich Spot']"
+Caribbean Flavah,1122 Main St W,CA,Cline Avenue South,"1122 Main St W (Cline Avenue South), Hamilton ON L8S 1C1",Hamilton,L8S 1C1,ON,,"['Pizzeria', 'Caribbean Restaurant']"
+South China Chinese Food,1223 Main St W,CA,Stroud Road,"1223 Main St W (Stroud Road), Hamilton ON L8S 1C3",Hamilton,L8S 1C3,ON,,"['Cantonese Restaurant', 'Fast Food Restaurant']"
+Webers Hamburgers,8844 11 Hwy S,CA,,"8844 11 Hwy S, Orillia ON L3V 6H3",Orillia,L3V 6H3,ON,,['Burger Joint']
+Ye Olde Squire,875 Main St W,CA,,"875 Main St W, Hamilton ON L8S 4P9",Hamilton,L8S 4P9,ON,,"['Bar', 'English Restaurant']"
+Valentino's Restaurant,824 King St W,CA,at Paradise Rd N,"824 King St W (at Paradise Rd N), Hamilton ON L8S 1K3",Hamilton,L8S 1K3,ON,,"['Bakery', 'Pizzeria', 'Italian Restaurant']"
+The Hungry Traveler Hamilton,649 Main St W,CA,,"649 Main St W, Hamilton ON L8S 1A2",Hamilton,L8S 1A2,ON,,"['Breakfast Spot', 'American Restaurant']"
+Saigon Asian Restaurant,1024 King St W,CA,,"1024 King St W, Hamilton ON L8S 1L5",Hamilton,L8S 1L5,ON,,['Vietnamese Restaurant']
+Burrito Bandidos,1028 King St W,CA,Paisley Ave. N.,"1028 King St W (Paisley Ave. N.), Hamilton ON L8S 1L5",Hamilton,L8S 1L5,ON,,"['Fast Food Restaurant', 'Burrito Restaurant']"
+Second Cup Coffee Co,1004 King St W,CA,at Marion Ave,"1004 King St W (at Marion Ave), Hamilton ON L8S 1L1",Hamilton,L8S 1L1,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+Subway,1018 King St W,CA,Marion Ave. North,"1018 King St W (Marion Ave. North), Hamilton ON L8S 1L4",Hamilton,L8S 1L4,ON,,"['Fast Food Restaurant', 'Sandwich Spot']"
+Pita Pit,1056 King St W,CA,,"1056 King St W, Hamilton ON L8S 1L7",Hamilton,L8S 1L7,ON,Hamilton-Westdale,"['Sandwich Spot', 'Restaurant']"
+Mr Dumpling Express,50 Dundurn St S,CA,at Main St W,"50 Dundurn St S (at Main St W), Hamilton ON L8P 4W3",Hamilton,L8P 4W3,ON,,"['Chinese Restaurant', 'Fast Food Restaurant']"
+Subway,50 Dundurn St S,CA,at Main St W,"50 Dundurn St S (at Main St W), Hamilton ON L8P 4W3",Hamilton,L8P 4W3,ON,Unit 107,"['Fast Food Restaurant', 'Sandwich Spot']"
+Ye Olde Squire,875 Main St W,CA,,"875 Main St W, Hamilton ON L8S 4P9",Hamilton,L8S 4P9,ON,,"['Bar', 'English Restaurant']"
+Valentino's Restaurant,824 King St W,CA,at Paradise Rd N,"824 King St W (at Paradise Rd N), Hamilton ON L8S 1K3",Hamilton,L8S 1K3,ON,,"['Bakery', 'Pizzeria', 'Italian Restaurant']"
+The Hungry Traveler Hamilton,649 Main St W,CA,,"649 Main St W, Hamilton ON L8S 1A2",Hamilton,L8S 1A2,ON,,"['Breakfast Spot', 'American Restaurant']"
+Saigon Asian Restaurant,1024 King St W,CA,,"1024 King St W, Hamilton ON L8S 1L5",Hamilton,L8S 1L5,ON,,['Vietnamese Restaurant']
+Burrito Bandidos,1028 King St W,CA,Paisley Ave. N.,"1028 King St W (Paisley Ave. N.), Hamilton ON L8S 1L5",Hamilton,L8S 1L5,ON,,"['Fast Food Restaurant', 'Burrito Restaurant']"
+Second Cup Coffee Co,1004 King St W,CA,at Marion Ave,"1004 King St W (at Marion Ave), Hamilton ON L8S 1L1",Hamilton,L8S 1L1,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+Subway,1018 King St W,CA,Marion Ave. North,"1018 King St W (Marion Ave. North), Hamilton ON L8S 1L4",Hamilton,L8S 1L4,ON,,"['Fast Food Restaurant', 'Sandwich Spot']"
+Pita Pit,1056 King St W,CA,,"1056 King St W, Hamilton ON L8S 1L7",Hamilton,L8S 1L7,ON,Hamilton-Westdale,"['Sandwich Spot', 'Restaurant']"
+Mr Dumpling Express,50 Dundurn St S,CA,at Main St W,"50 Dundurn St S (at Main St W), Hamilton ON L8P 4W3",Hamilton,L8P 4W3,ON,,"['Chinese Restaurant', 'Fast Food Restaurant']"
+Subway,50 Dundurn St S,CA,at Main St W,"50 Dundurn St S (at Main St W), Hamilton ON L8P 4W3",Hamilton,L8P 4W3,ON,Unit 107,"['Fast Food Restaurant', 'Sandwich Spot']"
+Aberdeen Tavern,432 Aberdeen Ave,CA,Dundurn Street,"432 Aberdeen Ave (Dundurn Street), Hamilton ON L8P 2S2",Hamilton,L8P 2S2,ON,,['American Restaurant']
+Earth to Table Bread Bar,258 Locke St S,CA,Herkimer St.,"258 Locke St S (Herkimer St.), Hamilton ON L8P 4B9",Hamilton,L8P 4B9,ON,,"['Bakery', 'Pizzeria']"
+Donut Monster,246 Locke St S,CA,,"246 Locke St S, Hamilton ON L8P 4B9",Hamilton,L8P 4B9,ON,,"['Bagel Shop', 'Bakery', 'Restaurant']"
+Dundurn Market,346 Dundurn St S,CA,Aberdeen Avenue,"346 Dundurn St S (Aberdeen Avenue), Hamilton ON L8P 4L6",Hamilton,L8P 4L6,ON,,"['Bistro', 'Café', 'Deli']"
+Brown Dog Coffee Shop,211 Locke St S,CA,,"211 Locke St S, Hamilton ON L8P 4B6",Hamilton,L8P 4B6,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+The Burnt Tongue,182 Locke St S,CA,Pine St.,"182 Locke St S (Pine St.), Hamilton ON L8P 4B3",Hamilton,L8P 4B3,ON,,['Soup Spot']
+Durand Coffee,142 Charlton Ave W,CA,Caroline St S.,"142 Charlton Ave W (Caroline St S.), Hamilton ON L8P 2C7",Hamilton,L8P 2C7,ON,,"['Café', 'Coffee Shop']"
+CIMA Enoteca,190 Locke St S,CA,,"190 Locke St S, Hamilton ON L8P 4B4",Hamilton,L8P 4B4,ON,,['Italian Restaurant']
+Delirious Burger Co,197 Locke St S,CA,,"197 Locke St S, Hamilton ON L8P 4B5",Hamilton,L8P 4B5,ON,,['Burger Joint']
+Queen's Pizza & Wings,178 Queen St S,CA,at Duke St.,"178 Queen St S (at Duke St.), Hamilton ON L8P 3S7",Hamilton,L8P 3S7,ON,,['Pizzeria']
+Aberdeen Tavern,432 Aberdeen Ave,CA,Dundurn Street,"432 Aberdeen Ave (Dundurn Street), Hamilton ON L8P 2S2",Hamilton,L8P 2S2,ON,,['American Restaurant']
+Earth to Table Bread Bar,258 Locke St S,CA,Herkimer St.,"258 Locke St S (Herkimer St.), Hamilton ON L8P 4B9",Hamilton,L8P 4B9,ON,,"['Bakery', 'Pizzeria']"
+Donut Monster,246 Locke St S,CA,,"246 Locke St S, Hamilton ON L8P 4B9",Hamilton,L8P 4B9,ON,,"['Bagel Shop', 'Bakery', 'Restaurant']"
+Dundurn Market,346 Dundurn St S,CA,Aberdeen Avenue,"346 Dundurn St S (Aberdeen Avenue), Hamilton ON L8P 4L6",Hamilton,L8P 4L6,ON,,"['Bistro', 'Café', 'Deli']"
+Brown Dog Coffee Shop,211 Locke St S,CA,,"211 Locke St S, Hamilton ON L8P 4B6",Hamilton,L8P 4B6,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+The Burnt Tongue,182 Locke St S,CA,Pine St.,"182 Locke St S (Pine St.), Hamilton ON L8P 4B3",Hamilton,L8P 4B3,ON,,['Soup Spot']
+Durand Coffee,142 Charlton Ave W,CA,Caroline St S.,"142 Charlton Ave W (Caroline St S.), Hamilton ON L8P 2C7",Hamilton,L8P 2C7,ON,,"['Café', 'Coffee Shop']"
+CIMA Enoteca,190 Locke St S,CA,,"190 Locke St S, Hamilton ON L8P 4B4",Hamilton,L8P 4B4,ON,,['Italian Restaurant']
+Delirious Burger Co,197 Locke St S,CA,,"197 Locke St S, Hamilton ON L8P 4B5",Hamilton,L8P 4B5,ON,,['Burger Joint']
+Queen's Pizza & Wings,178 Queen St S,CA,at Duke St.,"178 Queen St S (at Duke St.), Hamilton ON L8P 3S7",Hamilton,L8P 3S7,ON,,['Pizzeria']
+Detour Roaster's Cafe,41B King St W,CA,Miller's Line,"41B King St W (Miller's Line), Dundas ON L9H 1T5",Dundas,L9H 1T5,ON,,"['Café', 'Soup Spot']"
+Subway,38 York Rd,CA,,"38 York Rd, Dundas ON L9H 1L4",Dundas,L9H 1L4,ON,,"['Deli', 'Fast Food Restaurant']"
+Bangkok Spoon Deluxe,57 King St W,CA,btw Millers Ln & Sydenham St,"57 King St W (btw Millers Ln & Sydenham St), Dundas ON L9H 1T5",Dundas,L9H 1T5,ON,,"['Soup Spot', 'Thai Restaurant']"
+Quatrefoil Restaurant,16 Sydenham St,CA,near King St W,"16 Sydenham St (near King St W), Dundas ON L9H 2T4",Dundas,L9H 2T4,ON,,['French Restaurant']
+Emilio's,117 King St E,CA,btw Albert St & Sydenham St,"117 King St E (btw Albert St & Sydenham St), Dundas ON L8N 1A9",Dundas,L8N 1A9,ON,,"['Bakery', 'Pizzeria', 'Fast Food Restaurant']"
+Pizza Pizza,4 Cootes Dr,CA,,"4 Cootes Dr, Dundas ON L9H 1A9",Dundas,L9H 1A9,ON,,"['Pizzeria', 'Fast Food Restaurant']"
+KFC,49 King St E,CA,,"49 King St E, Dundas ON L9H 1B7",Dundas,L9H 1B7,ON,Suite 3,"['Fast Food Restaurant', 'Fried Chicken Joint']"
+Master 2 For 1 Pizza,24 King St E,CA,,"24 King St E, Dundas ON L9H 1B8",Dundas,L9H 1B8,ON,,['Pizzeria']
+Thirsty Cactus Cantina & Grill,2 King St E,CA,at Main St.,"2 King St E (at Main St.), Dundas ON L9H 1B8",Dundas,L9H 1B8,ON,,['Mexican Restaurant']
+McDonald's,120 King St W,CA,,"120 King St W, Hamilton ON L8P 4V2",Hamilton,L8P 4V2,ON,,"['Burger Joint', 'Fast Food Restaurant']"
+Pizza Hut,610 King St W,CA,Dundurn,"610 King St W (Dundurn), Hamilton ON L8P 1C2",Hamilton,L8P 1C2,ON,,"['Pizzeria', 'Fast Food Restaurant']"
+KFC,631 King St W,CA,,"631 King St W, Hamilton ON L8P 1C4",Hamilton,L8P 1C4,ON,,"['Fried Chicken Joint', 'Fast Food Restaurant']"
+Mr Dumpling Express,50 Dundurn St S,CA,at Main St W,"50 Dundurn St S (at Main St W), Hamilton ON L8P 4W3",Hamilton,L8P 4W3,ON,,"['Chinese Restaurant', 'Fast Food Restaurant']"
+Pizza Pizza,50 Dundurn St S,CA,,"50 Dundurn St S, Hamilton ON L8P 4W3",Hamilton,L8P 4W3,ON,Unit 4,"['Pizzeria', 'Fast Food Restaurant']"
+Breezy Corners,1480 6 Hwy N,CA,Carlisle Rd,"1480 6 Hwy N (Carlisle Rd), Hamilton ON L8N 2Z7",Hamilton,L8N 2Z7,ON,,['American Restaurant']
+La Luna Restaurant Downtown,306 King St W,CA,at Queen St,"306 King St W (at Queen St), Hamilton ON L8P 1B1",Hamilton,L8P 1B1,ON,,"['Lebanese Restaurant', 'Mediterranean Restaurant', 'Mexican Restaurant']"
+Coop Hamilton,274 King St W,CA,,"274 King St W, Hamilton ON L8P 1J6",Hamilton,L8P 1J6,ON,# 272,['Fried Chicken Joint']
+Smoke's Poutinerie,112 George St,CA,at Queen St. S.,"112 George St (at Queen St. S.), Hamilton ON L8P 1E2",Hamilton,L8P 1E2,ON,,"['Fast Food Restaurant', 'Poutine Restaurant', 'Steakhouse']"
+Coop Wicked Chicken Hamilton,274 King St W,CA,Hess St,"274 King St W (Hess St), Hamilton ON L8P 1J6",Hamilton,L8P 1J6,ON,# 272,['Fried Chicken Joint']
+Vida la Pita,217 King St W,CA,Caroline,"217 King St W (Caroline), Hamilton ON L8P 1A7",Hamilton,L8P 1A7,ON,,"['Fast Food Restaurant', 'Middle Eastern Restaurant']"
+Wimpy's Diner,405 Main St W,CA,,"405 Main St W, Hamilton ON L8P 1K5",Hamilton,L8P 1K5,ON,,['Diner']
+Brown Dog Coffee Shop,211 Locke St S,CA,,"211 Locke St S, Hamilton ON L8P 4B6",Hamilton,L8P 4B6,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+The Burnt Tongue,182 Locke St S,CA,Pine St.,"182 Locke St S (Pine St.), Hamilton ON L8P 4B3",Hamilton,L8P 4B3,ON,,['Soup Spot']
+Pizza Hut,610 King St W,CA,Dundurn,"610 King St W (Dundurn), Hamilton ON L8P 1C2",Hamilton,L8P 1C2,ON,,"['Pizzeria', 'Fast Food Restaurant']"
+Donut Monster,246 Locke St S,CA,,"246 Locke St S, Hamilton ON L8P 4B9",Hamilton,L8P 4B9,ON,,"['Bagel Shop', 'Bakery', 'Restaurant']"
+Pinks Burgers,1335 Main St W,CA,,"1335 Main St W, Hamilton ON L8S 1C6",Hamilton,L8S 1C6,ON,,['Burger Joint']
+Subway,1331 Main St W,CA,at Broadway Ave.,"1331 Main St W (at Broadway Ave.), Hamilton ON L8S 1C6",Hamilton,L8S 1C6,ON,Unit 3,"['Fast Food Restaurant', 'Sandwich Spot']"
+Maple Leaf Pancake House,1520 Main St W,CA,,"1520 Main St W, Hamilton ON L8S 1E3",Hamilton,L8S 1E3,ON,,['Diner']
+Williams Coffee Pub,1309 Main St W,CA,,"1309 Main St W, Hamilton ON L8S 1C5",Hamilton,L8S 1C5,ON,A-2,"['Bar', 'Café', 'Diner']"
+Tally Ho Restaurants,1536 Main St W,CA,,"1536 Main St W, Hamilton ON L8S 1E4",Hamilton,L8S 1E4,ON,,"['Chinese Restaurant', 'Fast Food Restaurant', 'Greek Restaurant']"
+Gino's Pizza,1309 Main St W,CA,at Broadway Ave,"1309 Main St W (at Broadway Ave), Hamilton ON L8S 1C5",Hamilton,L8S 1C5,ON,,['Pizzeria']
+The Arch Noodle House,1309 Main St W,CA,,"1309 Main St W, Hamilton ON L8S 1C5",Hamilton,L8S 1C5,ON,,['Noodle Restaurant']
+Dough Box Pizza and Pasta,1457 Main St W,CA,,"1457 Main St W, Hamilton ON L8S 1C9",Hamilton,L8S 1C9,ON,,['Pizzeria']
+Beijing Hut,1467 Main St W,CA,,"1467 Main St W, Hamilton ON L8S 1C9",Hamilton,L8S 1C9,ON,,['Chinese Restaurant']
+Second Cup Café,1280 Main Street West,CA,,"1280 Main Street West, Hamilton ON L8S 4K1",Hamilton,L8S 4K1,ON,,"['Café', 'Coffee Shop']"
+Ye Olde Squire,875 Main St W,CA,,"875 Main St W, Hamilton ON L8S 4P9",Hamilton,L8S 4P9,ON,,"['Bar', 'English Restaurant']"
+Valentino's Restaurant,824 King St W,CA,at Paradise Rd N,"824 King St W (at Paradise Rd N), Hamilton ON L8S 1K3",Hamilton,L8S 1K3,ON,,"['Bakery', 'Pizzeria', 'Italian Restaurant']"
+The Hungry Traveler Hamilton,649 Main St W,CA,,"649 Main St W, Hamilton ON L8S 1A2",Hamilton,L8S 1A2,ON,,"['Breakfast Spot', 'American Restaurant']"
+Saigon Asian Restaurant,1024 King St W,CA,,"1024 King St W, Hamilton ON L8S 1L5",Hamilton,L8S 1L5,ON,,['Vietnamese Restaurant']
+Burrito Bandidos,1028 King St W,CA,Paisley Ave. N.,"1028 King St W (Paisley Ave. N.), Hamilton ON L8S 1L5",Hamilton,L8S 1L5,ON,,"['Fast Food Restaurant', 'Burrito Restaurant']"
+Second Cup Coffee Co,1004 King St W,CA,at Marion Ave,"1004 King St W (at Marion Ave), Hamilton ON L8S 1L1",Hamilton,L8S 1L1,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+Subway,1018 King St W,CA,Marion Ave. North,"1018 King St W (Marion Ave. North), Hamilton ON L8S 1L4",Hamilton,L8S 1L4,ON,,"['Fast Food Restaurant', 'Sandwich Spot']"
+Pita Pit,1056 King St W,CA,,"1056 King St W, Hamilton ON L8S 1L7",Hamilton,L8S 1L7,ON,Hamilton-Westdale,"['Sandwich Spot', 'Restaurant']"
+Mr Dumpling Express,50 Dundurn St S,CA,at Main St W,"50 Dundurn St S (at Main St W), Hamilton ON L8P 4W3",Hamilton,L8P 4W3,ON,,"['Chinese Restaurant', 'Fast Food Restaurant']"
+Subway,50 Dundurn St S,CA,at Main St W,"50 Dundurn St S (at Main St W), Hamilton ON L8P 4W3",Hamilton,L8P 4W3,ON,Unit 107,"['Fast Food Restaurant', 'Sandwich Spot']"
+Pinks Burgers,1335 Main St W,CA,,"1335 Main St W, Hamilton ON L8S 1C6",Hamilton,L8S 1C6,ON,,['Burger Joint']
+Subway,1331 Main St W,CA,at Broadway Ave.,"1331 Main St W (at Broadway Ave.), Hamilton ON L8S 1C6",Hamilton,L8S 1C6,ON,Unit 3,"['Fast Food Restaurant', 'Sandwich Spot']"
+Maple Leaf Pancake House,1520 Main St W,CA,,"1520 Main St W, Hamilton ON L8S 1E3",Hamilton,L8S 1E3,ON,,['Diner']
+Williams Coffee Pub,1309 Main St W,CA,,"1309 Main St W, Hamilton ON L8S 1C5",Hamilton,L8S 1C5,ON,A-2,"['Bar', 'Café', 'Diner']"
+Tally Ho Restaurants,1536 Main St W,CA,,"1536 Main St W, Hamilton ON L8S 1E4",Hamilton,L8S 1E4,ON,,"['Chinese Restaurant', 'Fast Food Restaurant', 'Greek Restaurant']"
+Gino's Pizza,1309 Main St W,CA,at Broadway Ave,"1309 Main St W (at Broadway Ave), Hamilton ON L8S 1C5",Hamilton,L8S 1C5,ON,,['Pizzeria']
+The Arch Noodle House,1309 Main St W,CA,,"1309 Main St W, Hamilton ON L8S 1C5",Hamilton,L8S 1C5,ON,,['Noodle Restaurant']
+Dough Box Pizza and Pasta,1457 Main St W,CA,,"1457 Main St W, Hamilton ON L8S 1C9",Hamilton,L8S 1C9,ON,,['Pizzeria']
+Beijing Hut,1467 Main St W,CA,,"1467 Main St W, Hamilton ON L8S 1C9",Hamilton,L8S 1C9,ON,,['Chinese Restaurant']
+Second Cup Café,1280 Main Street West,CA,,"1280 Main Street West, Hamilton ON L8S 4K1",Hamilton,L8S 4K1,ON,,"['Café', 'Coffee Shop']"
+Saigon Asian Restaurant,1024 King St W,CA,,"1024 King St W, Hamilton ON L8S 1L5",Hamilton,L8S 1L5,ON,,['Vietnamese Restaurant']
+Pita Pit,1056 King St W,CA,,"1056 King St W, Hamilton ON L8S 1L7",Hamilton,L8S 1L7,ON,Hamilton-Westdale,"['Sandwich Spot', 'Restaurant']"
+Burrito Bandidos,1028 King St W,CA,Paisley Ave. N.,"1028 King St W (Paisley Ave. N.), Hamilton ON L8S 1L5",Hamilton,L8S 1L5,ON,,"['Fast Food Restaurant', 'Burrito Restaurant']"
+Second Cup Coffee Co,1004 King St W,CA,at Marion Ave,"1004 King St W (at Marion Ave), Hamilton ON L8S 1L1",Hamilton,L8S 1L1,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+Ye Olde Squire,875 Main St W,CA,,"875 Main St W, Hamilton ON L8S 4P9",Hamilton,L8S 4P9,ON,,"['Bar', 'English Restaurant']"
+Pinks Burgers,1335 Main St W,CA,,"1335 Main St W, Hamilton ON L8S 1C6",Hamilton,L8S 1C6,ON,,['Burger Joint']
+Valentino's Restaurant,824 King St W,CA,at Paradise Rd N,"824 King St W (at Paradise Rd N), Hamilton ON L8S 1K3",Hamilton,L8S 1K3,ON,,"['Bakery', 'Pizzeria', 'Italian Restaurant']"
+Mac Farmstand,1280 Main St W,CA,,"1280 Main St W, Hamilton ON",Hamilton,,ON,,['Grocery Store']
+The Chopped Leaf,1280 Main St W,CA,,"1280 Main St W, Hamilton ON L8S 4L8",Hamilton,L8S 4L8,ON,,['Salad Restaurant']
+Saigon Asian Restaurant,1024 King St W,CA,,"1024 King St W, Hamilton ON L8S 1L5",Hamilton,L8S 1L5,ON,,['Vietnamese Restaurant']
+Pita Pit,1056 King St W,CA,,"1056 King St W, Hamilton ON L8S 1L7",Hamilton,L8S 1L7,ON,Hamilton-Westdale,"['Sandwich Spot', 'Restaurant']"
+Burrito Bandidos,1028 King St W,CA,Paisley Ave. N.,"1028 King St W (Paisley Ave. N.), Hamilton ON L8S 1L5",Hamilton,L8S 1L5,ON,,"['Fast Food Restaurant', 'Burrito Restaurant']"
+Second Cup Coffee Co,1004 King St W,CA,at Marion Ave,"1004 King St W (at Marion Ave), Hamilton ON L8S 1L1",Hamilton,L8S 1L1,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+Ye Olde Squire,875 Main St W,CA,,"875 Main St W, Hamilton ON L8S 4P9",Hamilton,L8S 4P9,ON,,"['Bar', 'English Restaurant']"
+Pinks Burgers,1335 Main St W,CA,,"1335 Main St W, Hamilton ON L8S 1C6",Hamilton,L8S 1C6,ON,,['Burger Joint']
+Valentino's Restaurant,824 King St W,CA,at Paradise Rd N,"824 King St W (at Paradise Rd N), Hamilton ON L8S 1K3",Hamilton,L8S 1K3,ON,,"['Bakery', 'Pizzeria', 'Italian Restaurant']"
+Mac Farmstand,1280 Main St W,CA,,"1280 Main St W, Hamilton ON",Hamilton,,ON,,['Grocery Store']
+The Chopped Leaf,1280 Main St W,CA,,"1280 Main St W, Hamilton ON L8S 4L8",Hamilton,L8S 4L8,ON,,['Salad Restaurant']
+Joya Restaurant,1630 Main St W,CA,,"1630 Main St W, Hamilton ON L8S 1G3",Hamilton,L8S 1G3,ON,,['Sushi Restaurant']
+Boston Pizza,1563 Main St W,CA,Cottrill St.,"1563 Main St W (Cottrill St.), Hamilton ON L8S 1E6",Hamilton,L8S 1E6,ON,Cottrill St,['Pizzeria']
+Maple Leaf Pancake House,1520 Main St W,CA,,"1520 Main St W, Hamilton ON L8S 1E3",Hamilton,L8S 1E3,ON,,['Diner']
+Popeye's Louisiana Kitchen,1711 Main St W,CA,,"1711 Main St W, Hamilton ON L8S 1G5",Hamilton,L8S 1G5,ON,,"['Fried Chicken Joint', 'Fast Food Restaurant']"
+Tally Ho Restaurants,1536 Main St W,CA,,"1536 Main St W, Hamilton ON L8S 1E4",Hamilton,L8S 1E4,ON,,"['Chinese Restaurant', 'Fast Food Restaurant', 'Greek Restaurant']"
+Pinks Burgers,1335 Main St W,CA,,"1335 Main St W, Hamilton ON L8S 1C6",Hamilton,L8S 1C6,ON,,['Burger Joint']
+Subway,1331 Main St W,CA,at Broadway Ave.,"1331 Main St W (at Broadway Ave.), Hamilton ON L8S 1C6",Hamilton,L8S 1C6,ON,Unit 3,"['Fast Food Restaurant', 'Sandwich Spot']"
+East Side Mario's Dundas,119 Osler Dr,CA,,"119 Osler Dr, Dundas ON L9H 6X4",Dundas,L9H 6X4,ON,Unit 1,['Restaurant']
+Subway,119 Osler Dr,CA,,"119 Osler Dr, Dundas ON L9H 6X4",Dundas,L9H 6X4,ON,Unit 11,"['Fast Food Restaurant', 'Sandwich Spot']"
+KFC,119 Osler Dr,CA,,"119 Osler Dr, Hamilton ON L9H 6X4",Hamilton,L9H 6X4,ON,,"['Fried Chicken Joint', 'Fast Food Restaurant']"
+Saigon Asian Restaurant,1024 King St W,CA,,"1024 King St W, Hamilton ON L8S 1L5",Hamilton,L8S 1L5,ON,,['Vietnamese Restaurant']
+Pita Pit,1056 King St W,CA,,"1056 King St W, Hamilton ON L8S 1L7",Hamilton,L8S 1L7,ON,Hamilton-Westdale,"['Sandwich Spot', 'Restaurant']"
+Burrito Bandidos,1028 King St W,CA,Paisley Ave. N.,"1028 King St W (Paisley Ave. N.), Hamilton ON L8S 1L5",Hamilton,L8S 1L5,ON,,"['Fast Food Restaurant', 'Burrito Restaurant']"
+Second Cup Coffee Co,1004 King St W,CA,at Marion Ave,"1004 King St W (at Marion Ave), Hamilton ON L8S 1L1",Hamilton,L8S 1L1,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+Ye Olde Squire,875 Main St W,CA,,"875 Main St W, Hamilton ON L8S 4P9",Hamilton,L8S 4P9,ON,,"['Bar', 'English Restaurant']"
+Pinks Burgers,1335 Main St W,CA,,"1335 Main St W, Hamilton ON L8S 1C6",Hamilton,L8S 1C6,ON,,['Burger Joint']
+Valentino's Restaurant,824 King St W,CA,at Paradise Rd N,"824 King St W (at Paradise Rd N), Hamilton ON L8S 1K3",Hamilton,L8S 1K3,ON,,"['Bakery', 'Pizzeria', 'Italian Restaurant']"
+Mac Farmstand,1280 Main St W,CA,,"1280 Main St W, Hamilton ON",Hamilton,,ON,,['Grocery Store']
+The Chopped Leaf,1280 Main St W,CA,,"1280 Main St W, Hamilton ON L8S 4L8",Hamilton,L8S 4L8,ON,,['Salad Restaurant']
+Pinks Burgers,1335 Main St W,CA,,"1335 Main St W, Hamilton ON L8S 1C6",Hamilton,L8S 1C6,ON,,['Burger Joint']
+Subway,1331 Main St W,CA,at Broadway Ave.,"1331 Main St W (at Broadway Ave.), Hamilton ON L8S 1C6",Hamilton,L8S 1C6,ON,Unit 3,"['Fast Food Restaurant', 'Sandwich Spot']"
+Maple Leaf Pancake House,1520 Main St W,CA,,"1520 Main St W, Hamilton ON L8S 1E3",Hamilton,L8S 1E3,ON,,['Diner']
+Williams Coffee Pub,1309 Main St W,CA,,"1309 Main St W, Hamilton ON L8S 1C5",Hamilton,L8S 1C5,ON,A-2,"['Bar', 'Café', 'Diner']"
+Tally Ho Restaurants,1536 Main St W,CA,,"1536 Main St W, Hamilton ON L8S 1E4",Hamilton,L8S 1E4,ON,,"['Chinese Restaurant', 'Fast Food Restaurant', 'Greek Restaurant']"
+Gino's Pizza,1309 Main St W,CA,at Broadway Ave,"1309 Main St W (at Broadway Ave), Hamilton ON L8S 1C5",Hamilton,L8S 1C5,ON,,['Pizzeria']
+The Arch Noodle House,1309 Main St W,CA,,"1309 Main St W, Hamilton ON L8S 1C5",Hamilton,L8S 1C5,ON,,['Noodle Restaurant']
+Dough Box Pizza and Pasta,1457 Main St W,CA,,"1457 Main St W, Hamilton ON L8S 1C9",Hamilton,L8S 1C9,ON,,['Pizzeria']
+Beijing Hut,1467 Main St W,CA,,"1467 Main St W, Hamilton ON L8S 1C9",Hamilton,L8S 1C9,ON,,['Chinese Restaurant']
+Second Cup Café,1280 Main Street West,CA,,"1280 Main Street West, Hamilton ON L8S 4K1",Hamilton,L8S 4K1,ON,,"['Café', 'Coffee Shop']"
+Saigon Asian Restaurant,1024 King St W,CA,,"1024 King St W, Hamilton ON L8S 1L5",Hamilton,L8S 1L5,ON,,['Vietnamese Restaurant']
+Pita Pit,1056 King St W,CA,,"1056 King St W, Hamilton ON L8S 1L7",Hamilton,L8S 1L7,ON,Hamilton-Westdale,"['Sandwich Spot', 'Restaurant']"
+Burrito Bandidos,1028 King St W,CA,Paisley Ave. N.,"1028 King St W (Paisley Ave. N.), Hamilton ON L8S 1L5",Hamilton,L8S 1L5,ON,,"['Fast Food Restaurant', 'Burrito Restaurant']"
+Second Cup Coffee Co,1004 King St W,CA,at Marion Ave,"1004 King St W (at Marion Ave), Hamilton ON L8S 1L1",Hamilton,L8S 1L1,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+Ye Olde Squire,875 Main St W,CA,,"875 Main St W, Hamilton ON L8S 4P9",Hamilton,L8S 4P9,ON,,"['Bar', 'English Restaurant']"
+Pinks Burgers,1335 Main St W,CA,,"1335 Main St W, Hamilton ON L8S 1C6",Hamilton,L8S 1C6,ON,,['Burger Joint']
+Valentino's Restaurant,824 King St W,CA,at Paradise Rd N,"824 King St W (at Paradise Rd N), Hamilton ON L8S 1K3",Hamilton,L8S 1K3,ON,,"['Bakery', 'Pizzeria', 'Italian Restaurant']"
+Mac Farmstand,1280 Main St W,CA,,"1280 Main St W, Hamilton ON",Hamilton,,ON,,['Grocery Store']
+The Chopped Leaf,1280 Main St W,CA,,"1280 Main St W, Hamilton ON L8S 4L8",Hamilton,L8S 4L8,ON,,['Salad Restaurant']
+Detour Roaster's Cafe,41B King St W,CA,Miller's Line,"41B King St W (Miller's Line), Dundas ON L9H 1T5",Dundas,L9H 1T5,ON,,"['Café', 'Soup Spot']"
+Subway,38 York Rd,CA,,"38 York Rd, Dundas ON L9H 1L4",Dundas,L9H 1L4,ON,,"['Deli', 'Fast Food Restaurant']"
+Bangkok Spoon Deluxe,57 King St W,CA,btw Millers Ln & Sydenham St,"57 King St W (btw Millers Ln & Sydenham St), Dundas ON L9H 1T5",Dundas,L9H 1T5,ON,,"['Soup Spot', 'Thai Restaurant']"
+Quatrefoil Restaurant,16 Sydenham St,CA,near King St W,"16 Sydenham St (near King St W), Dundas ON L9H 2T4",Dundas,L9H 2T4,ON,,['French Restaurant']
+Emilio's,117 King St E,CA,btw Albert St & Sydenham St,"117 King St E (btw Albert St & Sydenham St), Dundas ON L8N 1A9",Dundas,L8N 1A9,ON,,"['Bakery', 'Pizzeria', 'Fast Food Restaurant']"
+Pizza Pizza,4 Cootes Dr,CA,,"4 Cootes Dr, Dundas ON L9H 1A9",Dundas,L9H 1A9,ON,,"['Pizzeria', 'Fast Food Restaurant']"
+KFC,49 King St E,CA,,"49 King St E, Dundas ON L9H 1B7",Dundas,L9H 1B7,ON,Suite 3,"['Fast Food Restaurant', 'Fried Chicken Joint']"
+Master 2 For 1 Pizza,24 King St E,CA,,"24 King St E, Dundas ON L9H 1B8",Dundas,L9H 1B8,ON,,['Pizzeria']
+Thirsty Cactus Cantina & Grill,2 King St E,CA,at Main St.,"2 King St E (at Main St.), Dundas ON L9H 1B8",Dundas,L9H 1B8,ON,,['Mexican Restaurant']
+McDonald's,120 King St W,CA,,"120 King St W, Hamilton ON L8P 4V2",Hamilton,L8P 4V2,ON,,"['Burger Joint', 'Fast Food Restaurant']"
+Atlantic Submarines,212 John St S,CA,Young Street,"212 John St S (Young Street), Hamilton ON L8N 2C8",Hamilton,L8N 2C8,ON,,['Sandwich Spot']
+Red Crow Coffee,211 James St S,CA,Charlton Ave,"211 James St S (Charlton Ave), Hamilton ON L8P 3B2",Hamilton,L8P 3B2,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+Wass Ethiopian Restaurant,207 James St N,CA,at Forest Ave.,"207 James St N (at Forest Ave.), Hamilton ON L8R 2L2",Hamilton,L8R 2L2,ON,,['Ethiopian Restaurant']
+Bronzie's Place,201 James St S,CA,at Forest Ave,"201 James St S (at Forest Ave), Hamilton ON L8P 3A8",Hamilton,L8P 3A8,ON,,['Pizzeria']
+One Duke Restaurant & Lounge,1 Duke St,CA,at James St. South,"1 Duke St (at James St. South), Hamilton ON L8P 1W9",Hamilton,L8P 1W9,ON,,"['American Restaurant', 'Comfort Food Restaurant', 'Italian Restaurant']"
+Mezcal TNT,150 James St S,CA,Augusta,"150 James St S (Augusta), Hamilton ON L8P 3A2",Hamilton,L8P 3A2,ON,,"['Bar', 'Tex-Mex Restaurant']"
+Radius,151 James St S,CA,at Augusta St,"151 James St S (at Augusta St), Hamilton ON L8P 2Z5",Hamilton,L8P 2Z5,ON,,['Fast Food Restaurant']
+Tea Hut,100 Main St E,CA,,"100 Main St E, Hamilton ON L8N 3W4",Hamilton,L8N 3W4,ON,# 100,"['Bar', 'Diner', 'Asian Restaurant']"
+Burrito Boyz,66 King St E,CA,,"66 King St E, Hamilton ON L8N 1A6",Hamilton,L8N 1A6,ON,,['Burrito Restaurant']
+Shakespeare's Steak and Seafood,181 Main St E,CA,,"181 Main St E, Hamilton ON L8N 1H2",Hamilton,L8N 1H2,ON,,"['Diner', 'Seafood Restaurant', 'Steakhouse']"
+Saigon Asian Restaurant,1024 King St W,CA,,"1024 King St W, Hamilton ON L8S 1L5",Hamilton,L8S 1L5,ON,,['Vietnamese Restaurant']
+Pita Pit,1056 King St W,CA,,"1056 King St W, Hamilton ON L8S 1L7",Hamilton,L8S 1L7,ON,Hamilton-Westdale,"['Sandwich Spot', 'Restaurant']"
+Burrito Bandidos,1028 King St W,CA,Paisley Ave. N.,"1028 King St W (Paisley Ave. N.), Hamilton ON L8S 1L5",Hamilton,L8S 1L5,ON,,"['Fast Food Restaurant', 'Burrito Restaurant']"
+Second Cup Coffee Co,1004 King St W,CA,at Marion Ave,"1004 King St W (at Marion Ave), Hamilton ON L8S 1L1",Hamilton,L8S 1L1,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+Ye Olde Squire,875 Main St W,CA,,"875 Main St W, Hamilton ON L8S 4P9",Hamilton,L8S 4P9,ON,,"['Bar', 'English Restaurant']"
+Pinks Burgers,1335 Main St W,CA,,"1335 Main St W, Hamilton ON L8S 1C6",Hamilton,L8S 1C6,ON,,['Burger Joint']
+Valentino's Restaurant,824 King St W,CA,at Paradise Rd N,"824 King St W (at Paradise Rd N), Hamilton ON L8S 1K3",Hamilton,L8S 1K3,ON,,"['Bakery', 'Pizzeria', 'Italian Restaurant']"
+Mac Farmstand,1280 Main St W,CA,,"1280 Main St W, Hamilton ON",Hamilton,,ON,,['Grocery Store']
+The Chopped Leaf,1280 Main St W,CA,,"1280 Main St W, Hamilton ON L8S 4L8",Hamilton,L8S 4L8,ON,,['Salad Restaurant']
+Atlantic Submarines,212 John St S,CA,Young Street,"212 John St S (Young Street), Hamilton ON L8N 2C8",Hamilton,L8N 2C8,ON,,['Sandwich Spot']
+Red Crow Coffee,211 James St S,CA,Charlton Ave,"211 James St S (Charlton Ave), Hamilton ON L8P 3B2",Hamilton,L8P 3B2,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+Wass Ethiopian Restaurant,207 James St N,CA,at Forest Ave.,"207 James St N (at Forest Ave.), Hamilton ON L8R 2L2",Hamilton,L8R 2L2,ON,,['Ethiopian Restaurant']
+Bronzie's Place,201 James St S,CA,at Forest Ave,"201 James St S (at Forest Ave), Hamilton ON L8P 3A8",Hamilton,L8P 3A8,ON,,['Pizzeria']
+One Duke Restaurant & Lounge,1 Duke St,CA,at James St. South,"1 Duke St (at James St. South), Hamilton ON L8P 1W9",Hamilton,L8P 1W9,ON,,"['American Restaurant', 'Comfort Food Restaurant', 'Italian Restaurant']"
+Mezcal TNT,150 James St S,CA,Augusta,"150 James St S (Augusta), Hamilton ON L8P 3A2",Hamilton,L8P 3A2,ON,,"['Bar', 'Tex-Mex Restaurant']"
+Radius,151 James St S,CA,at Augusta St,"151 James St S (at Augusta St), Hamilton ON L8P 2Z5",Hamilton,L8P 2Z5,ON,,['Fast Food Restaurant']
+Tea Hut,100 Main St E,CA,,"100 Main St E, Hamilton ON L8N 3W4",Hamilton,L8N 3W4,ON,# 100,"['Bar', 'Diner', 'Asian Restaurant']"
+Burrito Boyz,66 King St E,CA,,"66 King St E, Hamilton ON L8N 1A6",Hamilton,L8N 1A6,ON,,['Burrito Restaurant']
+Shakespeare's Steak and Seafood,181 Main St E,CA,,"181 Main St E, Hamilton ON L8N 1H2",Hamilton,L8N 1H2,ON,,"['Diner', 'Seafood Restaurant', 'Steakhouse']"
+Hi-Line Centre Pizza & Wings,1150 King St E,CA,Gage,"1150 King St E (Gage), Hamilton ON L8M 1E8",Hamilton,L8M 1E8,ON,# 2,['Pizzeria']
+Festival Foods,1013 King St E,CA,Spadina,"1013 King St E (Spadina), Hamilton ON L8M 1C9",Hamilton,L8M 1C9,ON,,['Fast Food Restaurant']
+Tall Tree Sandwich Co,1000 King St E,CA,,"1000 King St E, Hamilton ON L8M 1C8",Hamilton,L8M 1C8,ON,,['Sandwich Spot']
+KFC,Barton St,CA,,"Barton St, Hamilton ON L8L 6Y5",Hamilton,L8L 6Y5,ON,,['Fast Food Restaurant']
+Vibez Caribbean and Southern Food,971 King St E,CA,,"971 King St E, Hamilton ON L8M 1C3",Hamilton,L8M 1C3,ON,,['Caribbean Restaurant']
+Subway,847 Barton St E,CA,,"847 Barton St E, Hamilton ON L8L 3B4",Hamilton,L8L 3B4,ON,,"['Fast Food Restaurant', 'Sandwich Spot']"
+KFC,856 Barton St E,CA,,"856 Barton St E, Hamilton ON L8L 3B5",Hamilton,L8L 3B5,ON,,['Fast Food Restaurant']
+McDonald's,787 Barton St E,CA,Lottridge,"787 Barton St E (Lottridge), Hamilton ON L8L 3B2",Hamilton,L8L 3B2,ON,,"['Burger Joint', 'Fast Food Restaurant']"
+Subway,810 Main St E,CA,,"810 Main St E, Hamilton ON L8M 1L6",Hamilton,L8M 1L6,ON,Unit 1,"['Fast Food Restaurant', 'Sandwich Spot']"
+Tim Hortons,954 Barton St E,CA,,"954 Barton St E, Hamilton ON L8L 3C5",Hamilton,L8L 3C5,ON,,['Restaurant']
+Joya Restaurant,1630 Main St W,CA,,"1630 Main St W, Hamilton ON L8S 1G3",Hamilton,L8S 1G3,ON,,['Sushi Restaurant']
+Boston Pizza,1563 Main St W,CA,Cottrill St.,"1563 Main St W (Cottrill St.), Hamilton ON L8S 1E6",Hamilton,L8S 1E6,ON,Cottrill St,['Pizzeria']
+Maple Leaf Pancake House,1520 Main St W,CA,,"1520 Main St W, Hamilton ON L8S 1E3",Hamilton,L8S 1E3,ON,,['Diner']
+Popeye's Louisiana Kitchen,1711 Main St W,CA,,"1711 Main St W, Hamilton ON L8S 1G5",Hamilton,L8S 1G5,ON,,"['Fried Chicken Joint', 'Fast Food Restaurant']"
+Tally Ho Restaurants,1536 Main St W,CA,,"1536 Main St W, Hamilton ON L8S 1E4",Hamilton,L8S 1E4,ON,,"['Chinese Restaurant', 'Fast Food Restaurant', 'Greek Restaurant']"
+Pinks Burgers,1335 Main St W,CA,,"1335 Main St W, Hamilton ON L8S 1C6",Hamilton,L8S 1C6,ON,,['Burger Joint']
+Subway,1331 Main St W,CA,at Broadway Ave.,"1331 Main St W (at Broadway Ave.), Hamilton ON L8S 1C6",Hamilton,L8S 1C6,ON,Unit 3,"['Fast Food Restaurant', 'Sandwich Spot']"
+East Side Mario's Dundas,119 Osler Dr,CA,,"119 Osler Dr, Dundas ON L9H 6X4",Dundas,L9H 6X4,ON,Unit 1,['Restaurant']
+Subway,119 Osler Dr,CA,,"119 Osler Dr, Dundas ON L9H 6X4",Dundas,L9H 6X4,ON,Unit 11,"['Fast Food Restaurant', 'Sandwich Spot']"
+KFC,119 Osler Dr,CA,,"119 Osler Dr, Hamilton ON L9H 6X4",Hamilton,L9H 6X4,ON,,"['Fried Chicken Joint', 'Fast Food Restaurant']"
+Right Wingers,1850 Main St W,CA,,"1850 Main St W, Hamilton ON L8S 4P7",Hamilton,L8S 4P7,ON,,"['Pizzeria', 'Fast Food Restaurant', 'Wings Joint']"
+West End Diner,1811 Main St W,CA,,"1811 Main St W, Hamilton ON L8S 1H6",Hamilton,L8S 1H6,ON,,"['Diner', 'American Restaurant']"
+East Side Mario's Dundas,119 Osler Dr,CA,,"119 Osler Dr, Dundas ON L9H 6X4",Dundas,L9H 6X4,ON,Unit 1,['Restaurant']
+KFC,119 Osler Dr,CA,,"119 Osler Dr, Hamilton ON L9H 6X4",Hamilton,L9H 6X4,ON,,"['Fried Chicken Joint', 'Fast Food Restaurant']"
+Popeye's Louisiana Kitchen,1711 Main St W,CA,,"1711 Main St W, Hamilton ON L8S 1G5",Hamilton,L8S 1G5,ON,,"['Fried Chicken Joint', 'Fast Food Restaurant']"
+Subway,119 Osler Dr,CA,,"119 Osler Dr, Dundas ON L9H 6X4",Dundas,L9H 6X4,ON,Unit 11,"['Fast Food Restaurant', 'Sandwich Spot']"
+Fat Bastard Burrito Co,101 Osler Dr,CA,,"101 Osler Dr, Dundas ON L9H 4H4",Dundas,L9H 4H4,ON,,['Burrito Restaurant']
+BarBurrito,1711 Main St W,CA,Osler Dr.,"1711 Main St W (Osler Dr.), Hamilton ON L8S 1G5",Hamilton,L8S 1G5,ON,,['Burrito Restaurant']
+Empress Wok Chinese Restaurant,101 Osler Dr,CA,,"101 Osler Dr, Dundas ON L9H 4H4",Dundas,L9H 4H4,ON,# 96,['Chinese Restaurant']
+Great Canadian Bagel,101 Osler Dr,CA,,"101 Osler Dr, Dundas ON L9H 4H4",Dundas,L9H 4H4,ON,# 120,"['Bagel Shop', 'Bakery']"
+East Side Mario's Dundas,119 Osler Dr,CA,,"119 Osler Dr, Dundas ON L9H 6X4",Dundas,L9H 6X4,ON,Unit 1,['Restaurant']
+Subway,119 Osler Dr,CA,,"119 Osler Dr, Dundas ON L9H 6X4",Dundas,L9H 6X4,ON,Unit 11,"['Fast Food Restaurant', 'Sandwich Spot']"
+KFC,119 Osler Dr,CA,,"119 Osler Dr, Hamilton ON L9H 6X4",Hamilton,L9H 6X4,ON,,"['Fried Chicken Joint', 'Fast Food Restaurant']"
+Freshii,101 Osler Dr,CA,,"101 Osler Dr, Dundas ON L9H 4H4",Dundas,L9H 4H4,ON,,['Vegan and Vegetarian Restaurant']
+Great Canadian Bagel,101 Osler Dr,CA,,"101 Osler Dr, Dundas ON L9H 4H4",Dundas,L9H 4H4,ON,# 120,"['Bagel Shop', 'Bakery']"
+Empress Wok Chinese Restaurant,101 Osler Dr,CA,,"101 Osler Dr, Dundas ON L9H 4H4",Dundas,L9H 4H4,ON,# 96,['Chinese Restaurant']
+Fat Bastard Burrito Co,101 Osler Dr,CA,,"101 Osler Dr, Dundas ON L9H 4H4",Dundas,L9H 4H4,ON,,['Burrito Restaurant']
+Popeye's Louisiana Kitchen,1711 Main St W,CA,,"1711 Main St W, Hamilton ON L8S 1G5",Hamilton,L8S 1G5,ON,,"['Fried Chicken Joint', 'Fast Food Restaurant']"
+Right Wingers,1850 Main St W,CA,,"1850 Main St W, Hamilton ON L8S 4P7",Hamilton,L8S 4P7,ON,,"['Pizzeria', 'Fast Food Restaurant', 'Wings Joint']"
+Joya Restaurant,1630 Main St W,CA,,"1630 Main St W, Hamilton ON L8S 1G3",Hamilton,L8S 1G3,ON,,['Sushi Restaurant']
+McDonald's,787 Barton St E,CA,Lottridge,"787 Barton St E (Lottridge), Hamilton ON L8L 3B2",Hamilton,L8L 3B2,ON,,"['Burger Joint', 'Fast Food Restaurant']"
+Wingporium,737 Barton St E,CA,Barnesdale,"737 Barton St E (Barnesdale), Hamilton ON L8L 3A9",Hamilton,L8L 3A9,ON,,['Wings Joint']
+Karlik Pastry,762 Barton St E,CA,Lottridge,"762 Barton St E (Lottridge), Hamilton ON L8L 3B1",Hamilton,L8L 3B1,ON,# 1,['Bakery']
+Subway,847 Barton St E,CA,,"847 Barton St E, Hamilton ON L8L 3B4",Hamilton,L8L 3B4,ON,,"['Fast Food Restaurant', 'Sandwich Spot']"
+Starpolskie,711 Barton St E,CA,,"711 Barton St E, Hamilton ON L8L 3A7",Hamilton,L8L 3A7,ON,,['Deli']
+KFC,856 Barton St E,CA,,"856 Barton St E, Hamilton ON L8L 3B5",Hamilton,L8L 3B5,ON,,['Fast Food Restaurant']
+KFC,Barton St,CA,,"Barton St, Hamilton ON L8L 6Y5",Hamilton,L8L 6Y5,ON,,['Fast Food Restaurant']
+Frank's Sicilia Bakery,669 Barton St E,CA,Sherman Ave N,"669 Barton St E (Sherman Ave N), Hamilton ON L8L 3A3",Hamilton,L8L 3A3,ON,,['Bakery']
+Venetian Meat & Salami Co Ltd,947 Burlington St E,CA,Gage,"947 Burlington St E (Gage), Hamilton ON L8L 4K6",Hamilton,L8L 4K6,ON,,"['Butcher', 'Meat and Seafood Store', 'Sausage Store']"
+The Purple Pear,946 Barton St E,CA,,"946 Barton St E, Hamilton ON L8L 3C5",Hamilton,L8L 3C5,ON,,"['Diner', 'Seafood Restaurant']"
+Joya Restaurant,1630 Main St W,CA,,"1630 Main St W, Hamilton ON L8S 1G3",Hamilton,L8S 1G3,ON,,['Sushi Restaurant']
+Boston Pizza,1563 Main St W,CA,Cottrill St.,"1563 Main St W (Cottrill St.), Hamilton ON L8S 1E6",Hamilton,L8S 1E6,ON,Cottrill St,['Pizzeria']
+Maple Leaf Pancake House,1520 Main St W,CA,,"1520 Main St W, Hamilton ON L8S 1E3",Hamilton,L8S 1E3,ON,,['Diner']
+Popeye's Louisiana Kitchen,1711 Main St W,CA,,"1711 Main St W, Hamilton ON L8S 1G5",Hamilton,L8S 1G5,ON,,"['Fried Chicken Joint', 'Fast Food Restaurant']"
+Tally Ho Restaurants,1536 Main St W,CA,,"1536 Main St W, Hamilton ON L8S 1E4",Hamilton,L8S 1E4,ON,,"['Chinese Restaurant', 'Fast Food Restaurant', 'Greek Restaurant']"
+Pinks Burgers,1335 Main St W,CA,,"1335 Main St W, Hamilton ON L8S 1C6",Hamilton,L8S 1C6,ON,,['Burger Joint']
+Subway,1331 Main St W,CA,at Broadway Ave.,"1331 Main St W (at Broadway Ave.), Hamilton ON L8S 1C6",Hamilton,L8S 1C6,ON,Unit 3,"['Fast Food Restaurant', 'Sandwich Spot']"
+East Side Mario's Dundas,119 Osler Dr,CA,,"119 Osler Dr, Dundas ON L9H 6X4",Dundas,L9H 6X4,ON,Unit 1,['Restaurant']
+Subway,119 Osler Dr,CA,,"119 Osler Dr, Dundas ON L9H 6X4",Dundas,L9H 6X4,ON,Unit 11,"['Fast Food Restaurant', 'Sandwich Spot']"
+KFC,119 Osler Dr,CA,,"119 Osler Dr, Hamilton ON L9H 6X4",Hamilton,L9H 6X4,ON,,"['Fried Chicken Joint', 'Fast Food Restaurant']"
+Right Wingers,1850 Main St W,CA,,"1850 Main St W, Hamilton ON L8S 4P7",Hamilton,L8S 4P7,ON,,"['Pizzeria', 'Fast Food Restaurant', 'Wings Joint']"
+West End Diner,1811 Main St W,CA,,"1811 Main St W, Hamilton ON L8S 1H6",Hamilton,L8S 1H6,ON,,"['Diner', 'American Restaurant']"
+East Side Mario's Dundas,119 Osler Dr,CA,,"119 Osler Dr, Dundas ON L9H 6X4",Dundas,L9H 6X4,ON,Unit 1,['Restaurant']
+KFC,119 Osler Dr,CA,,"119 Osler Dr, Hamilton ON L9H 6X4",Hamilton,L9H 6X4,ON,,"['Fried Chicken Joint', 'Fast Food Restaurant']"
+Popeye's Louisiana Kitchen,1711 Main St W,CA,,"1711 Main St W, Hamilton ON L8S 1G5",Hamilton,L8S 1G5,ON,,"['Fried Chicken Joint', 'Fast Food Restaurant']"
+Subway,119 Osler Dr,CA,,"119 Osler Dr, Dundas ON L9H 6X4",Dundas,L9H 6X4,ON,Unit 11,"['Fast Food Restaurant', 'Sandwich Spot']"
+Fat Bastard Burrito Co,101 Osler Dr,CA,,"101 Osler Dr, Dundas ON L9H 4H4",Dundas,L9H 4H4,ON,,['Burrito Restaurant']
+BarBurrito,1711 Main St W,CA,Osler Dr.,"1711 Main St W (Osler Dr.), Hamilton ON L8S 1G5",Hamilton,L8S 1G5,ON,,['Burrito Restaurant']
+Empress Wok Chinese Restaurant,101 Osler Dr,CA,,"101 Osler Dr, Dundas ON L9H 4H4",Dundas,L9H 4H4,ON,# 96,['Chinese Restaurant']
+Great Canadian Bagel,101 Osler Dr,CA,,"101 Osler Dr, Dundas ON L9H 4H4",Dundas,L9H 4H4,ON,# 120,"['Bagel Shop', 'Bakery']"
+August 8,1 Wilson St,CA,James St.,"1 Wilson St (James St.), Hamilton ON L8R 1C4",Hamilton,L8R 1C4,ON,# 12,"['Dim Sum Restaurant', 'Sushi Restaurant']"
+The Burnt Tongue,10 Cannon St E,CA,James St N,"10 Cannon St E (James St N), Hamilton ON L8L 1Z5",Hamilton,L8L 1Z5,ON,,"['Fast Food Restaurant', 'Soup Spot']"
+Mulberry Street Coffeehouse,193 James St N,CA,Mulberry St.,"193 James St N (Mulberry St.), Hamilton ON L8R 2L2",Hamilton,L8R 2L2,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+The Mule,41 King William St,CA,Hughson,"41 King William St (Hughson), Hamilton ON L8R 1A2",Hamilton,L8R 1A2,ON,,['Taco Restaurant']
+Charred,244 James St N,CA,btwn Robert St & Colbourne St,"244 James St N (btwn Robert St & Colbourne St), Hamilton ON L8R 2L3",Hamilton,L8R 2L3,ON,,"['BBQ Joint', 'Portuguese Restaurant']"
+Lulu's Shawarma,32 John St N,CA,at King William St.,"32 John St N (at King William St.), Hamilton ON L8R 1H3",Hamilton,L8R 1H3,ON,,"['Mediterranean Restaurant', 'Middle Eastern Restaurant']"
+Burrito Boyz,66 King St E,CA,,"66 King St E, Hamilton ON L8N 1A6",Hamilton,L8N 1A6,ON,,['Burrito Restaurant']
+Saltlick Smokehouse,282 James St N,CA,Barton Street,"282 James St N (Barton Street), Hamilton ON L8R 2L3",Hamilton,L8R 2L3,ON,,['BBQ Joint']
+Vida la Pita,217 King St W,CA,Caroline,"217 King St W (Caroline), Hamilton ON L8P 1A7",Hamilton,L8P 1A7,ON,,"['Fast Food Restaurant', 'Middle Eastern Restaurant']"
+Coop Hamilton,274 King St W,CA,,"274 King St W, Hamilton ON L8P 1J6",Hamilton,L8P 1J6,ON,# 272,['Fried Chicken Joint']
+Mr Dumpling Express,50 Dundurn St S,CA,at Main St W,"50 Dundurn St S (at Main St W), Hamilton ON L8P 4W3",Hamilton,L8P 4W3,ON,,"['Chinese Restaurant', 'Fast Food Restaurant']"
+McDonald's,50 Dundurn St S,CA,at Main St W,"50 Dundurn St S (at Main St W), Hamilton ON L8P 4W3",Hamilton,L8P 4W3,ON,,"['Burger Joint', 'Fast Food Restaurant']"
+Subway,50 Dundurn St S,CA,at Main St W,"50 Dundurn St S (at Main St W), Hamilton ON L8P 4W3",Hamilton,L8P 4W3,ON,Unit 107,"['Fast Food Restaurant', 'Sandwich Spot']"
+Pizza Pizza,50 Dundurn St S,CA,,"50 Dundurn St S, Hamilton ON L8P 4W3",Hamilton,L8P 4W3,ON,Unit 4,"['Pizzeria', 'Fast Food Restaurant']"
+Shehnai Restaurant,447 Main St W,CA,,"447 Main St W, Hamilton ON L8P 1K5",Hamilton,L8P 1K5,ON,,"['Diner', 'Indian Restaurant']"
+Wimpy's Diner,405 Main St W,CA,,"405 Main St W, Hamilton ON L8P 1K5",Hamilton,L8P 1K5,ON,,['Diner']
+KFC,631 King St W,CA,,"631 King St W, Hamilton ON L8P 1C4",Hamilton,L8P 1C4,ON,,"['Fried Chicken Joint', 'Fast Food Restaurant']"
+Pizza Hut,610 King St W,CA,Dundurn,"610 King St W (Dundurn), Hamilton ON L8P 1C2",Hamilton,L8P 1C2,ON,,"['Pizzeria', 'Fast Food Restaurant']"
+Brown Dog Coffee Shop,211 Locke St S,CA,,"211 Locke St S, Hamilton ON L8P 4B6",Hamilton,L8P 4B6,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+The Burnt Tongue,182 Locke St S,CA,Pine St.,"182 Locke St S (Pine St.), Hamilton ON L8P 4B3",Hamilton,L8P 4B3,ON,,['Soup Spot']
+August 8,1 Wilson St,CA,James St.,"1 Wilson St (James St.), Hamilton ON L8R 1C4",Hamilton,L8R 1C4,ON,# 12,"['Dim Sum Restaurant', 'Sushi Restaurant']"
+The Burnt Tongue,10 Cannon St E,CA,James St N,"10 Cannon St E (James St N), Hamilton ON L8L 1Z5",Hamilton,L8L 1Z5,ON,,"['Fast Food Restaurant', 'Soup Spot']"
+Mulberry Street Coffeehouse,193 James St N,CA,Mulberry St.,"193 James St N (Mulberry St.), Hamilton ON L8R 2L2",Hamilton,L8R 2L2,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+The Mule,41 King William St,CA,Hughson,"41 King William St (Hughson), Hamilton ON L8R 1A2",Hamilton,L8R 1A2,ON,,['Taco Restaurant']
+Charred,244 James St N,CA,btwn Robert St & Colbourne St,"244 James St N (btwn Robert St & Colbourne St), Hamilton ON L8R 2L3",Hamilton,L8R 2L3,ON,,"['BBQ Joint', 'Portuguese Restaurant']"
+Lulu's Shawarma,32 John St N,CA,at King William St.,"32 John St N (at King William St.), Hamilton ON L8R 1H3",Hamilton,L8R 1H3,ON,,"['Mediterranean Restaurant', 'Middle Eastern Restaurant']"
+Burrito Boyz,66 King St E,CA,,"66 King St E, Hamilton ON L8N 1A6",Hamilton,L8N 1A6,ON,,['Burrito Restaurant']
+Saltlick Smokehouse,282 James St N,CA,Barton Street,"282 James St N (Barton Street), Hamilton ON L8R 2L3",Hamilton,L8R 2L3,ON,,['BBQ Joint']
+Vida la Pita,217 King St W,CA,Caroline,"217 King St W (Caroline), Hamilton ON L8P 1A7",Hamilton,L8P 1A7,ON,,"['Fast Food Restaurant', 'Middle Eastern Restaurant']"
+Coop Hamilton,274 King St W,CA,,"274 King St W, Hamilton ON L8P 1J6",Hamilton,L8P 1J6,ON,# 272,['Fried Chicken Joint']
+Denninger Ltd,284 King St E,CA,,"284 King St E, Hamilton ON L8N 1B7",Hamilton,L8N 1B7,ON,,"['Deli', 'German Restaurant']"
+Shakespeare's Steak and Seafood,181 Main St E,CA,,"181 Main St E, Hamilton ON L8N 1H2",Hamilton,L8N 1H2,ON,,"['Diner', 'Seafood Restaurant', 'Steakhouse']"
+Black Forest Inn,255 King St E,CA,,"255 King St E, Hamilton ON L8N 1B9",Hamilton,L8N 1B9,ON,,['German Restaurant']
+Tea Hut,100 Main St E,CA,,"100 Main St E, Hamilton ON L8N 3W4",Hamilton,L8N 3W4,ON,# 100,"['Bar', 'Diner', 'Asian Restaurant']"
+Owl of Minerva,309 Main St E,CA,Victoria,"309 Main St E (Victoria), Hamilton ON L8N 1H8",Hamilton,L8N 1H8,ON,,['Korean Restaurant']
+Oriental Restaurant & Tavern,408 King St E,CA,,"408 King St E, Hamilton ON L8N 1C3",Hamilton,L8N 1C3,ON,,"['Diner', 'Cantonese Restaurant']"
+Ajio Sushi,161 King St E,CA,Mary St,"161 King St E (Mary St), Hamilton ON L8N 1B1",Hamilton,L8N 1B1,ON,,['Sushi Restaurant']
+Pizza Hut,203 Main St E,CA,,"203 Main St E, Stayner ON L0M 1S0",Stayner,L0M 1S0,ON,,"['Pizzeria', 'Fast Food Restaurant']"
+Atlantic Submarines,212 John St S,CA,Young Street,"212 John St S (Young Street), Hamilton ON L8N 2C8",Hamilton,L8N 2C8,ON,,['Sandwich Spot']
+Burrito Boyz,66 King St E,CA,,"66 King St E, Hamilton ON L8N 1A6",Hamilton,L8N 1A6,ON,,['Burrito Restaurant']
+Denninger Ltd,284 King St E,CA,,"284 King St E, Hamilton ON L8N 1B7",Hamilton,L8N 1B7,ON,,"['Deli', 'German Restaurant']"
+Shakespeare's Steak and Seafood,181 Main St E,CA,,"181 Main St E, Hamilton ON L8N 1H2",Hamilton,L8N 1H2,ON,,"['Diner', 'Seafood Restaurant', 'Steakhouse']"
+Black Forest Inn,255 King St E,CA,,"255 King St E, Hamilton ON L8N 1B9",Hamilton,L8N 1B9,ON,,['German Restaurant']
+Tea Hut,100 Main St E,CA,,"100 Main St E, Hamilton ON L8N 3W4",Hamilton,L8N 3W4,ON,# 100,"['Bar', 'Diner', 'Asian Restaurant']"
+Owl of Minerva,309 Main St E,CA,Victoria,"309 Main St E (Victoria), Hamilton ON L8N 1H8",Hamilton,L8N 1H8,ON,,['Korean Restaurant']
+Oriental Restaurant & Tavern,408 King St E,CA,,"408 King St E, Hamilton ON L8N 1C3",Hamilton,L8N 1C3,ON,,"['Diner', 'Cantonese Restaurant']"
+Ajio Sushi,161 King St E,CA,Mary St,"161 King St E (Mary St), Hamilton ON L8N 1B1",Hamilton,L8N 1B1,ON,,['Sushi Restaurant']
+Pizza Hut,203 Main St E,CA,,"203 Main St E, Stayner ON L0M 1S0",Stayner,L0M 1S0,ON,,"['Pizzeria', 'Fast Food Restaurant']"
+Atlantic Submarines,212 John St S,CA,Young Street,"212 John St S (Young Street), Hamilton ON L8N 2C8",Hamilton,L8N 2C8,ON,,['Sandwich Spot']
+Burrito Boyz,66 King St E,CA,,"66 King St E, Hamilton ON L8N 1A6",Hamilton,L8N 1A6,ON,,['Burrito Restaurant']
+Pita Pizza,526 Main St E,CA,,"526 Main St E, HAMILTON ON L8M 1J1",HAMILTON,L8M 1J1,ON,,"['Pizzeria', 'Fast Food Restaurant']"
+Little Caesars Pizza,557 Main St E,CA,,"557 Main St E, Hamilton ON L8M 1H9",Hamilton,L8M 1H9,ON,# 1,"['Pizzeria', 'Fast Food Restaurant']"
+Mississippi Queen Foods,635 King St E,CA,,"635 King St E, Hamilton ON L8N 1E5",Hamilton,L8N 1E5,ON,,"['Music Venue', 'Cajun and Creole Restaurant', 'South American Restaurant']"
+Apllada Greek Fusion Restaurant,635 King St E,CA,,"635 King St E, Hamilton ON L8N 1E5",Hamilton,L8N 1E5,ON,,['Greek Restaurant']
+DeRosa Bakery and Restaurant,71 Sanford Ave N,CA,,"71 Sanford Ave N, Hamilton ON L8L 5Y9",Hamilton,L8L 5Y9,ON,# 21,['Deli']
+Ellis Kitchen & More,455 King St E,CA,East & King,"455 King St E (East & King), Hamilton ON L8N 1C7",Hamilton,L8N 1C7,ON,,['Restaurant']
+Denninger Ltd,284 King St E,CA,,"284 King St E, Hamilton ON L8N 1B7",Hamilton,L8N 1B7,ON,,"['Deli', 'German Restaurant']"
+Owl of Minerva,309 Main St E,CA,Victoria,"309 Main St E (Victoria), Hamilton ON L8N 1H8",Hamilton,L8N 1H8,ON,,['Korean Restaurant']
+Amir Pita and Grill,114 Sanford Ave N,CA,,"114 Sanford Ave N, Hamilton ON L8L 5Z2",Hamilton,L8L 5Z2,ON,Unit 2,"['Bar', 'Fast Food Restaurant', 'Middle Eastern Restaurant']"
+Oriental Restaurant & Tavern,408 King St E,CA,,"408 King St E, Hamilton ON L8N 1C3",Hamilton,L8N 1C3,ON,,"['Diner', 'Cantonese Restaurant']"
+Duarte Supermarket,417 Barton St E,CA,Cheevers,"417 Barton St E (Cheevers), Hamilton ON L8L 2Y4",Hamilton,L8L 2Y4,ON,,['Grocery Store']
+KFC,307 Cannon St E,CA,East ave,"307 Cannon St E (East ave), Hamilton ON L8L 2B7",Hamilton,L8L 2B7,ON,,"['Fried Chicken Joint', 'Fast Food Restaurant']"
+541 Eatery & Exchange,541 Barton St E,CA,,"541 Barton St E, Hamilton ON L8L 2Z2",Hamilton,L8L 2Z2,ON,,['Restaurant']
+A&W Restaurant,190 Barton St E,CA,,"190 Barton St E, Hamilton ON L8L 2W8",Hamilton,L8L 2W8,ON,,"['American Restaurant', 'Fast Food Restaurant']"
+Hello Baked,549 Barton St E,CA,,"549 Barton St E, Hamilton ON L8L 2Z2",Hamilton,L8L 2Z2,ON,,['Bakery']
+Amir Pita and Grill,114 Sanford Ave N,CA,,"114 Sanford Ave N, Hamilton ON L8L 5Z2",Hamilton,L8L 5Z2,ON,Unit 2,"['Bar', 'Fast Food Restaurant', 'Middle Eastern Restaurant']"
+Plaza Pizza & Wings,90 Wellington St N,CA,Wilson,"90 Wellington St N (Wilson), Hamilton ON L8R 1N1",Hamilton,L8R 1N1,ON,,['Pizzeria']
+DeRosa Bakery and Restaurant,71 Sanford Ave N,CA,,"71 Sanford Ave N, Hamilton ON L8L 5Y9",Hamilton,L8L 5Y9,ON,# 21,['Deli']
+Apllada Greek Fusion Restaurant,635 King St E,CA,,"635 King St E, Hamilton ON L8N 1E5",Hamilton,L8N 1E5,ON,,['Greek Restaurant']
+Mississippi Queen Foods,635 King St E,CA,,"635 King St E, Hamilton ON L8N 1E5",Hamilton,L8N 1E5,ON,,"['Music Venue', 'Cajun and Creole Restaurant', 'South American Restaurant']"
+Atlantic Submarines,212 John St S,CA,Young Street,"212 John St S (Young Street), Hamilton ON L8N 2C8",Hamilton,L8N 2C8,ON,,['Sandwich Spot']
+Red Crow Coffee,211 James St S,CA,Charlton Ave,"211 James St S (Charlton Ave), Hamilton ON L8P 3B2",Hamilton,L8P 3B2,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+Wass Ethiopian Restaurant,207 James St N,CA,at Forest Ave.,"207 James St N (at Forest Ave.), Hamilton ON L8R 2L2",Hamilton,L8R 2L2,ON,,['Ethiopian Restaurant']
+Bronzie's Place,201 James St S,CA,at Forest Ave,"201 James St S (at Forest Ave), Hamilton ON L8P 3A8",Hamilton,L8P 3A8,ON,,['Pizzeria']
+One Duke Restaurant & Lounge,1 Duke St,CA,at James St. South,"1 Duke St (at James St. South), Hamilton ON L8P 1W9",Hamilton,L8P 1W9,ON,,"['American Restaurant', 'Comfort Food Restaurant', 'Italian Restaurant']"
+Mezcal TNT,150 James St S,CA,Augusta,"150 James St S (Augusta), Hamilton ON L8P 3A2",Hamilton,L8P 3A2,ON,,"['Bar', 'Tex-Mex Restaurant']"
+Radius,151 James St S,CA,at Augusta St,"151 James St S (at Augusta St), Hamilton ON L8P 2Z5",Hamilton,L8P 2Z5,ON,,['Fast Food Restaurant']
+Tea Hut,100 Main St E,CA,,"100 Main St E, Hamilton ON L8N 3W4",Hamilton,L8N 3W4,ON,# 100,"['Bar', 'Diner', 'Asian Restaurant']"
+Burrito Boyz,66 King St E,CA,,"66 King St E, Hamilton ON L8N 1A6",Hamilton,L8N 1A6,ON,,['Burrito Restaurant']
+Shakespeare's Steak and Seafood,181 Main St E,CA,,"181 Main St E, Hamilton ON L8N 1H2",Hamilton,L8N 1H2,ON,,"['Diner', 'Seafood Restaurant', 'Steakhouse']"
+The Harbour Diner,486 James St N,CA,btwn Ferrie St and Picton St,"486 James St N (btwn Ferrie St and Picton St), Hamilton ON L8L 1J1",Hamilton,L8L 1J1,ON,,"['Diner', 'Comfort Food Restaurant']"
+Fisher's Pier 4 Pub & Grub,554 James St N,CA,,"554 James St N, Hamilton ON L8L 1J5",Hamilton,L8L 1J5,ON,,['Restaurant']
+Saltlick Smokehouse,282 James St N,CA,Barton Street,"282 James St N (Barton Street), Hamilton ON L8R 2L3",Hamilton,L8R 2L3,ON,,['BBQ Joint']
+Charred,244 James St N,CA,btwn Robert St & Colbourne St,"244 James St N (btwn Robert St & Colbourne St), Hamilton ON L8R 2L3",Hamilton,L8R 2L3,ON,,"['BBQ Joint', 'Portuguese Restaurant']"
+Mulberry Street Coffeehouse,193 James St N,CA,Mulberry St.,"193 James St N (Mulberry St.), Hamilton ON L8R 2L2",Hamilton,L8R 2L2,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+Bonanza Bakery,100 Murray St E,CA,,"100 Murray St E, Hamilton ON L8L 3G4",Hamilton,L8L 3G4,ON,,['Bakery']
+Born and Raised,224 James St N,CA,,"224 James St N, Hamilton ON L8R 2L3",Hamilton,L8R 2L3,ON,,"['Gastropub', 'Italian Restaurant']"
+Ola Bakery & Pastries,230 James St N,CA,Barton St. W,"230 James St N (Barton St. W), Hamilton ON L8R 2L3",Hamilton,L8R 2L3,ON,,"['Bakery', 'Coffee Shop', 'Restaurant']"
+Neit Bar,337 James St N,CA,Murray,"337 James St N (Murray), Hamilton ON L8L 1H3",Hamilton,L8L 1H3,ON,,['Restaurant']
+Mesa,255 James St N,CA,,"255 James St N, Hamilton ON L8R 2L2",Hamilton,L8R 2L2,ON,,['Mexican Restaurant']
+Joya Restaurant,1630 Main St W,CA,,"1630 Main St W, Hamilton ON L8S 1G3",Hamilton,L8S 1G3,ON,,['Sushi Restaurant']
+Boston Pizza,1563 Main St W,CA,Cottrill St.,"1563 Main St W (Cottrill St.), Hamilton ON L8S 1E6",Hamilton,L8S 1E6,ON,Cottrill St,['Pizzeria']
+Maple Leaf Pancake House,1520 Main St W,CA,,"1520 Main St W, Hamilton ON L8S 1E3",Hamilton,L8S 1E3,ON,,['Diner']
+Popeye's Louisiana Kitchen,1711 Main St W,CA,,"1711 Main St W, Hamilton ON L8S 1G5",Hamilton,L8S 1G5,ON,,"['Fried Chicken Joint', 'Fast Food Restaurant']"
+Tally Ho Restaurants,1536 Main St W,CA,,"1536 Main St W, Hamilton ON L8S 1E4",Hamilton,L8S 1E4,ON,,"['Chinese Restaurant', 'Fast Food Restaurant', 'Greek Restaurant']"
+Pinks Burgers,1335 Main St W,CA,,"1335 Main St W, Hamilton ON L8S 1C6",Hamilton,L8S 1C6,ON,,['Burger Joint']
+Subway,1331 Main St W,CA,at Broadway Ave.,"1331 Main St W (at Broadway Ave.), Hamilton ON L8S 1C6",Hamilton,L8S 1C6,ON,Unit 3,"['Fast Food Restaurant', 'Sandwich Spot']"
+East Side Mario's Dundas,119 Osler Dr,CA,,"119 Osler Dr, Dundas ON L9H 6X4",Dundas,L9H 6X4,ON,Unit 1,['Restaurant']
+Subway,119 Osler Dr,CA,,"119 Osler Dr, Dundas ON L9H 6X4",Dundas,L9H 6X4,ON,Unit 11,"['Fast Food Restaurant', 'Sandwich Spot']"
+KFC,119 Osler Dr,CA,,"119 Osler Dr, Hamilton ON L9H 6X4",Hamilton,L9H 6X4,ON,,"['Fried Chicken Joint', 'Fast Food Restaurant']"
+Mr Dumpling Express,50 Dundurn St S,CA,at Main St W,"50 Dundurn St S (at Main St W), Hamilton ON L8P 4W3",Hamilton,L8P 4W3,ON,,"['Chinese Restaurant', 'Fast Food Restaurant']"
+McDonald's,50 Dundurn St S,CA,at Main St W,"50 Dundurn St S (at Main St W), Hamilton ON L8P 4W3",Hamilton,L8P 4W3,ON,,"['Burger Joint', 'Fast Food Restaurant']"
+Subway,50 Dundurn St S,CA,at Main St W,"50 Dundurn St S (at Main St W), Hamilton ON L8P 4W3",Hamilton,L8P 4W3,ON,Unit 107,"['Fast Food Restaurant', 'Sandwich Spot']"
+Pizza Pizza,50 Dundurn St S,CA,,"50 Dundurn St S, Hamilton ON L8P 4W3",Hamilton,L8P 4W3,ON,Unit 4,"['Pizzeria', 'Fast Food Restaurant']"
+Shehnai Restaurant,447 Main St W,CA,,"447 Main St W, Hamilton ON L8P 1K5",Hamilton,L8P 1K5,ON,,"['Diner', 'Indian Restaurant']"
+Wimpy's Diner,405 Main St W,CA,,"405 Main St W, Hamilton ON L8P 1K5",Hamilton,L8P 1K5,ON,,['Diner']
+KFC,631 King St W,CA,,"631 King St W, Hamilton ON L8P 1C4",Hamilton,L8P 1C4,ON,,"['Fried Chicken Joint', 'Fast Food Restaurant']"
+Pizza Hut,610 King St W,CA,Dundurn,"610 King St W (Dundurn), Hamilton ON L8P 1C2",Hamilton,L8P 1C2,ON,,"['Pizzeria', 'Fast Food Restaurant']"
+Brown Dog Coffee Shop,211 Locke St S,CA,,"211 Locke St S, Hamilton ON L8P 4B6",Hamilton,L8P 4B6,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+The Burnt Tongue,182 Locke St S,CA,Pine St.,"182 Locke St S (Pine St.), Hamilton ON L8P 4B3",Hamilton,L8P 4B3,ON,,['Soup Spot']
+Bonanza Bakery,100 Murray St E,CA,,"100 Murray St E, Hamilton ON L8L 3G4",Hamilton,L8L 3G4,ON,,['Bakery']
+A&W Restaurant,190 Barton St E,CA,,"190 Barton St E, Hamilton ON L8L 2W8",Hamilton,L8L 2W8,ON,,"['American Restaurant', 'Fast Food Restaurant']"
+August 8,1 Wilson St,CA,James St.,"1 Wilson St (James St.), Hamilton ON L8R 1C4",Hamilton,L8R 1C4,ON,# 12,"['Dim Sum Restaurant', 'Sushi Restaurant']"
+The Burnt Tongue,10 Cannon St E,CA,James St N,"10 Cannon St E (James St N), Hamilton ON L8L 1Z5",Hamilton,L8L 1Z5,ON,,"['Fast Food Restaurant', 'Soup Spot']"
+Mulberry Street Coffeehouse,193 James St N,CA,Mulberry St.,"193 James St N (Mulberry St.), Hamilton ON L8R 2L2",Hamilton,L8R 2L2,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+Charred,244 James St N,CA,btwn Robert St & Colbourne St,"244 James St N (btwn Robert St & Colbourne St), Hamilton ON L8R 2L3",Hamilton,L8R 2L3,ON,,"['BBQ Joint', 'Portuguese Restaurant']"
+Lulu's Shawarma,32 John St N,CA,at King William St.,"32 John St N (at King William St.), Hamilton ON L8R 1H3",Hamilton,L8R 1H3,ON,,"['Mediterranean Restaurant', 'Middle Eastern Restaurant']"
+The Mule,41 King William St,CA,Hughson,"41 King William St (Hughson), Hamilton ON L8R 1A2",Hamilton,L8R 1A2,ON,,['Taco Restaurant']
+Black Forest Inn,255 King St E,CA,,"255 King St E, Hamilton ON L8N 1B9",Hamilton,L8N 1B9,ON,,['German Restaurant']
+Saltlick Smokehouse,282 James St N,CA,Barton Street,"282 James St N (Barton Street), Hamilton ON L8R 2L3",Hamilton,L8R 2L3,ON,,['BBQ Joint']
+Buddys Roadhouse,1360 King St E,CA,,"1360 King St E, Hamilton ON L8M 1H5",Hamilton,L8M 1H5,ON,,['Restaurant']
+McDonald's,1268 King St E,CA,at Main St E,"1268 King St E (at Main St E), Hamilton ON L8M 1G8",Hamilton,L8M 1G8,ON,,"['Burger Joint', 'Fast Food Restaurant']"
+Caribbean & Canadian food restaurant,952 Concession,CA,Upper Gage,"952 Concession (Upper Gage), Hamilton ON",Hamilton,,ON,,['Caribbean Restaurant']
+Hi-Line Centre Pizza & Wings,1150 King St E,CA,Gage,"1150 King St E (Gage), Hamilton ON L8M 1E8",Hamilton,L8M 1E8,ON,# 2,['Pizzeria']
+Breezy Corners Hamilton,1145 Main St E,CA,,"1145 Main St E, Hamilton ON L8M 1P3",Hamilton,L8M 1P3,ON,,['Breakfast Spot']
+Subway,810 Main St E,CA,,"810 Main St E, Hamilton ON L8M 1L6",Hamilton,L8M 1L6,ON,Unit 1,"['Fast Food Restaurant', 'Sandwich Spot']"
+Pita Pit,798 Concession St,CA,,"798 Concession St, Hamilton ON L8V 1C9",Hamilton,L8V 1C9,ON,,"['Sandwich Spot', 'Fast Food Restaurant']"
+Pita Pizza,526 Main St E,CA,,"526 Main St E, HAMILTON ON L8M 1J1",HAMILTON,L8M 1J1,ON,,"['Pizzeria', 'Fast Food Restaurant']"
+Little Caesars Pizza,557 Main St E,CA,,"557 Main St E, Hamilton ON L8M 1H9",Hamilton,L8M 1H9,ON,# 1,"['Pizzeria', 'Fast Food Restaurant']"
+Mississippi Queen Foods,635 King St E,CA,,"635 King St E, Hamilton ON L8N 1E5",Hamilton,L8N 1E5,ON,,"['Music Venue', 'Cajun and Creole Restaurant', 'South American Restaurant']"
+Apllada Greek Fusion Restaurant,635 King St E,CA,,"635 King St E, Hamilton ON L8N 1E5",Hamilton,L8N 1E5,ON,,['Greek Restaurant']
+DeRosa Bakery and Restaurant,71 Sanford Ave N,CA,,"71 Sanford Ave N, Hamilton ON L8L 5Y9",Hamilton,L8L 5Y9,ON,# 21,['Deli']
+Ellis Kitchen & More,455 King St E,CA,East & King,"455 King St E (East & King), Hamilton ON L8N 1C7",Hamilton,L8N 1C7,ON,,['Restaurant']
+Denninger Ltd,284 King St E,CA,,"284 King St E, Hamilton ON L8N 1B7",Hamilton,L8N 1B7,ON,,"['Deli', 'German Restaurant']"
+Owl of Minerva,309 Main St E,CA,Victoria,"309 Main St E (Victoria), Hamilton ON L8N 1H8",Hamilton,L8N 1H8,ON,,['Korean Restaurant']
+Amir Pita and Grill,114 Sanford Ave N,CA,,"114 Sanford Ave N, Hamilton ON L8L 5Z2",Hamilton,L8L 5Z2,ON,Unit 2,"['Bar', 'Fast Food Restaurant', 'Middle Eastern Restaurant']"
+Oriental Restaurant & Tavern,408 King St E,CA,,"408 King St E, Hamilton ON L8N 1C3",Hamilton,L8N 1C3,ON,,"['Diner', 'Cantonese Restaurant']"
+Queen's Pizza & Wings,838 King St E,CA,,"838 King St E, Hamilton ON L8M 1B4",Hamilton,L8M 1B4,ON,# 2,['Pizzeria']
+Bruno's Pizza & Wings,718 Main St E,CA,Sherman,"718 Main St E (Sherman), Hamilton ON L8M 1K9",Hamilton,L8M 1K9,ON,,['Pizzeria']
+Big Top Family Restaurant,754 Main St E,CA,,"754 Main St E, Hamilton ON L8M 1L1",Hamilton,L8M 1L1,ON,,['Diner']
+Subway,810 Main St E,CA,,"810 Main St E, Hamilton ON L8M 1L6",Hamilton,L8M 1L6,ON,Unit 1,"['Fast Food Restaurant', 'Sandwich Spot']"
+Vibez Caribbean and Southern Food,971 King St E,CA,,"971 King St E, Hamilton ON L8M 1C3",Hamilton,L8M 1C3,ON,,['Caribbean Restaurant']
+Tall Tree Sandwich Co,1000 King St E,CA,,"1000 King St E, Hamilton ON L8M 1C8",Hamilton,L8M 1C8,ON,,['Sandwich Spot']
+Festival Foods,1013 King St E,CA,Spadina,"1013 King St E (Spadina), Hamilton ON L8M 1C9",Hamilton,L8M 1C9,ON,,['Fast Food Restaurant']
+541 Eatery & Exchange,541 Barton St E,CA,,"541 Barton St E, Hamilton ON L8L 2Z2",Hamilton,L8L 2Z2,ON,,['Restaurant']
+DeRosa Bakery and Restaurant,71 Sanford Ave N,CA,,"71 Sanford Ave N, Hamilton ON L8L 5Y9",Hamilton,L8L 5Y9,ON,# 21,['Deli']
+Amir Pita and Grill,114 Sanford Ave N,CA,,"114 Sanford Ave N, Hamilton ON L8L 5Z2",Hamilton,L8L 5Z2,ON,Unit 2,"['Bar', 'Fast Food Restaurant', 'Middle Eastern Restaurant']"
+541 Eatery & Exchange,541 Barton St E,CA,,"541 Barton St E, Hamilton ON L8L 2Z2",Hamilton,L8L 2Z2,ON,,['Restaurant']
+Hello Baked,549 Barton St E,CA,,"549 Barton St E, Hamilton ON L8L 2Z2",Hamilton,L8L 2Z2,ON,,['Bakery']
+Frank's Sicilia Bakery,669 Barton St E,CA,Sherman Ave N,"669 Barton St E (Sherman Ave N), Hamilton ON L8L 3A3",Hamilton,L8L 3A3,ON,,['Bakery']
+Two Cougars & a Cafe,601 Burlington St E,CA,,"601 Burlington St E, Hamilton ON L8L 4J5",Hamilton,L8L 4J5,ON,,['Diner']
+Duarte Supermarket,417 Barton St E,CA,Cheevers,"417 Barton St E (Cheevers), Hamilton ON L8L 2Y4",Hamilton,L8L 2Y4,ON,,['Grocery Store']
+Starpolskie,711 Barton St E,CA,,"711 Barton St E, Hamilton ON L8L 3A7",Hamilton,L8L 3A7,ON,,['Deli']
+Amir Pita and Grill,114 Sanford Ave N,CA,,"114 Sanford Ave N, Hamilton ON L8L 5Z2",Hamilton,L8L 5Z2,ON,Unit 2,"['Bar', 'Fast Food Restaurant', 'Middle Eastern Restaurant']"
+Wingporium,737 Barton St E,CA,Barnesdale,"737 Barton St E (Barnesdale), Hamilton ON L8L 3A9",Hamilton,L8L 3A9,ON,,['Wings Joint']
+McDonald's,787 Barton St E,CA,Lottridge,"787 Barton St E (Lottridge), Hamilton ON L8L 3B2",Hamilton,L8L 3B2,ON,,"['Burger Joint', 'Fast Food Restaurant']"
+Karlik Pastry,762 Barton St E,CA,Lottridge,"762 Barton St E (Lottridge), Hamilton ON L8L 3B1",Hamilton,L8L 3B1,ON,# 1,['Bakery']
+Queen's Pizza & Wings,838 King St E,CA,,"838 King St E, Hamilton ON L8M 1B4",Hamilton,L8M 1B4,ON,# 2,['Pizzeria']
+Bruno's Pizza & Wings,718 Main St E,CA,Sherman,"718 Main St E (Sherman), Hamilton ON L8M 1K9",Hamilton,L8M 1K9,ON,,['Pizzeria']
+Big Top Family Restaurant,754 Main St E,CA,,"754 Main St E, Hamilton ON L8M 1L1",Hamilton,L8M 1L1,ON,,['Diner']
+Subway,810 Main St E,CA,,"810 Main St E, Hamilton ON L8M 1L6",Hamilton,L8M 1L6,ON,Unit 1,"['Fast Food Restaurant', 'Sandwich Spot']"
+Vibez Caribbean and Southern Food,971 King St E,CA,,"971 King St E, Hamilton ON L8M 1C3",Hamilton,L8M 1C3,ON,,['Caribbean Restaurant']
+Tall Tree Sandwich Co,1000 King St E,CA,,"1000 King St E, Hamilton ON L8M 1C8",Hamilton,L8M 1C8,ON,,['Sandwich Spot']
+Festival Foods,1013 King St E,CA,Spadina,"1013 King St E (Spadina), Hamilton ON L8M 1C9",Hamilton,L8M 1C9,ON,,['Fast Food Restaurant']
+541 Eatery & Exchange,541 Barton St E,CA,,"541 Barton St E, Hamilton ON L8L 2Z2",Hamilton,L8L 2Z2,ON,,['Restaurant']
+DeRosa Bakery and Restaurant,71 Sanford Ave N,CA,,"71 Sanford Ave N, Hamilton ON L8L 5Y9",Hamilton,L8L 5Y9,ON,# 21,['Deli']
+Amir Pita and Grill,114 Sanford Ave N,CA,,"114 Sanford Ave N, Hamilton ON L8L 5Z2",Hamilton,L8L 5Z2,ON,Unit 2,"['Bar', 'Fast Food Restaurant', 'Middle Eastern Restaurant']"
+August 8,1 Wilson St,CA,James St.,"1 Wilson St (James St.), Hamilton ON L8R 1C4",Hamilton,L8R 1C4,ON,# 12,"['Dim Sum Restaurant', 'Sushi Restaurant']"
+The Burnt Tongue,10 Cannon St E,CA,James St N,"10 Cannon St E (James St N), Hamilton ON L8L 1Z5",Hamilton,L8L 1Z5,ON,,"['Fast Food Restaurant', 'Soup Spot']"
+Mulberry Street Coffeehouse,193 James St N,CA,Mulberry St.,"193 James St N (Mulberry St.), Hamilton ON L8R 2L2",Hamilton,L8R 2L2,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+The Mule,41 King William St,CA,Hughson,"41 King William St (Hughson), Hamilton ON L8R 1A2",Hamilton,L8R 1A2,ON,,['Taco Restaurant']
+Charred,244 James St N,CA,btwn Robert St & Colbourne St,"244 James St N (btwn Robert St & Colbourne St), Hamilton ON L8R 2L3",Hamilton,L8R 2L3,ON,,"['BBQ Joint', 'Portuguese Restaurant']"
+Lulu's Shawarma,32 John St N,CA,at King William St.,"32 John St N (at King William St.), Hamilton ON L8R 1H3",Hamilton,L8R 1H3,ON,,"['Mediterranean Restaurant', 'Middle Eastern Restaurant']"
+Burrito Boyz,66 King St E,CA,,"66 King St E, Hamilton ON L8N 1A6",Hamilton,L8N 1A6,ON,,['Burrito Restaurant']
+Saltlick Smokehouse,282 James St N,CA,Barton Street,"282 James St N (Barton Street), Hamilton ON L8R 2L3",Hamilton,L8R 2L3,ON,,['BBQ Joint']
+Vida la Pita,217 King St W,CA,Caroline,"217 King St W (Caroline), Hamilton ON L8P 1A7",Hamilton,L8P 1A7,ON,,"['Fast Food Restaurant', 'Middle Eastern Restaurant']"
+Coop Hamilton,274 King St W,CA,,"274 King St W, Hamilton ON L8P 1J6",Hamilton,L8P 1J6,ON,# 272,['Fried Chicken Joint']
+Pinks Burgers,1335 Main St W,CA,,"1335 Main St W, Hamilton ON L8S 1C6",Hamilton,L8S 1C6,ON,,['Burger Joint']
+Subway,1331 Main St W,CA,at Broadway Ave.,"1331 Main St W (at Broadway Ave.), Hamilton ON L8S 1C6",Hamilton,L8S 1C6,ON,Unit 3,"['Fast Food Restaurant', 'Sandwich Spot']"
+Second Cup Café,1280 Main Street West,CA,,"1280 Main Street West, Hamilton ON L8S 4K1",Hamilton,L8S 4K1,ON,,"['Café', 'Coffee Shop']"
+Maple Leaf Pancake House,1520 Main St W,CA,,"1520 Main St W, Hamilton ON L8S 1E3",Hamilton,L8S 1E3,ON,,['Diner']
+The Chopped Leaf,1280 Main St W,CA,,"1280 Main St W, Hamilton ON L8S 4L8",Hamilton,L8S 4L8,ON,,['Salad Restaurant']
+Williams Coffee Pub,1309 Main St W,CA,,"1309 Main St W, Hamilton ON L8S 1C5",Hamilton,L8S 1C5,ON,A-2,"['Bar', 'Café', 'Diner']"
+The Arch Noodle House,1309 Main St W,CA,,"1309 Main St W, Hamilton ON L8S 1C5",Hamilton,L8S 1C5,ON,,['Noodle Restaurant']
+McMaster Children's Hospital Cafeteria,1200 Main St W,CA,,"1200 Main St W, Hamilton ON",Hamilton,,ON,,['Food Court']
+Gino's Pizza,1309 Main St W,CA,at Broadway Ave,"1309 Main St W (at Broadway Ave), Hamilton ON L8S 1C5",Hamilton,L8S 1C5,ON,,['Pizzeria']
+Willy Dog,Scholars Rd,CA,King Street West,"Scholars Rd (King Street West), Hamilton ON",Hamilton,,ON,,['Food Truck']
+Hambrgr,207 Ottawa St N,CA,,"207 Ottawa St N, Hamilton ON L8H 3Z4",Hamilton,L8H 3Z4,ON,,"['Bar', 'Burger Joint']"
+Cannon Coffee Co,179 Ottawa St N,CA,Cannon Street,"179 Ottawa St N (Cannon Street), Hamilton ON L8H 3Z4",Hamilton,L8H 3Z4,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+Boston Pizza,1219 Barton St E,CA,Kenilworth Ave. N.,"1219 Barton St E (Kenilworth Ave. N.), Hamilton ON L8H 2V4",Hamilton,L8H 2V4,ON,,['Pizzeria']
+Hi-Line Centre Pizza & Wings,1150 King St E,CA,Gage,"1150 King St E (Gage), Hamilton ON L8M 1E8",Hamilton,L8M 1E8,ON,# 2,['Pizzeria']
+Harvey's,1200 Barton St E,CA,,"1200 Barton St E, Hamilton ON L8H 2V7",Hamilton,L8H 2V7,ON,,['Restaurant']
+Hambrgr,207 Ottawa St N,CA,,"207 Ottawa St N, Hamilton ON L8H 3Z4",Hamilton,L8H 3Z4,ON,,"['Bar', 'Burger Joint']"
+Cannon Coffee Co,179 Ottawa St N,CA,Cannon Street,"179 Ottawa St N (Cannon Street), Hamilton ON L8H 3Z4",Hamilton,L8H 3Z4,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+Boston Pizza,1219 Barton St E,CA,Kenilworth Ave. N.,"1219 Barton St E (Kenilworth Ave. N.), Hamilton ON L8H 2V4",Hamilton,L8H 2V4,ON,,['Pizzeria']
+Hi-Line Centre Pizza & Wings,1150 King St E,CA,Gage,"1150 King St E (Gage), Hamilton ON L8M 1E8",Hamilton,L8M 1E8,ON,# 2,['Pizzeria']
+Harvey's,1200 Barton St E,CA,,"1200 Barton St E, Hamilton ON L8H 2V7",Hamilton,L8H 2V7,ON,,['Restaurant']
+Bonanza Bakery,100 Murray St E,CA,,"100 Murray St E, Hamilton ON L8L 3G4",Hamilton,L8L 3G4,ON,,['Bakery']
+A&W Restaurant,190 Barton St E,CA,,"190 Barton St E, Hamilton ON L8L 2W8",Hamilton,L8L 2W8,ON,,"['American Restaurant', 'Fast Food Restaurant']"
+August 8,1 Wilson St,CA,James St.,"1 Wilson St (James St.), Hamilton ON L8R 1C4",Hamilton,L8R 1C4,ON,# 12,"['Dim Sum Restaurant', 'Sushi Restaurant']"
+The Burnt Tongue,10 Cannon St E,CA,James St N,"10 Cannon St E (James St N), Hamilton ON L8L 1Z5",Hamilton,L8L 1Z5,ON,,"['Fast Food Restaurant', 'Soup Spot']"
+Mulberry Street Coffeehouse,193 James St N,CA,Mulberry St.,"193 James St N (Mulberry St.), Hamilton ON L8R 2L2",Hamilton,L8R 2L2,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+Charred,244 James St N,CA,btwn Robert St & Colbourne St,"244 James St N (btwn Robert St & Colbourne St), Hamilton ON L8R 2L3",Hamilton,L8R 2L3,ON,,"['BBQ Joint', 'Portuguese Restaurant']"
+Lulu's Shawarma,32 John St N,CA,at King William St.,"32 John St N (at King William St.), Hamilton ON L8R 1H3",Hamilton,L8R 1H3,ON,,"['Mediterranean Restaurant', 'Middle Eastern Restaurant']"
+The Mule,41 King William St,CA,Hughson,"41 King William St (Hughson), Hamilton ON L8R 1A2",Hamilton,L8R 1A2,ON,,['Taco Restaurant']
+Black Forest Inn,255 King St E,CA,,"255 King St E, Hamilton ON L8N 1B9",Hamilton,L8N 1B9,ON,,['German Restaurant']
+Saltlick Smokehouse,282 James St N,CA,Barton Street,"282 James St N (Barton Street), Hamilton ON L8R 2L3",Hamilton,L8R 2L3,ON,,['BBQ Joint']
+Pita Pit,798 Concession St,CA,,"798 Concession St, Hamilton ON L8V 1C9",Hamilton,L8V 1C9,ON,,"['Sandwich Spot', 'Fast Food Restaurant']"
+Mr Sub,760 Concession St,CA,at Concession & Sherman,"760 Concession St (at Concession & Sherman), Hamilton ON L8V 1C7",Hamilton,L8V 1C7,ON,,['Fast Food Restaurant']
+La Luna on the Mountain Restaurant,650 Concession St,CA,,"650 Concession St, Hamilton ON L8V 1B8",Hamilton,L8V 1B8,ON,,"['Diner', 'Lebanese Restaurant', 'Mediterranean Restaurant']"
+Caribbean & Canadian food restaurant,952 Concession,CA,Upper Gage,"952 Concession (Upper Gage), Hamilton ON",Hamilton,,ON,,['Caribbean Restaurant']
+Caribbean Canadian Fast Food,568 Concession St,CA,,"568 Concession St, Hamilton ON L8V 1B1",Hamilton,L8V 1B1,ON,,['Caribbean Restaurant']
+Jonny Blonde,664 Concession St,CA,,"664 Concession St, Hamilton ON L8V 4T9",Hamilton,L8V 4T9,ON,,['Dining and Drinking']
+Subway,810 Main St E,CA,,"810 Main St E, Hamilton ON L8M 1L6",Hamilton,L8M 1L6,ON,Unit 1,"['Fast Food Restaurant', 'Sandwich Spot']"
+Big Top Family Restaurant,754 Main St E,CA,,"754 Main St E, Hamilton ON L8M 1L1",Hamilton,L8M 1L1,ON,,['Diner']
+Bruno's Pizza & Wings,718 Main St E,CA,Sherman,"718 Main St E (Sherman), Hamilton ON L8M 1K9",Hamilton,L8M 1K9,ON,,['Pizzeria']
+Speedy Subs,562 Concession St,CA,East 22nd,"562 Concession St (East 22nd), Hamilton ON L8V 1A9",Hamilton,L8V 1A9,ON,,"['Fast Food Restaurant', 'Sandwich Spot']"
+Queen's Pizza & Wings,838 King St E,CA,,"838 King St E, Hamilton ON L8M 1B4",Hamilton,L8M 1B4,ON,# 2,['Pizzeria']
+Bruno's Pizza & Wings,718 Main St E,CA,Sherman,"718 Main St E (Sherman), Hamilton ON L8M 1K9",Hamilton,L8M 1K9,ON,,['Pizzeria']
+Big Top Family Restaurant,754 Main St E,CA,,"754 Main St E, Hamilton ON L8M 1L1",Hamilton,L8M 1L1,ON,,['Diner']
+Subway,810 Main St E,CA,,"810 Main St E, Hamilton ON L8M 1L6",Hamilton,L8M 1L6,ON,Unit 1,"['Fast Food Restaurant', 'Sandwich Spot']"
+Vibez Caribbean and Southern Food,971 King St E,CA,,"971 King St E, Hamilton ON L8M 1C3",Hamilton,L8M 1C3,ON,,['Caribbean Restaurant']
+Tall Tree Sandwich Co,1000 King St E,CA,,"1000 King St E, Hamilton ON L8M 1C8",Hamilton,L8M 1C8,ON,,['Sandwich Spot']
+Festival Foods,1013 King St E,CA,Spadina,"1013 King St E (Spadina), Hamilton ON L8M 1C9",Hamilton,L8M 1C9,ON,,['Fast Food Restaurant']
+541 Eatery & Exchange,541 Barton St E,CA,,"541 Barton St E, Hamilton ON L8L 2Z2",Hamilton,L8L 2Z2,ON,,['Restaurant']
+DeRosa Bakery and Restaurant,71 Sanford Ave N,CA,,"71 Sanford Ave N, Hamilton ON L8L 5Y9",Hamilton,L8L 5Y9,ON,# 21,['Deli']
+Amir Pita and Grill,114 Sanford Ave N,CA,,"114 Sanford Ave N, Hamilton ON L8L 5Z2",Hamilton,L8L 5Z2,ON,Unit 2,"['Bar', 'Fast Food Restaurant', 'Middle Eastern Restaurant']"
+Denninger Ltd,284 King St E,CA,,"284 King St E, Hamilton ON L8N 1B7",Hamilton,L8N 1B7,ON,,"['Deli', 'German Restaurant']"
+Shakespeare's Steak and Seafood,181 Main St E,CA,,"181 Main St E, Hamilton ON L8N 1H2",Hamilton,L8N 1H2,ON,,"['Diner', 'Seafood Restaurant', 'Steakhouse']"
+Black Forest Inn,255 King St E,CA,,"255 King St E, Hamilton ON L8N 1B9",Hamilton,L8N 1B9,ON,,['German Restaurant']
+Tea Hut,100 Main St E,CA,,"100 Main St E, Hamilton ON L8N 3W4",Hamilton,L8N 3W4,ON,# 100,"['Bar', 'Diner', 'Asian Restaurant']"
+Owl of Minerva,309 Main St E,CA,Victoria,"309 Main St E (Victoria), Hamilton ON L8N 1H8",Hamilton,L8N 1H8,ON,,['Korean Restaurant']
+Oriental Restaurant & Tavern,408 King St E,CA,,"408 King St E, Hamilton ON L8N 1C3",Hamilton,L8N 1C3,ON,,"['Diner', 'Cantonese Restaurant']"
+Ajio Sushi,161 King St E,CA,Mary St,"161 King St E (Mary St), Hamilton ON L8N 1B1",Hamilton,L8N 1B1,ON,,['Sushi Restaurant']
+Pizza Hut,203 Main St E,CA,,"203 Main St E, Stayner ON L0M 1S0",Stayner,L0M 1S0,ON,,"['Pizzeria', 'Fast Food Restaurant']"
+Atlantic Submarines,212 John St S,CA,Young Street,"212 John St S (Young Street), Hamilton ON L8N 2C8",Hamilton,L8N 2C8,ON,,['Sandwich Spot']
+Burrito Boyz,66 King St E,CA,,"66 King St E, Hamilton ON L8N 1A6",Hamilton,L8N 1A6,ON,,['Burrito Restaurant']
+La Luna on the Mountain Restaurant,650 Concession St,CA,,"650 Concession St, Hamilton ON L8V 1B8",Hamilton,L8V 1B8,ON,,"['Diner', 'Lebanese Restaurant', 'Mediterranean Restaurant']"
+Caribbean Canadian Fast Food,568 Concession St,CA,,"568 Concession St, Hamilton ON L8V 1B1",Hamilton,L8V 1B1,ON,,['Caribbean Restaurant']
+Speedy Subs,562 Concession St,CA,East 22nd,"562 Concession St (East 22nd), Hamilton ON L8V 1A9",Hamilton,L8V 1A9,ON,,"['Fast Food Restaurant', 'Sandwich Spot']"
+Fishing Sushi,542 Concession St,CA,,"542 Concession St, Hamilton ON L8V 1A9",Hamilton,L8V 1A9,ON,,"['Fast Food Restaurant', 'Sushi Restaurant']"
+Jonny Blonde,664 Concession St,CA,,"664 Concession St, Hamilton ON L8V 4T9",Hamilton,L8V 4T9,ON,,['Dining and Drinking']
+Mr Sub,760 Concession St,CA,at Concession & Sherman,"760 Concession St (at Concession & Sherman), Hamilton ON L8V 1C7",Hamilton,L8V 1C7,ON,,['Fast Food Restaurant']
+Fat Bastard Burrito Co,447 Concession St,CA,,"447 Concession St, Hamilton ON L9A 1C1",Hamilton,L9A 1C1,ON,,"['Burrito Restaurant', 'Restaurant']"
+Chicago Style Pizza Shack,534 Upper Sherman Ave,CA,,"534 Upper Sherman Ave, Hamilton ON L8V 3M1",Hamilton,L8V 3M1,ON,,['Pizzeria']
+Pita Pit,798 Concession St,CA,,"798 Concession St, Hamilton ON L8V 1C9",Hamilton,L8V 1C9,ON,,"['Sandwich Spot', 'Fast Food Restaurant']"
+Mahal Restaurant,527 Upper Sherman Ave,CA,,"527 Upper Sherman Ave, Hamilton ON L8V 3L9",Hamilton,L8V 3L9,ON,,"['Indian Restaurant', 'Pakistani Restaurant']"
+Bonanza Bakery,100 Murray St E,CA,,"100 Murray St E, Hamilton ON L8L 3G4",Hamilton,L8L 3G4,ON,,['Bakery']
+A&W Restaurant,190 Barton St E,CA,,"190 Barton St E, Hamilton ON L8L 2W8",Hamilton,L8L 2W8,ON,,"['American Restaurant', 'Fast Food Restaurant']"
+August 8,1 Wilson St,CA,James St.,"1 Wilson St (James St.), Hamilton ON L8R 1C4",Hamilton,L8R 1C4,ON,# 12,"['Dim Sum Restaurant', 'Sushi Restaurant']"
+The Burnt Tongue,10 Cannon St E,CA,James St N,"10 Cannon St E (James St N), Hamilton ON L8L 1Z5",Hamilton,L8L 1Z5,ON,,"['Fast Food Restaurant', 'Soup Spot']"
+Mulberry Street Coffeehouse,193 James St N,CA,Mulberry St.,"193 James St N (Mulberry St.), Hamilton ON L8R 2L2",Hamilton,L8R 2L2,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+Charred,244 James St N,CA,btwn Robert St & Colbourne St,"244 James St N (btwn Robert St & Colbourne St), Hamilton ON L8R 2L3",Hamilton,L8R 2L3,ON,,"['BBQ Joint', 'Portuguese Restaurant']"
+Lulu's Shawarma,32 John St N,CA,at King William St.,"32 John St N (at King William St.), Hamilton ON L8R 1H3",Hamilton,L8R 1H3,ON,,"['Mediterranean Restaurant', 'Middle Eastern Restaurant']"
+The Mule,41 King William St,CA,Hughson,"41 King William St (Hughson), Hamilton ON L8R 1A2",Hamilton,L8R 1A2,ON,,['Taco Restaurant']
+Black Forest Inn,255 King St E,CA,,"255 King St E, Hamilton ON L8N 1B9",Hamilton,L8N 1B9,ON,,['German Restaurant']
+Saltlick Smokehouse,282 James St N,CA,Barton Street,"282 James St N (Barton Street), Hamilton ON L8R 2L3",Hamilton,L8R 2L3,ON,,['BBQ Joint']
+Bonanza Bakery,100 Murray St E,CA,,"100 Murray St E, Hamilton ON L8L 3G4",Hamilton,L8L 3G4,ON,,['Bakery']
+A&W Restaurant,190 Barton St E,CA,,"190 Barton St E, Hamilton ON L8L 2W8",Hamilton,L8L 2W8,ON,,"['American Restaurant', 'Fast Food Restaurant']"
+August 8,1 Wilson St,CA,James St.,"1 Wilson St (James St.), Hamilton ON L8R 1C4",Hamilton,L8R 1C4,ON,# 12,"['Dim Sum Restaurant', 'Sushi Restaurant']"
+The Burnt Tongue,10 Cannon St E,CA,James St N,"10 Cannon St E (James St N), Hamilton ON L8L 1Z5",Hamilton,L8L 1Z5,ON,,"['Fast Food Restaurant', 'Soup Spot']"
+Mulberry Street Coffeehouse,193 James St N,CA,Mulberry St.,"193 James St N (Mulberry St.), Hamilton ON L8R 2L2",Hamilton,L8R 2L2,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+Charred,244 James St N,CA,btwn Robert St & Colbourne St,"244 James St N (btwn Robert St & Colbourne St), Hamilton ON L8R 2L3",Hamilton,L8R 2L3,ON,,"['BBQ Joint', 'Portuguese Restaurant']"
+Lulu's Shawarma,32 John St N,CA,at King William St.,"32 John St N (at King William St.), Hamilton ON L8R 1H3",Hamilton,L8R 1H3,ON,,"['Mediterranean Restaurant', 'Middle Eastern Restaurant']"
+The Mule,41 King William St,CA,Hughson,"41 King William St (Hughson), Hamilton ON L8R 1A2",Hamilton,L8R 1A2,ON,,['Taco Restaurant']
+Black Forest Inn,255 King St E,CA,,"255 King St E, Hamilton ON L8N 1B9",Hamilton,L8N 1B9,ON,,['German Restaurant']
+Saltlick Smokehouse,282 James St N,CA,Barton Street,"282 James St N (Barton Street), Hamilton ON L8R 2L3",Hamilton,L8R 2L3,ON,,['BBQ Joint']
+Duarte Supermarket,417 Barton St E,CA,Cheevers,"417 Barton St E (Cheevers), Hamilton ON L8L 2Y4",Hamilton,L8L 2Y4,ON,,['Grocery Store']
+KFC,307 Cannon St E,CA,East ave,"307 Cannon St E (East ave), Hamilton ON L8L 2B7",Hamilton,L8L 2B7,ON,,"['Fried Chicken Joint', 'Fast Food Restaurant']"
+541 Eatery & Exchange,541 Barton St E,CA,,"541 Barton St E, Hamilton ON L8L 2Z2",Hamilton,L8L 2Z2,ON,,['Restaurant']
+A&W Restaurant,190 Barton St E,CA,,"190 Barton St E, Hamilton ON L8L 2W8",Hamilton,L8L 2W8,ON,,"['American Restaurant', 'Fast Food Restaurant']"
+Hello Baked,549 Barton St E,CA,,"549 Barton St E, Hamilton ON L8L 2Z2",Hamilton,L8L 2Z2,ON,,['Bakery']
+Amir Pita and Grill,114 Sanford Ave N,CA,,"114 Sanford Ave N, Hamilton ON L8L 5Z2",Hamilton,L8L 5Z2,ON,Unit 2,"['Bar', 'Fast Food Restaurant', 'Middle Eastern Restaurant']"
+Plaza Pizza & Wings,90 Wellington St N,CA,Wilson,"90 Wellington St N (Wilson), Hamilton ON L8R 1N1",Hamilton,L8R 1N1,ON,,['Pizzeria']
+DeRosa Bakery and Restaurant,71 Sanford Ave N,CA,,"71 Sanford Ave N, Hamilton ON L8L 5Y9",Hamilton,L8L 5Y9,ON,# 21,['Deli']
+Apllada Greek Fusion Restaurant,635 King St E,CA,,"635 King St E, Hamilton ON L8N 1E5",Hamilton,L8N 1E5,ON,,['Greek Restaurant']
+Mississippi Queen Foods,635 King St E,CA,,"635 King St E, Hamilton ON L8N 1E5",Hamilton,L8N 1E5,ON,,"['Music Venue', 'Cajun and Creole Restaurant', 'South American Restaurant']"
+Two Cougars & a Cafe,601 Burlington St E,CA,,"601 Burlington St E, Hamilton ON L8L 4J5",Hamilton,L8L 4J5,ON,,['Diner']
+541 Eatery & Exchange,541 Barton St E,CA,,"541 Barton St E, Hamilton ON L8L 2Z2",Hamilton,L8L 2Z2,ON,,['Restaurant']
+Hello Baked,549 Barton St E,CA,,"549 Barton St E, Hamilton ON L8L 2Z2",Hamilton,L8L 2Z2,ON,,['Bakery']
+Frank's Sicilia Bakery,669 Barton St E,CA,Sherman Ave N,"669 Barton St E (Sherman Ave N), Hamilton ON L8L 3A3",Hamilton,L8L 3A3,ON,,['Bakery']
+Two Cougars & a Cafe,601 Burlington St E,CA,,"601 Burlington St E, Hamilton ON L8L 4J5",Hamilton,L8L 4J5,ON,,['Diner']
+Duarte Supermarket,417 Barton St E,CA,Cheevers,"417 Barton St E (Cheevers), Hamilton ON L8L 2Y4",Hamilton,L8L 2Y4,ON,,['Grocery Store']
+Starpolskie,711 Barton St E,CA,,"711 Barton St E, Hamilton ON L8L 3A7",Hamilton,L8L 3A7,ON,,['Deli']
+Amir Pita and Grill,114 Sanford Ave N,CA,,"114 Sanford Ave N, Hamilton ON L8L 5Z2",Hamilton,L8L 5Z2,ON,Unit 2,"['Bar', 'Fast Food Restaurant', 'Middle Eastern Restaurant']"
+Wingporium,737 Barton St E,CA,Barnesdale,"737 Barton St E (Barnesdale), Hamilton ON L8L 3A9",Hamilton,L8L 3A9,ON,,['Wings Joint']
+McDonald's,787 Barton St E,CA,Lottridge,"787 Barton St E (Lottridge), Hamilton ON L8L 3B2",Hamilton,L8L 3B2,ON,,"['Burger Joint', 'Fast Food Restaurant']"
+Karlik Pastry,762 Barton St E,CA,Lottridge,"762 Barton St E (Lottridge), Hamilton ON L8L 3B1",Hamilton,L8L 3B1,ON,# 1,['Bakery']
+McDonald's,787 Barton St E,CA,Lottridge,"787 Barton St E (Lottridge), Hamilton ON L8L 3B2",Hamilton,L8L 3B2,ON,,"['Burger Joint', 'Fast Food Restaurant']"
+Wingporium,737 Barton St E,CA,Barnesdale,"737 Barton St E (Barnesdale), Hamilton ON L8L 3A9",Hamilton,L8L 3A9,ON,,['Wings Joint']
+Karlik Pastry,762 Barton St E,CA,Lottridge,"762 Barton St E (Lottridge), Hamilton ON L8L 3B1",Hamilton,L8L 3B1,ON,# 1,['Bakery']
+Subway,847 Barton St E,CA,,"847 Barton St E, Hamilton ON L8L 3B4",Hamilton,L8L 3B4,ON,,"['Fast Food Restaurant', 'Sandwich Spot']"
+Starpolskie,711 Barton St E,CA,,"711 Barton St E, Hamilton ON L8L 3A7",Hamilton,L8L 3A7,ON,,['Deli']
+KFC,856 Barton St E,CA,,"856 Barton St E, Hamilton ON L8L 3B5",Hamilton,L8L 3B5,ON,,['Fast Food Restaurant']
+KFC,Barton St,CA,,"Barton St, Hamilton ON L8L 6Y5",Hamilton,L8L 6Y5,ON,,['Fast Food Restaurant']
+Frank's Sicilia Bakery,669 Barton St E,CA,Sherman Ave N,"669 Barton St E (Sherman Ave N), Hamilton ON L8L 3A3",Hamilton,L8L 3A3,ON,,['Bakery']
+Venetian Meat & Salami Co Ltd,947 Burlington St E,CA,Gage,"947 Burlington St E (Gage), Hamilton ON L8L 4K6",Hamilton,L8L 4K6,ON,,"['Butcher', 'Meat and Seafood Store', 'Sausage Store']"
+The Purple Pear,946 Barton St E,CA,,"946 Barton St E, Hamilton ON L8L 3C5",Hamilton,L8L 3C5,ON,,"['Diner', 'Seafood Restaurant']"
+Denninger Ltd,284 King St E,CA,,"284 King St E, Hamilton ON L8N 1B7",Hamilton,L8N 1B7,ON,,"['Deli', 'German Restaurant']"
+Shakespeare's Steak and Seafood,181 Main St E,CA,,"181 Main St E, Hamilton ON L8N 1H2",Hamilton,L8N 1H2,ON,,"['Diner', 'Seafood Restaurant', 'Steakhouse']"
+Black Forest Inn,255 King St E,CA,,"255 King St E, Hamilton ON L8N 1B9",Hamilton,L8N 1B9,ON,,['German Restaurant']
+Tea Hut,100 Main St E,CA,,"100 Main St E, Hamilton ON L8N 3W4",Hamilton,L8N 3W4,ON,# 100,"['Bar', 'Diner', 'Asian Restaurant']"
+Owl of Minerva,309 Main St E,CA,Victoria,"309 Main St E (Victoria), Hamilton ON L8N 1H8",Hamilton,L8N 1H8,ON,,['Korean Restaurant']
+Oriental Restaurant & Tavern,408 King St E,CA,,"408 King St E, Hamilton ON L8N 1C3",Hamilton,L8N 1C3,ON,,"['Diner', 'Cantonese Restaurant']"
+Ajio Sushi,161 King St E,CA,Mary St,"161 King St E (Mary St), Hamilton ON L8N 1B1",Hamilton,L8N 1B1,ON,,['Sushi Restaurant']
+Pizza Hut,203 Main St E,CA,,"203 Main St E, Stayner ON L0M 1S0",Stayner,L0M 1S0,ON,,"['Pizzeria', 'Fast Food Restaurant']"
+Atlantic Submarines,212 John St S,CA,Young Street,"212 John St S (Young Street), Hamilton ON L8N 2C8",Hamilton,L8N 2C8,ON,,['Sandwich Spot']
+Burrito Boyz,66 King St E,CA,,"66 King St E, Hamilton ON L8N 1A6",Hamilton,L8N 1A6,ON,,['Burrito Restaurant']
+Denninger Ltd,284 King St E,CA,,"284 King St E, Hamilton ON L8N 1B7",Hamilton,L8N 1B7,ON,,"['Deli', 'German Restaurant']"
+Shakespeare's Steak and Seafood,181 Main St E,CA,,"181 Main St E, Hamilton ON L8N 1H2",Hamilton,L8N 1H2,ON,,"['Diner', 'Seafood Restaurant', 'Steakhouse']"
+Black Forest Inn,255 King St E,CA,,"255 King St E, Hamilton ON L8N 1B9",Hamilton,L8N 1B9,ON,,['German Restaurant']
+Tea Hut,100 Main St E,CA,,"100 Main St E, Hamilton ON L8N 3W4",Hamilton,L8N 3W4,ON,# 100,"['Bar', 'Diner', 'Asian Restaurant']"
+Owl of Minerva,309 Main St E,CA,Victoria,"309 Main St E (Victoria), Hamilton ON L8N 1H8",Hamilton,L8N 1H8,ON,,['Korean Restaurant']
+Oriental Restaurant & Tavern,408 King St E,CA,,"408 King St E, Hamilton ON L8N 1C3",Hamilton,L8N 1C3,ON,,"['Diner', 'Cantonese Restaurant']"
+Ajio Sushi,161 King St E,CA,Mary St,"161 King St E (Mary St), Hamilton ON L8N 1B1",Hamilton,L8N 1B1,ON,,['Sushi Restaurant']
+Pizza Hut,203 Main St E,CA,,"203 Main St E, Stayner ON L0M 1S0",Stayner,L0M 1S0,ON,,"['Pizzeria', 'Fast Food Restaurant']"
+Atlantic Submarines,212 John St S,CA,Young Street,"212 John St S (Young Street), Hamilton ON L8N 2C8",Hamilton,L8N 2C8,ON,,['Sandwich Spot']
+Burrito Boyz,66 King St E,CA,,"66 King St E, Hamilton ON L8N 1A6",Hamilton,L8N 1A6,ON,,['Burrito Restaurant']
+Pinks Burgers,1335 Main St W,CA,,"1335 Main St W, Hamilton ON L8S 1C6",Hamilton,L8S 1C6,ON,,['Burger Joint']
+Subway,1331 Main St W,CA,at Broadway Ave.,"1331 Main St W (at Broadway Ave.), Hamilton ON L8S 1C6",Hamilton,L8S 1C6,ON,Unit 3,"['Fast Food Restaurant', 'Sandwich Spot']"
+Second Cup Café,1280 Main Street West,CA,,"1280 Main Street West, Hamilton ON L8S 4K1",Hamilton,L8S 4K1,ON,,"['Café', 'Coffee Shop']"
+Maple Leaf Pancake House,1520 Main St W,CA,,"1520 Main St W, Hamilton ON L8S 1E3",Hamilton,L8S 1E3,ON,,['Diner']
+The Chopped Leaf,1280 Main St W,CA,,"1280 Main St W, Hamilton ON L8S 4L8",Hamilton,L8S 4L8,ON,,['Salad Restaurant']
+Williams Coffee Pub,1309 Main St W,CA,,"1309 Main St W, Hamilton ON L8S 1C5",Hamilton,L8S 1C5,ON,A-2,"['Bar', 'Café', 'Diner']"
+The Arch Noodle House,1309 Main St W,CA,,"1309 Main St W, Hamilton ON L8S 1C5",Hamilton,L8S 1C5,ON,,['Noodle Restaurant']
+McMaster Children's Hospital Cafeteria,1200 Main St W,CA,,"1200 Main St W, Hamilton ON",Hamilton,,ON,,['Food Court']
+Gino's Pizza,1309 Main St W,CA,at Broadway Ave,"1309 Main St W (at Broadway Ave), Hamilton ON L8S 1C5",Hamilton,L8S 1C5,ON,,['Pizzeria']
+Willy Dog,Scholars Rd,CA,King Street West,"Scholars Rd (King Street West), Hamilton ON",Hamilton,,ON,,['Food Truck']
+Denninger Ltd,284 King St E,CA,,"284 King St E, Hamilton ON L8N 1B7",Hamilton,L8N 1B7,ON,,"['Deli', 'German Restaurant']"
+Shakespeare's Steak and Seafood,181 Main St E,CA,,"181 Main St E, Hamilton ON L8N 1H2",Hamilton,L8N 1H2,ON,,"['Diner', 'Seafood Restaurant', 'Steakhouse']"
+Black Forest Inn,255 King St E,CA,,"255 King St E, Hamilton ON L8N 1B9",Hamilton,L8N 1B9,ON,,['German Restaurant']
+Tea Hut,100 Main St E,CA,,"100 Main St E, Hamilton ON L8N 3W4",Hamilton,L8N 3W4,ON,# 100,"['Bar', 'Diner', 'Asian Restaurant']"
+Owl of Minerva,309 Main St E,CA,Victoria,"309 Main St E (Victoria), Hamilton ON L8N 1H8",Hamilton,L8N 1H8,ON,,['Korean Restaurant']
+Oriental Restaurant & Tavern,408 King St E,CA,,"408 King St E, Hamilton ON L8N 1C3",Hamilton,L8N 1C3,ON,,"['Diner', 'Cantonese Restaurant']"
+Ajio Sushi,161 King St E,CA,Mary St,"161 King St E (Mary St), Hamilton ON L8N 1B1",Hamilton,L8N 1B1,ON,,['Sushi Restaurant']
+Pizza Hut,203 Main St E,CA,,"203 Main St E, Stayner ON L0M 1S0",Stayner,L0M 1S0,ON,,"['Pizzeria', 'Fast Food Restaurant']"
+Atlantic Submarines,212 John St S,CA,Young Street,"212 John St S (Young Street), Hamilton ON L8N 2C8",Hamilton,L8N 2C8,ON,,['Sandwich Spot']
+Burrito Boyz,66 King St E,CA,,"66 King St E, Hamilton ON L8N 1A6",Hamilton,L8N 1A6,ON,,['Burrito Restaurant']
+Pinks Burgers,1335 Main St W,CA,,"1335 Main St W, Hamilton ON L8S 1C6",Hamilton,L8S 1C6,ON,,['Burger Joint']
+Subway,1331 Main St W,CA,at Broadway Ave.,"1331 Main St W (at Broadway Ave.), Hamilton ON L8S 1C6",Hamilton,L8S 1C6,ON,Unit 3,"['Fast Food Restaurant', 'Sandwich Spot']"
+Second Cup Café,1280 Main Street West,CA,,"1280 Main Street West, Hamilton ON L8S 4K1",Hamilton,L8S 4K1,ON,,"['Café', 'Coffee Shop']"
+Maple Leaf Pancake House,1520 Main St W,CA,,"1520 Main St W, Hamilton ON L8S 1E3",Hamilton,L8S 1E3,ON,,['Diner']
+The Chopped Leaf,1280 Main St W,CA,,"1280 Main St W, Hamilton ON L8S 4L8",Hamilton,L8S 4L8,ON,,['Salad Restaurant']
+Williams Coffee Pub,1309 Main St W,CA,,"1309 Main St W, Hamilton ON L8S 1C5",Hamilton,L8S 1C5,ON,A-2,"['Bar', 'Café', 'Diner']"
+The Arch Noodle House,1309 Main St W,CA,,"1309 Main St W, Hamilton ON L8S 1C5",Hamilton,L8S 1C5,ON,,['Noodle Restaurant']
+McMaster Children's Hospital Cafeteria,1200 Main St W,CA,,"1200 Main St W, Hamilton ON",Hamilton,,ON,,['Food Court']
+Gino's Pizza,1309 Main St W,CA,at Broadway Ave,"1309 Main St W (at Broadway Ave), Hamilton ON L8S 1C5",Hamilton,L8S 1C5,ON,,['Pizzeria']
+Willy Dog,Scholars Rd,CA,King Street West,"Scholars Rd (King Street West), Hamilton ON",Hamilton,,ON,,['Food Truck']
+La Luna Restaurant Downtown,306 King St W,CA,at Queen St,"306 King St W (at Queen St), Hamilton ON L8P 1B1",Hamilton,L8P 1B1,ON,,"['Lebanese Restaurant', 'Mediterranean Restaurant', 'Mexican Restaurant']"
+Coop Hamilton,274 King St W,CA,,"274 King St W, Hamilton ON L8P 1J6",Hamilton,L8P 1J6,ON,# 272,['Fried Chicken Joint']
+Smoke's Poutinerie,112 George St,CA,at Queen St. S.,"112 George St (at Queen St. S.), Hamilton ON L8P 1E2",Hamilton,L8P 1E2,ON,,"['Fast Food Restaurant', 'Poutine Restaurant', 'Steakhouse']"
+Coop Wicked Chicken Hamilton,274 King St W,CA,Hess St,"274 King St W (Hess St), Hamilton ON L8P 1J6",Hamilton,L8P 1J6,ON,# 272,['Fried Chicken Joint']
+Vida la Pita,217 King St W,CA,Caroline,"217 King St W (Caroline), Hamilton ON L8P 1A7",Hamilton,L8P 1A7,ON,,"['Fast Food Restaurant', 'Middle Eastern Restaurant']"
+Wimpy's Diner,405 Main St W,CA,,"405 Main St W, Hamilton ON L8P 1K5",Hamilton,L8P 1K5,ON,,['Diner']
+Brown Dog Coffee Shop,211 Locke St S,CA,,"211 Locke St S, Hamilton ON L8P 4B6",Hamilton,L8P 4B6,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+The Burnt Tongue,182 Locke St S,CA,Pine St.,"182 Locke St S (Pine St.), Hamilton ON L8P 4B3",Hamilton,L8P 4B3,ON,,['Soup Spot']
+Pizza Hut,610 King St W,CA,Dundurn,"610 King St W (Dundurn), Hamilton ON L8P 1C2",Hamilton,L8P 1C2,ON,,"['Pizzeria', 'Fast Food Restaurant']"
+Donut Monster,246 Locke St S,CA,,"246 Locke St S, Hamilton ON L8P 4B9",Hamilton,L8P 4B9,ON,,"['Bagel Shop', 'Bakery', 'Restaurant']"
+Fisher's Pier 4 Pub & Grub,554 James St N,CA,,"554 James St N, Hamilton ON L8L 1J5",Hamilton,L8L 1J5,ON,,['Restaurant']
+The Harbour Diner,486 James St N,CA,btwn Ferrie St and Picton St,"486 James St N (btwn Ferrie St and Picton St), Hamilton ON L8L 1J1",Hamilton,L8L 1J1,ON,,"['Diner', 'Comfort Food Restaurant']"
+Weston Pizza and Wings,574 James St N,CA,,"574 James St N, Hamilton ON L8L 1J7",Hamilton,L8L 1J7,ON,,['Pizzeria']
+Bonanza Bakery,100 Murray St E,CA,,"100 Murray St E, Hamilton ON L8L 3G4",Hamilton,L8L 3G4,ON,,['Bakery']
+North End Pita,574 James St N,CA,Burlington St E,"574 James St N (Burlington St E), Hamilton ON L8L 1J7",Hamilton,L8L 1J7,ON,,"['Chinese Restaurant', 'Fast Food Restaurant', 'Middle Eastern Restaurant']"
+Williams Fresh Cafe,47 Discovery Dr,CA,Guise St. E.,"47 Discovery Dr (Guise St. E.), Hamilton ON L8L 8B4",Hamilton,L8L 8B4,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+The Beergarden,207 Burlington St E,CA,,"207 Burlington St E, Hamilton ON L8L 4H2",Hamilton,L8L 4H2,ON,,['Hot Dog Joint']
+Saltlick Smokehouse,282 James St N,CA,Barton Street,"282 James St N (Barton Street), Hamilton ON L8R 2L3",Hamilton,L8R 2L3,ON,,['BBQ Joint']
+Charred,244 James St N,CA,btwn Robert St & Colbourne St,"244 James St N (btwn Robert St & Colbourne St), Hamilton ON L8R 2L3",Hamilton,L8R 2L3,ON,,"['BBQ Joint', 'Portuguese Restaurant']"
+Born and Raised,224 James St N,CA,,"224 James St N, Hamilton ON L8R 2L3",Hamilton,L8R 2L3,ON,,"['Gastropub', 'Italian Restaurant']"
+Williams Fresh Cafe,47 Discovery Dr,CA,Guise St. E.,"47 Discovery Dr (Guise St. E.), Hamilton ON L8L 8B4",Hamilton,L8L 8B4,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+Fisher's Pier 4 Pub & Grub,554 James St N,CA,,"554 James St N, Hamilton ON L8L 1J5",Hamilton,L8L 1J5,ON,,['Restaurant']
+North End Pita,574 James St N,CA,Burlington St E,"574 James St N (Burlington St E), Hamilton ON L8L 1J7",Hamilton,L8L 1J7,ON,,"['Chinese Restaurant', 'Fast Food Restaurant', 'Middle Eastern Restaurant']"
+Weston Pizza and Wings,574 James St N,CA,,"574 James St N, Hamilton ON L8L 1J7",Hamilton,L8L 1J7,ON,,['Pizzeria']
+Pinks Burgers,1335 Main St W,CA,,"1335 Main St W, Hamilton ON L8S 1C6",Hamilton,L8S 1C6,ON,,['Burger Joint']
+Subway,1331 Main St W,CA,at Broadway Ave.,"1331 Main St W (at Broadway Ave.), Hamilton ON L8S 1C6",Hamilton,L8S 1C6,ON,Unit 3,"['Fast Food Restaurant', 'Sandwich Spot']"
+Maple Leaf Pancake House,1520 Main St W,CA,,"1520 Main St W, Hamilton ON L8S 1E3",Hamilton,L8S 1E3,ON,,['Diner']
+Williams Coffee Pub,1309 Main St W,CA,,"1309 Main St W, Hamilton ON L8S 1C5",Hamilton,L8S 1C5,ON,A-2,"['Bar', 'Café', 'Diner']"
+Tally Ho Restaurants,1536 Main St W,CA,,"1536 Main St W, Hamilton ON L8S 1E4",Hamilton,L8S 1E4,ON,,"['Chinese Restaurant', 'Fast Food Restaurant', 'Greek Restaurant']"
+Gino's Pizza,1309 Main St W,CA,at Broadway Ave,"1309 Main St W (at Broadway Ave), Hamilton ON L8S 1C5",Hamilton,L8S 1C5,ON,,['Pizzeria']
+The Arch Noodle House,1309 Main St W,CA,,"1309 Main St W, Hamilton ON L8S 1C5",Hamilton,L8S 1C5,ON,,['Noodle Restaurant']
+Dough Box Pizza and Pasta,1457 Main St W,CA,,"1457 Main St W, Hamilton ON L8S 1C9",Hamilton,L8S 1C9,ON,,['Pizzeria']
+Beijing Hut,1467 Main St W,CA,,"1467 Main St W, Hamilton ON L8S 1C9",Hamilton,L8S 1C9,ON,,['Chinese Restaurant']
+Second Cup Café,1280 Main Street West,CA,,"1280 Main Street West, Hamilton ON L8S 4K1",Hamilton,L8S 4K1,ON,,"['Café', 'Coffee Shop']"
+Atlantic Submarines,212 John St S,CA,Young Street,"212 John St S (Young Street), Hamilton ON L8N 2C8",Hamilton,L8N 2C8,ON,,['Sandwich Spot']
+Red Crow Coffee,211 James St S,CA,Charlton Ave,"211 James St S (Charlton Ave), Hamilton ON L8P 3B2",Hamilton,L8P 3B2,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+Wass Ethiopian Restaurant,207 James St N,CA,at Forest Ave.,"207 James St N (at Forest Ave.), Hamilton ON L8R 2L2",Hamilton,L8R 2L2,ON,,['Ethiopian Restaurant']
+Bronzie's Place,201 James St S,CA,at Forest Ave,"201 James St S (at Forest Ave), Hamilton ON L8P 3A8",Hamilton,L8P 3A8,ON,,['Pizzeria']
+One Duke Restaurant & Lounge,1 Duke St,CA,at James St. South,"1 Duke St (at James St. South), Hamilton ON L8P 1W9",Hamilton,L8P 1W9,ON,,"['American Restaurant', 'Comfort Food Restaurant', 'Italian Restaurant']"
+Mezcal TNT,150 James St S,CA,Augusta,"150 James St S (Augusta), Hamilton ON L8P 3A2",Hamilton,L8P 3A2,ON,,"['Bar', 'Tex-Mex Restaurant']"
+Radius,151 James St S,CA,at Augusta St,"151 James St S (at Augusta St), Hamilton ON L8P 2Z5",Hamilton,L8P 2Z5,ON,,['Fast Food Restaurant']
+Tea Hut,100 Main St E,CA,,"100 Main St E, Hamilton ON L8N 3W4",Hamilton,L8N 3W4,ON,# 100,"['Bar', 'Diner', 'Asian Restaurant']"
+Burrito Boyz,66 King St E,CA,,"66 King St E, Hamilton ON L8N 1A6",Hamilton,L8N 1A6,ON,,['Burrito Restaurant']
+Shakespeare's Steak and Seafood,181 Main St E,CA,,"181 Main St E, Hamilton ON L8N 1H2",Hamilton,L8N 1H2,ON,,"['Diner', 'Seafood Restaurant', 'Steakhouse']"
+August 8,1 Wilson St,CA,James St.,"1 Wilson St (James St.), Hamilton ON L8R 1C4",Hamilton,L8R 1C4,ON,# 12,"['Dim Sum Restaurant', 'Sushi Restaurant']"
+The Burnt Tongue,10 Cannon St E,CA,James St N,"10 Cannon St E (James St N), Hamilton ON L8L 1Z5",Hamilton,L8L 1Z5,ON,,"['Fast Food Restaurant', 'Soup Spot']"
+Mulberry Street Coffeehouse,193 James St N,CA,Mulberry St.,"193 James St N (Mulberry St.), Hamilton ON L8R 2L2",Hamilton,L8R 2L2,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+The Mule,41 King William St,CA,Hughson,"41 King William St (Hughson), Hamilton ON L8R 1A2",Hamilton,L8R 1A2,ON,,['Taco Restaurant']
+Charred,244 James St N,CA,btwn Robert St & Colbourne St,"244 James St N (btwn Robert St & Colbourne St), Hamilton ON L8R 2L3",Hamilton,L8R 2L3,ON,,"['BBQ Joint', 'Portuguese Restaurant']"
+Lulu's Shawarma,32 John St N,CA,at King William St.,"32 John St N (at King William St.), Hamilton ON L8R 1H3",Hamilton,L8R 1H3,ON,,"['Mediterranean Restaurant', 'Middle Eastern Restaurant']"
+Burrito Boyz,66 King St E,CA,,"66 King St E, Hamilton ON L8N 1A6",Hamilton,L8N 1A6,ON,,['Burrito Restaurant']
+Saltlick Smokehouse,282 James St N,CA,Barton Street,"282 James St N (Barton Street), Hamilton ON L8R 2L3",Hamilton,L8R 2L3,ON,,['BBQ Joint']
+Vida la Pita,217 King St W,CA,Caroline,"217 King St W (Caroline), Hamilton ON L8P 1A7",Hamilton,L8P 1A7,ON,,"['Fast Food Restaurant', 'Middle Eastern Restaurant']"
+Coop Hamilton,274 King St W,CA,,"274 King St W, Hamilton ON L8P 1J6",Hamilton,L8P 1J6,ON,# 272,['Fried Chicken Joint']
+Fisher's Pier 4 Pub & Grub,554 James St N,CA,,"554 James St N, Hamilton ON L8L 1J5",Hamilton,L8L 1J5,ON,,['Restaurant']
+The Harbour Diner,486 James St N,CA,btwn Ferrie St and Picton St,"486 James St N (btwn Ferrie St and Picton St), Hamilton ON L8L 1J1",Hamilton,L8L 1J1,ON,,"['Diner', 'Comfort Food Restaurant']"
+Weston Pizza and Wings,574 James St N,CA,,"574 James St N, Hamilton ON L8L 1J7",Hamilton,L8L 1J7,ON,,['Pizzeria']
+Bonanza Bakery,100 Murray St E,CA,,"100 Murray St E, Hamilton ON L8L 3G4",Hamilton,L8L 3G4,ON,,['Bakery']
+North End Pita,574 James St N,CA,Burlington St E,"574 James St N (Burlington St E), Hamilton ON L8L 1J7",Hamilton,L8L 1J7,ON,,"['Chinese Restaurant', 'Fast Food Restaurant', 'Middle Eastern Restaurant']"
+Williams Fresh Cafe,47 Discovery Dr,CA,Guise St. E.,"47 Discovery Dr (Guise St. E.), Hamilton ON L8L 8B4",Hamilton,L8L 8B4,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+The Beergarden,207 Burlington St E,CA,,"207 Burlington St E, Hamilton ON L8L 4H2",Hamilton,L8L 4H2,ON,,['Hot Dog Joint']
+Saltlick Smokehouse,282 James St N,CA,Barton Street,"282 James St N (Barton Street), Hamilton ON L8R 2L3",Hamilton,L8R 2L3,ON,,['BBQ Joint']
+Charred,244 James St N,CA,btwn Robert St & Colbourne St,"244 James St N (btwn Robert St & Colbourne St), Hamilton ON L8R 2L3",Hamilton,L8R 2L3,ON,,"['BBQ Joint', 'Portuguese Restaurant']"
+Born and Raised,224 James St N,CA,,"224 James St N, Hamilton ON L8R 2L3",Hamilton,L8R 2L3,ON,,"['Gastropub', 'Italian Restaurant']"
+Atlantic Submarines,212 John St S,CA,Young Street,"212 John St S (Young Street), Hamilton ON L8N 2C8",Hamilton,L8N 2C8,ON,,['Sandwich Spot']
+Red Crow Coffee,211 James St S,CA,Charlton Ave,"211 James St S (Charlton Ave), Hamilton ON L8P 3B2",Hamilton,L8P 3B2,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+Wass Ethiopian Restaurant,207 James St N,CA,at Forest Ave.,"207 James St N (at Forest Ave.), Hamilton ON L8R 2L2",Hamilton,L8R 2L2,ON,,['Ethiopian Restaurant']
+Bronzie's Place,201 James St S,CA,at Forest Ave,"201 James St S (at Forest Ave), Hamilton ON L8P 3A8",Hamilton,L8P 3A8,ON,,['Pizzeria']
+One Duke Restaurant & Lounge,1 Duke St,CA,at James St. South,"1 Duke St (at James St. South), Hamilton ON L8P 1W9",Hamilton,L8P 1W9,ON,,"['American Restaurant', 'Comfort Food Restaurant', 'Italian Restaurant']"
+Mezcal TNT,150 James St S,CA,Augusta,"150 James St S (Augusta), Hamilton ON L8P 3A2",Hamilton,L8P 3A2,ON,,"['Bar', 'Tex-Mex Restaurant']"
+Radius,151 James St S,CA,at Augusta St,"151 James St S (at Augusta St), Hamilton ON L8P 2Z5",Hamilton,L8P 2Z5,ON,,['Fast Food Restaurant']
+Tea Hut,100 Main St E,CA,,"100 Main St E, Hamilton ON L8N 3W4",Hamilton,L8N 3W4,ON,# 100,"['Bar', 'Diner', 'Asian Restaurant']"
+Burrito Boyz,66 King St E,CA,,"66 King St E, Hamilton ON L8N 1A6",Hamilton,L8N 1A6,ON,,['Burrito Restaurant']
+Shakespeare's Steak and Seafood,181 Main St E,CA,,"181 Main St E, Hamilton ON L8N 1H2",Hamilton,L8N 1H2,ON,,"['Diner', 'Seafood Restaurant', 'Steakhouse']"
+Aberdeen Tavern,432 Aberdeen Ave,CA,Dundurn Street,"432 Aberdeen Ave (Dundurn Street), Hamilton ON L8P 2S2",Hamilton,L8P 2S2,ON,,['American Restaurant']
+Webers Hamburgers,8844 11 Hwy S,CA,,"8844 11 Hwy S, Orillia ON L3V 6H3",Orillia,L3V 6H3,ON,,['Burger Joint']
+Dundurn Market,346 Dundurn St S,CA,Aberdeen Avenue,"346 Dundurn St S (Aberdeen Avenue), Hamilton ON L8P 4L6",Hamilton,L8P 4L6,ON,,"['Bistro', 'Café', 'Deli']"
+Ye Olde Squire,875 Main St W,CA,,"875 Main St W, Hamilton ON L8S 4P9",Hamilton,L8S 4P9,ON,,"['Bar', 'English Restaurant']"
+Papa John's Pizza,875 Main St W,CA,,"875 Main St W, Hamilton ON L8S 4P9",Hamilton,L8S 4P9,ON,,['Pizzeria']
+Bonanza Bakery,100 Murray St E,CA,,"100 Murray St E, Hamilton ON L8L 3G4",Hamilton,L8L 3G4,ON,,['Bakery']
+A&W Restaurant,190 Barton St E,CA,,"190 Barton St E, Hamilton ON L8L 2W8",Hamilton,L8L 2W8,ON,,"['American Restaurant', 'Fast Food Restaurant']"
+August 8,1 Wilson St,CA,James St.,"1 Wilson St (James St.), Hamilton ON L8R 1C4",Hamilton,L8R 1C4,ON,# 12,"['Dim Sum Restaurant', 'Sushi Restaurant']"
+The Burnt Tongue,10 Cannon St E,CA,James St N,"10 Cannon St E (James St N), Hamilton ON L8L 1Z5",Hamilton,L8L 1Z5,ON,,"['Fast Food Restaurant', 'Soup Spot']"
+Mulberry Street Coffeehouse,193 James St N,CA,Mulberry St.,"193 James St N (Mulberry St.), Hamilton ON L8R 2L2",Hamilton,L8R 2L2,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+Charred,244 James St N,CA,btwn Robert St & Colbourne St,"244 James St N (btwn Robert St & Colbourne St), Hamilton ON L8R 2L3",Hamilton,L8R 2L3,ON,,"['BBQ Joint', 'Portuguese Restaurant']"
+Lulu's Shawarma,32 John St N,CA,at King William St.,"32 John St N (at King William St.), Hamilton ON L8R 1H3",Hamilton,L8R 1H3,ON,,"['Mediterranean Restaurant', 'Middle Eastern Restaurant']"
+The Mule,41 King William St,CA,Hughson,"41 King William St (Hughson), Hamilton ON L8R 1A2",Hamilton,L8R 1A2,ON,,['Taco Restaurant']
+Black Forest Inn,255 King St E,CA,,"255 King St E, Hamilton ON L8N 1B9",Hamilton,L8N 1B9,ON,,['German Restaurant']
+Saltlick Smokehouse,282 James St N,CA,Barton Street,"282 James St N (Barton Street), Hamilton ON L8R 2L3",Hamilton,L8R 2L3,ON,,['BBQ Joint']
+The Beergarden,207 Burlington St E,CA,,"207 Burlington St E, Hamilton ON L8L 4H2",Hamilton,L8L 4H2,ON,,['Hot Dog Joint']
+Hambrgr,207 Ottawa St N,CA,,"207 Ottawa St N, Hamilton ON L8H 3Z4",Hamilton,L8H 3Z4,ON,,"['Bar', 'Burger Joint']"
+Cannon Coffee Co,179 Ottawa St N,CA,Cannon Street,"179 Ottawa St N (Cannon Street), Hamilton ON L8H 3Z4",Hamilton,L8H 3Z4,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+Boston Pizza,1219 Barton St E,CA,Kenilworth Ave. N.,"1219 Barton St E (Kenilworth Ave. N.), Hamilton ON L8H 2V4",Hamilton,L8H 2V4,ON,,['Pizzeria']
+Hi-Line Centre Pizza & Wings,1150 King St E,CA,Gage,"1150 King St E (Gage), Hamilton ON L8M 1E8",Hamilton,L8M 1E8,ON,# 2,['Pizzeria']
+Harvey's,1200 Barton St E,CA,,"1200 Barton St E, Hamilton ON L8H 2V7",Hamilton,L8H 2V7,ON,,['Restaurant']
+Pita Pizza,526 Main St E,CA,,"526 Main St E, HAMILTON ON L8M 1J1",HAMILTON,L8M 1J1,ON,,"['Pizzeria', 'Fast Food Restaurant']"
+Little Caesars Pizza,557 Main St E,CA,,"557 Main St E, Hamilton ON L8M 1H9",Hamilton,L8M 1H9,ON,# 1,"['Pizzeria', 'Fast Food Restaurant']"
+Mississippi Queen Foods,635 King St E,CA,,"635 King St E, Hamilton ON L8N 1E5",Hamilton,L8N 1E5,ON,,"['Music Venue', 'Cajun and Creole Restaurant', 'South American Restaurant']"
+Apllada Greek Fusion Restaurant,635 King St E,CA,,"635 King St E, Hamilton ON L8N 1E5",Hamilton,L8N 1E5,ON,,['Greek Restaurant']
+DeRosa Bakery and Restaurant,71 Sanford Ave N,CA,,"71 Sanford Ave N, Hamilton ON L8L 5Y9",Hamilton,L8L 5Y9,ON,# 21,['Deli']
+Ellis Kitchen & More,455 King St E,CA,East & King,"455 King St E (East & King), Hamilton ON L8N 1C7",Hamilton,L8N 1C7,ON,,['Restaurant']
+Denninger Ltd,284 King St E,CA,,"284 King St E, Hamilton ON L8N 1B7",Hamilton,L8N 1B7,ON,,"['Deli', 'German Restaurant']"
+Owl of Minerva,309 Main St E,CA,Victoria,"309 Main St E (Victoria), Hamilton ON L8N 1H8",Hamilton,L8N 1H8,ON,,['Korean Restaurant']
+Amir Pita and Grill,114 Sanford Ave N,CA,,"114 Sanford Ave N, Hamilton ON L8L 5Z2",Hamilton,L8L 5Z2,ON,Unit 2,"['Bar', 'Fast Food Restaurant', 'Middle Eastern Restaurant']"
+Oriental Restaurant & Tavern,408 King St E,CA,,"408 King St E, Hamilton ON L8N 1C3",Hamilton,L8N 1C3,ON,,"['Diner', 'Cantonese Restaurant']"
+Buddys Roadhouse,1360 King St E,CA,,"1360 King St E, Hamilton ON L8M 1H5",Hamilton,L8M 1H5,ON,,['Restaurant']
+McDonald's,1268 King St E,CA,at Main St E,"1268 King St E (at Main St E), Hamilton ON L8M 1G8",Hamilton,L8M 1G8,ON,,"['Burger Joint', 'Fast Food Restaurant']"
+Caribbean & Canadian food restaurant,952 Concession,CA,Upper Gage,"952 Concession (Upper Gage), Hamilton ON",Hamilton,,ON,,['Caribbean Restaurant']
+Hi-Line Centre Pizza & Wings,1150 King St E,CA,Gage,"1150 King St E (Gage), Hamilton ON L8M 1E8",Hamilton,L8M 1E8,ON,# 2,['Pizzeria']
+Breezy Corners Hamilton,1145 Main St E,CA,,"1145 Main St E, Hamilton ON L8M 1P3",Hamilton,L8M 1P3,ON,,['Breakfast Spot']
+Subway,810 Main St E,CA,,"810 Main St E, Hamilton ON L8M 1L6",Hamilton,L8M 1L6,ON,Unit 1,"['Fast Food Restaurant', 'Sandwich Spot']"
+Pita Pit,798 Concession St,CA,,"798 Concession St, Hamilton ON L8V 1C9",Hamilton,L8V 1C9,ON,,"['Sandwich Spot', 'Fast Food Restaurant']"
+La Luna Restaurant Downtown,306 King St W,CA,at Queen St,"306 King St W (at Queen St), Hamilton ON L8P 1B1",Hamilton,L8P 1B1,ON,,"['Lebanese Restaurant', 'Mediterranean Restaurant', 'Mexican Restaurant']"
+Coop Hamilton,274 King St W,CA,,"274 King St W, Hamilton ON L8P 1J6",Hamilton,L8P 1J6,ON,# 272,['Fried Chicken Joint']
+Smoke's Poutinerie,112 George St,CA,at Queen St. S.,"112 George St (at Queen St. S.), Hamilton ON L8P 1E2",Hamilton,L8P 1E2,ON,,"['Fast Food Restaurant', 'Poutine Restaurant', 'Steakhouse']"
+Coop Wicked Chicken Hamilton,274 King St W,CA,Hess St,"274 King St W (Hess St), Hamilton ON L8P 1J6",Hamilton,L8P 1J6,ON,# 272,['Fried Chicken Joint']
+Vida la Pita,217 King St W,CA,Caroline,"217 King St W (Caroline), Hamilton ON L8P 1A7",Hamilton,L8P 1A7,ON,,"['Fast Food Restaurant', 'Middle Eastern Restaurant']"
+Wimpy's Diner,405 Main St W,CA,,"405 Main St W, Hamilton ON L8P 1K5",Hamilton,L8P 1K5,ON,,['Diner']
+Brown Dog Coffee Shop,211 Locke St S,CA,,"211 Locke St S, Hamilton ON L8P 4B6",Hamilton,L8P 4B6,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+The Burnt Tongue,182 Locke St S,CA,Pine St.,"182 Locke St S (Pine St.), Hamilton ON L8P 4B3",Hamilton,L8P 4B3,ON,,['Soup Spot']
+Pizza Hut,610 King St W,CA,Dundurn,"610 King St W (Dundurn), Hamilton ON L8P 1C2",Hamilton,L8P 1C2,ON,,"['Pizzeria', 'Fast Food Restaurant']"
+Donut Monster,246 Locke St S,CA,,"246 Locke St S, Hamilton ON L8P 4B9",Hamilton,L8P 4B9,ON,,"['Bagel Shop', 'Bakery', 'Restaurant']"
+Atlantic Submarines,212 John St S,CA,Young Street,"212 John St S (Young Street), Hamilton ON L8N 2C8",Hamilton,L8N 2C8,ON,,['Sandwich Spot']
+Red Crow Coffee,211 James St S,CA,Charlton Ave,"211 James St S (Charlton Ave), Hamilton ON L8P 3B2",Hamilton,L8P 3B2,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+Wass Ethiopian Restaurant,207 James St N,CA,at Forest Ave.,"207 James St N (at Forest Ave.), Hamilton ON L8R 2L2",Hamilton,L8R 2L2,ON,,['Ethiopian Restaurant']
+Bronzie's Place,201 James St S,CA,at Forest Ave,"201 James St S (at Forest Ave), Hamilton ON L8P 3A8",Hamilton,L8P 3A8,ON,,['Pizzeria']
+One Duke Restaurant & Lounge,1 Duke St,CA,at James St. South,"1 Duke St (at James St. South), Hamilton ON L8P 1W9",Hamilton,L8P 1W9,ON,,"['American Restaurant', 'Comfort Food Restaurant', 'Italian Restaurant']"
+Mezcal TNT,150 James St S,CA,Augusta,"150 James St S (Augusta), Hamilton ON L8P 3A2",Hamilton,L8P 3A2,ON,,"['Bar', 'Tex-Mex Restaurant']"
+Radius,151 James St S,CA,at Augusta St,"151 James St S (at Augusta St), Hamilton ON L8P 2Z5",Hamilton,L8P 2Z5,ON,,['Fast Food Restaurant']
+Tea Hut,100 Main St E,CA,,"100 Main St E, Hamilton ON L8N 3W4",Hamilton,L8N 3W4,ON,# 100,"['Bar', 'Diner', 'Asian Restaurant']"
+Burrito Boyz,66 King St E,CA,,"66 King St E, Hamilton ON L8N 1A6",Hamilton,L8N 1A6,ON,,['Burrito Restaurant']
+Shakespeare's Steak and Seafood,181 Main St E,CA,,"181 Main St E, Hamilton ON L8N 1H2",Hamilton,L8N 1H2,ON,,"['Diner', 'Seafood Restaurant', 'Steakhouse']"
+Buddys Roadhouse,1360 King St E,CA,,"1360 King St E, Hamilton ON L8M 1H5",Hamilton,L8M 1H5,ON,,['Restaurant']
+Pizza Pizza,1281 Main St E,CA,,"1281 Main St E, Hamilton ON L8K 1B1",Hamilton,L8K 1B1,ON,,"['Pizzeria', 'Fast Food Restaurant']"
+Breezy Corners Hamilton,1145 Main St E,CA,,"1145 Main St E, Hamilton ON L8M 1P3",Hamilton,L8M 1P3,ON,,['Breakfast Spot']
+Cannon Coffee Co,179 Ottawa St N,CA,Cannon Street,"179 Ottawa St N (Cannon Street), Hamilton ON L8H 3Z4",Hamilton,L8H 3Z4,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+Hammerhead's on Ottawa,80 Ottawa St N,CA,,"80 Ottawa St N, Hamilton ON L8H 3Z1",Hamilton,L8H 3Z1,ON,,"['Fish and Chips Shop', 'Seafood Restaurant']"
+Joy Inn Restaurant & Tavern,74 Ottawa St N,CA,,"74 Ottawa St N, Hamilton ON L8H 3Z1",Hamilton,L8H 3Z1,ON,,['Chinese Restaurant']
+Hambrgr,207 Ottawa St N,CA,,"207 Ottawa St N, Hamilton ON L8H 3Z4",Hamilton,L8H 3Z4,ON,,"['Bar', 'Burger Joint']"
+Wagon Grill,188 Graham Ave S,CA,King St,"188 Graham Ave S (King St), Hamilton ON L8K 2M4",Hamilton,L8K 2M4,ON,,['Shawarma Restaurant']
+McDonald's,1268 King St E,CA,at Main St E,"1268 King St E (at Main St E), Hamilton ON L8M 1G8",Hamilton,L8M 1G8,ON,,"['Burger Joint', 'Fast Food Restaurant']"
+Mike's Submarines,122 Ottawa St N,CA,,"122 Ottawa St N, Hamilton ON L8H 3Z1",Hamilton,L8H 3Z1,ON,,"['Diner', 'Fast Food Restaurant', 'Sandwich Spot']"
+Detour Roaster's Cafe,41B King St W,CA,Miller's Line,"41B King St W (Miller's Line), Dundas ON L9H 1T5",Dundas,L9H 1T5,ON,,"['Café', 'Soup Spot']"
+Subway,38 York Rd,CA,,"38 York Rd, Dundas ON L9H 1L4",Dundas,L9H 1L4,ON,,"['Deli', 'Fast Food Restaurant']"
+Bangkok Spoon Deluxe,57 King St W,CA,btw Millers Ln & Sydenham St,"57 King St W (btw Millers Ln & Sydenham St), Dundas ON L9H 1T5",Dundas,L9H 1T5,ON,,"['Soup Spot', 'Thai Restaurant']"
+Quatrefoil Restaurant,16 Sydenham St,CA,near King St W,"16 Sydenham St (near King St W), Dundas ON L9H 2T4",Dundas,L9H 2T4,ON,,['French Restaurant']
+Emilio's,117 King St E,CA,btw Albert St & Sydenham St,"117 King St E (btw Albert St & Sydenham St), Dundas ON L8N 1A9",Dundas,L8N 1A9,ON,,"['Bakery', 'Pizzeria', 'Fast Food Restaurant']"
+Pizza Pizza,4 Cootes Dr,CA,,"4 Cootes Dr, Dundas ON L9H 1A9",Dundas,L9H 1A9,ON,,"['Pizzeria', 'Fast Food Restaurant']"
+KFC,49 King St E,CA,,"49 King St E, Dundas ON L9H 1B7",Dundas,L9H 1B7,ON,Suite 3,"['Fast Food Restaurant', 'Fried Chicken Joint']"
+Master 2 For 1 Pizza,24 King St E,CA,,"24 King St E, Dundas ON L9H 1B8",Dundas,L9H 1B8,ON,,['Pizzeria']
+Thirsty Cactus Cantina & Grill,2 King St E,CA,at Main St.,"2 King St E (at Main St.), Dundas ON L9H 1B8",Dundas,L9H 1B8,ON,,['Mexican Restaurant']
+McDonald's,120 King St W,CA,,"120 King St W, Hamilton ON L8P 4V2",Hamilton,L8P 4V2,ON,,"['Burger Joint', 'Fast Food Restaurant']"
+August 8,1 Wilson St,CA,James St.,"1 Wilson St (James St.), Hamilton ON L8R 1C4",Hamilton,L8R 1C4,ON,# 12,"['Dim Sum Restaurant', 'Sushi Restaurant']"
+The Burnt Tongue,10 Cannon St E,CA,James St N,"10 Cannon St E (James St N), Hamilton ON L8L 1Z5",Hamilton,L8L 1Z5,ON,,"['Fast Food Restaurant', 'Soup Spot']"
+Mulberry Street Coffeehouse,193 James St N,CA,Mulberry St.,"193 James St N (Mulberry St.), Hamilton ON L8R 2L2",Hamilton,L8R 2L2,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+The Mule,41 King William St,CA,Hughson,"41 King William St (Hughson), Hamilton ON L8R 1A2",Hamilton,L8R 1A2,ON,,['Taco Restaurant']
+Charred,244 James St N,CA,btwn Robert St & Colbourne St,"244 James St N (btwn Robert St & Colbourne St), Hamilton ON L8R 2L3",Hamilton,L8R 2L3,ON,,"['BBQ Joint', 'Portuguese Restaurant']"
+Lulu's Shawarma,32 John St N,CA,at King William St.,"32 John St N (at King William St.), Hamilton ON L8R 1H3",Hamilton,L8R 1H3,ON,,"['Mediterranean Restaurant', 'Middle Eastern Restaurant']"
+Burrito Boyz,66 King St E,CA,,"66 King St E, Hamilton ON L8N 1A6",Hamilton,L8N 1A6,ON,,['Burrito Restaurant']
+Saltlick Smokehouse,282 James St N,CA,Barton Street,"282 James St N (Barton Street), Hamilton ON L8R 2L3",Hamilton,L8R 2L3,ON,,['BBQ Joint']
+Vida la Pita,217 King St W,CA,Caroline,"217 King St W (Caroline), Hamilton ON L8P 1A7",Hamilton,L8P 1A7,ON,,"['Fast Food Restaurant', 'Middle Eastern Restaurant']"
+Coop Hamilton,274 King St W,CA,,"274 King St W, Hamilton ON L8P 1J6",Hamilton,L8P 1J6,ON,# 272,['Fried Chicken Joint']
+Aberdeen Tavern,432 Aberdeen Ave,CA,Dundurn Street,"432 Aberdeen Ave (Dundurn Street), Hamilton ON L8P 2S2",Hamilton,L8P 2S2,ON,,['American Restaurant']
+Earth to Table Bread Bar,258 Locke St S,CA,Herkimer St.,"258 Locke St S (Herkimer St.), Hamilton ON L8P 4B9",Hamilton,L8P 4B9,ON,,"['Bakery', 'Pizzeria']"
+Donut Monster,246 Locke St S,CA,,"246 Locke St S, Hamilton ON L8P 4B9",Hamilton,L8P 4B9,ON,,"['Bagel Shop', 'Bakery', 'Restaurant']"
+Dundurn Market,346 Dundurn St S,CA,Aberdeen Avenue,"346 Dundurn St S (Aberdeen Avenue), Hamilton ON L8P 4L6",Hamilton,L8P 4L6,ON,,"['Bistro', 'Café', 'Deli']"
+Brown Dog Coffee Shop,211 Locke St S,CA,,"211 Locke St S, Hamilton ON L8P 4B6",Hamilton,L8P 4B6,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+The Burnt Tongue,182 Locke St S,CA,Pine St.,"182 Locke St S (Pine St.), Hamilton ON L8P 4B3",Hamilton,L8P 4B3,ON,,['Soup Spot']
+Durand Coffee,142 Charlton Ave W,CA,Caroline St S.,"142 Charlton Ave W (Caroline St S.), Hamilton ON L8P 2C7",Hamilton,L8P 2C7,ON,,"['Café', 'Coffee Shop']"
+CIMA Enoteca,190 Locke St S,CA,,"190 Locke St S, Hamilton ON L8P 4B4",Hamilton,L8P 4B4,ON,,['Italian Restaurant']
+Delirious Burger Co,197 Locke St S,CA,,"197 Locke St S, Hamilton ON L8P 4B5",Hamilton,L8P 4B5,ON,,['Burger Joint']
+Queen's Pizza & Wings,178 Queen St S,CA,at Duke St.,"178 Queen St S (at Duke St.), Hamilton ON L8P 3S7",Hamilton,L8P 3S7,ON,,['Pizzeria']
+Aberdeen Tavern,432 Aberdeen Ave,CA,Dundurn Street,"432 Aberdeen Ave (Dundurn Street), Hamilton ON L8P 2S2",Hamilton,L8P 2S2,ON,,['American Restaurant']
+Earth to Table Bread Bar,258 Locke St S,CA,Herkimer St.,"258 Locke St S (Herkimer St.), Hamilton ON L8P 4B9",Hamilton,L8P 4B9,ON,,"['Bakery', 'Pizzeria']"
+Donut Monster,246 Locke St S,CA,,"246 Locke St S, Hamilton ON L8P 4B9",Hamilton,L8P 4B9,ON,,"['Bagel Shop', 'Bakery', 'Restaurant']"
+Dundurn Market,346 Dundurn St S,CA,Aberdeen Avenue,"346 Dundurn St S (Aberdeen Avenue), Hamilton ON L8P 4L6",Hamilton,L8P 4L6,ON,,"['Bistro', 'Café', 'Deli']"
+Brown Dog Coffee Shop,211 Locke St S,CA,,"211 Locke St S, Hamilton ON L8P 4B6",Hamilton,L8P 4B6,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+The Burnt Tongue,182 Locke St S,CA,Pine St.,"182 Locke St S (Pine St.), Hamilton ON L8P 4B3",Hamilton,L8P 4B3,ON,,['Soup Spot']
+Durand Coffee,142 Charlton Ave W,CA,Caroline St S.,"142 Charlton Ave W (Caroline St S.), Hamilton ON L8P 2C7",Hamilton,L8P 2C7,ON,,"['Café', 'Coffee Shop']"
+CIMA Enoteca,190 Locke St S,CA,,"190 Locke St S, Hamilton ON L8P 4B4",Hamilton,L8P 4B4,ON,,['Italian Restaurant']
+Delirious Burger Co,197 Locke St S,CA,,"197 Locke St S, Hamilton ON L8P 4B5",Hamilton,L8P 4B5,ON,,['Burger Joint']
+Queen's Pizza & Wings,178 Queen St S,CA,at Duke St.,"178 Queen St S (at Duke St.), Hamilton ON L8P 3S7",Hamilton,L8P 3S7,ON,,['Pizzeria']
+August 8,1 Wilson St,CA,James St.,"1 Wilson St (James St.), Hamilton ON L8R 1C4",Hamilton,L8R 1C4,ON,# 12,"['Dim Sum Restaurant', 'Sushi Restaurant']"
+The Burnt Tongue,10 Cannon St E,CA,James St N,"10 Cannon St E (James St N), Hamilton ON L8L 1Z5",Hamilton,L8L 1Z5,ON,,"['Fast Food Restaurant', 'Soup Spot']"
+Mulberry Street Coffeehouse,193 James St N,CA,Mulberry St.,"193 James St N (Mulberry St.), Hamilton ON L8R 2L2",Hamilton,L8R 2L2,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+The Mule,41 King William St,CA,Hughson,"41 King William St (Hughson), Hamilton ON L8R 1A2",Hamilton,L8R 1A2,ON,,['Taco Restaurant']
+Charred,244 James St N,CA,btwn Robert St & Colbourne St,"244 James St N (btwn Robert St & Colbourne St), Hamilton ON L8R 2L3",Hamilton,L8R 2L3,ON,,"['BBQ Joint', 'Portuguese Restaurant']"
+Lulu's Shawarma,32 John St N,CA,at King William St.,"32 John St N (at King William St.), Hamilton ON L8R 1H3",Hamilton,L8R 1H3,ON,,"['Mediterranean Restaurant', 'Middle Eastern Restaurant']"
+Burrito Boyz,66 King St E,CA,,"66 King St E, Hamilton ON L8N 1A6",Hamilton,L8N 1A6,ON,,['Burrito Restaurant']
+Saltlick Smokehouse,282 James St N,CA,Barton Street,"282 James St N (Barton Street), Hamilton ON L8R 2L3",Hamilton,L8R 2L3,ON,,['BBQ Joint']
+Vida la Pita,217 King St W,CA,Caroline,"217 King St W (Caroline), Hamilton ON L8P 1A7",Hamilton,L8P 1A7,ON,,"['Fast Food Restaurant', 'Middle Eastern Restaurant']"
+Coop Hamilton,274 King St W,CA,,"274 King St W, Hamilton ON L8P 1J6",Hamilton,L8P 1J6,ON,# 272,['Fried Chicken Joint']
+541 Eatery & Exchange,541 Barton St E,CA,,"541 Barton St E, Hamilton ON L8L 2Z2",Hamilton,L8L 2Z2,ON,,['Restaurant']
+Hello Baked,549 Barton St E,CA,,"549 Barton St E, Hamilton ON L8L 2Z2",Hamilton,L8L 2Z2,ON,,['Bakery']
+Frank's Sicilia Bakery,669 Barton St E,CA,Sherman Ave N,"669 Barton St E (Sherman Ave N), Hamilton ON L8L 3A3",Hamilton,L8L 3A3,ON,,['Bakery']
+Two Cougars & a Cafe,601 Burlington St E,CA,,"601 Burlington St E, Hamilton ON L8L 4J5",Hamilton,L8L 4J5,ON,,['Diner']
+Duarte Supermarket,417 Barton St E,CA,Cheevers,"417 Barton St E (Cheevers), Hamilton ON L8L 2Y4",Hamilton,L8L 2Y4,ON,,['Grocery Store']
+Starpolskie,711 Barton St E,CA,,"711 Barton St E, Hamilton ON L8L 3A7",Hamilton,L8L 3A7,ON,,['Deli']
+Amir Pita and Grill,114 Sanford Ave N,CA,,"114 Sanford Ave N, Hamilton ON L8L 5Z2",Hamilton,L8L 5Z2,ON,Unit 2,"['Bar', 'Fast Food Restaurant', 'Middle Eastern Restaurant']"
+Wingporium,737 Barton St E,CA,Barnesdale,"737 Barton St E (Barnesdale), Hamilton ON L8L 3A9",Hamilton,L8L 3A9,ON,,['Wings Joint']
+McDonald's,787 Barton St E,CA,Lottridge,"787 Barton St E (Lottridge), Hamilton ON L8L 3B2",Hamilton,L8L 3B2,ON,,"['Burger Joint', 'Fast Food Restaurant']"
+Karlik Pastry,762 Barton St E,CA,Lottridge,"762 Barton St E (Lottridge), Hamilton ON L8L 3B1",Hamilton,L8L 3B1,ON,# 1,['Bakery']
+Durand Coffee,142 Charlton Ave W,CA,Caroline St S.,"142 Charlton Ave W (Caroline St S.), Hamilton ON L8P 2C7",Hamilton,L8P 2C7,ON,,"['Café', 'Coffee Shop']"
+Earth to Table Bread Bar,258 Locke St S,CA,Herkimer St.,"258 Locke St S (Herkimer St.), Hamilton ON L8P 4B9",Hamilton,L8P 4B9,ON,,"['Bakery', 'Pizzeria']"
+Queen's Pizza & Wings,178 Queen St S,CA,at Duke St.,"178 Queen St S (at Duke St.), Hamilton ON L8P 3S7",Hamilton,L8P 3S7,ON,,['Pizzeria']
+One Duke Restaurant & Lounge,1 Duke St,CA,at James St. South,"1 Duke St (at James St. South), Hamilton ON L8P 1W9",Hamilton,L8P 1W9,ON,,"['American Restaurant', 'Comfort Food Restaurant', 'Italian Restaurant']"
+Donut Monster,246 Locke St S,CA,,"246 Locke St S, Hamilton ON L8P 4B9",Hamilton,L8P 4B9,ON,,"['Bagel Shop', 'Bakery', 'Restaurant']"
+Red Crow Coffee,211 James St S,CA,Charlton Ave,"211 James St S (Charlton Ave), Hamilton ON L8P 3B2",Hamilton,L8P 3B2,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+Brown Dog Coffee Shop,211 Locke St S,CA,,"211 Locke St S, Hamilton ON L8P 4B6",Hamilton,L8P 4B6,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+Wass Ethiopian Restaurant,207 James St N,CA,at Forest Ave.,"207 James St N (at Forest Ave.), Hamilton ON L8R 2L2",Hamilton,L8R 2L2,ON,,['Ethiopian Restaurant']
+Bronzie's Place,201 James St S,CA,at Forest Ave,"201 James St S (at Forest Ave), Hamilton ON L8P 3A8",Hamilton,L8P 3A8,ON,,['Pizzeria']
+Tomah,132 Queen St S,CA,,"132 Queen St S, Hamilton ON L8P 3S2",Hamilton,L8P 3S2,ON,,['Syrian Restaurant']
+Atlantic Submarines,212 John St S,CA,Young Street,"212 John St S (Young Street), Hamilton ON L8N 2C8",Hamilton,L8N 2C8,ON,,['Sandwich Spot']
+Red Crow Coffee,211 James St S,CA,Charlton Ave,"211 James St S (Charlton Ave), Hamilton ON L8P 3B2",Hamilton,L8P 3B2,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+Wass Ethiopian Restaurant,207 James St N,CA,at Forest Ave.,"207 James St N (at Forest Ave.), Hamilton ON L8R 2L2",Hamilton,L8R 2L2,ON,,['Ethiopian Restaurant']
+Bronzie's Place,201 James St S,CA,at Forest Ave,"201 James St S (at Forest Ave), Hamilton ON L8P 3A8",Hamilton,L8P 3A8,ON,,['Pizzeria']
+One Duke Restaurant & Lounge,1 Duke St,CA,at James St. South,"1 Duke St (at James St. South), Hamilton ON L8P 1W9",Hamilton,L8P 1W9,ON,,"['American Restaurant', 'Comfort Food Restaurant', 'Italian Restaurant']"
+Mezcal TNT,150 James St S,CA,Augusta,"150 James St S (Augusta), Hamilton ON L8P 3A2",Hamilton,L8P 3A2,ON,,"['Bar', 'Tex-Mex Restaurant']"
+Radius,151 James St S,CA,at Augusta St,"151 James St S (at Augusta St), Hamilton ON L8P 2Z5",Hamilton,L8P 2Z5,ON,,['Fast Food Restaurant']
+Tea Hut,100 Main St E,CA,,"100 Main St E, Hamilton ON L8N 3W4",Hamilton,L8N 3W4,ON,# 100,"['Bar', 'Diner', 'Asian Restaurant']"
+Burrito Boyz,66 King St E,CA,,"66 King St E, Hamilton ON L8N 1A6",Hamilton,L8N 1A6,ON,,['Burrito Restaurant']
+Shakespeare's Steak and Seafood,181 Main St E,CA,,"181 Main St E, Hamilton ON L8N 1H2",Hamilton,L8N 1H2,ON,,"['Diner', 'Seafood Restaurant', 'Steakhouse']"
+Bonanza Bakery,100 Murray St E,CA,,"100 Murray St E, Hamilton ON L8L 3G4",Hamilton,L8L 3G4,ON,,['Bakery']
+A&W Restaurant,190 Barton St E,CA,,"190 Barton St E, Hamilton ON L8L 2W8",Hamilton,L8L 2W8,ON,,"['American Restaurant', 'Fast Food Restaurant']"
+August 8,1 Wilson St,CA,James St.,"1 Wilson St (James St.), Hamilton ON L8R 1C4",Hamilton,L8R 1C4,ON,# 12,"['Dim Sum Restaurant', 'Sushi Restaurant']"
+The Burnt Tongue,10 Cannon St E,CA,James St N,"10 Cannon St E (James St N), Hamilton ON L8L 1Z5",Hamilton,L8L 1Z5,ON,,"['Fast Food Restaurant', 'Soup Spot']"
+Mulberry Street Coffeehouse,193 James St N,CA,Mulberry St.,"193 James St N (Mulberry St.), Hamilton ON L8R 2L2",Hamilton,L8R 2L2,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+Charred,244 James St N,CA,btwn Robert St & Colbourne St,"244 James St N (btwn Robert St & Colbourne St), Hamilton ON L8R 2L3",Hamilton,L8R 2L3,ON,,"['BBQ Joint', 'Portuguese Restaurant']"
+Lulu's Shawarma,32 John St N,CA,at King William St.,"32 John St N (at King William St.), Hamilton ON L8R 1H3",Hamilton,L8R 1H3,ON,,"['Mediterranean Restaurant', 'Middle Eastern Restaurant']"
+The Mule,41 King William St,CA,Hughson,"41 King William St (Hughson), Hamilton ON L8R 1A2",Hamilton,L8R 1A2,ON,,['Taco Restaurant']
+Black Forest Inn,255 King St E,CA,,"255 King St E, Hamilton ON L8N 1B9",Hamilton,L8N 1B9,ON,,['German Restaurant']
+Saltlick Smokehouse,282 James St N,CA,Barton Street,"282 James St N (Barton Street), Hamilton ON L8R 2L3",Hamilton,L8R 2L3,ON,,['BBQ Joint']
+August 8,1 Wilson St,CA,James St.,"1 Wilson St (James St.), Hamilton ON L8R 1C4",Hamilton,L8R 1C4,ON,# 12,"['Dim Sum Restaurant', 'Sushi Restaurant']"
+The Burnt Tongue,10 Cannon St E,CA,James St N,"10 Cannon St E (James St N), Hamilton ON L8L 1Z5",Hamilton,L8L 1Z5,ON,,"['Fast Food Restaurant', 'Soup Spot']"
+Mulberry Street Coffeehouse,193 James St N,CA,Mulberry St.,"193 James St N (Mulberry St.), Hamilton ON L8R 2L2",Hamilton,L8R 2L2,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+The Mule,41 King William St,CA,Hughson,"41 King William St (Hughson), Hamilton ON L8R 1A2",Hamilton,L8R 1A2,ON,,['Taco Restaurant']
+Charred,244 James St N,CA,btwn Robert St & Colbourne St,"244 James St N (btwn Robert St & Colbourne St), Hamilton ON L8R 2L3",Hamilton,L8R 2L3,ON,,"['BBQ Joint', 'Portuguese Restaurant']"
+Lulu's Shawarma,32 John St N,CA,at King William St.,"32 John St N (at King William St.), Hamilton ON L8R 1H3",Hamilton,L8R 1H3,ON,,"['Mediterranean Restaurant', 'Middle Eastern Restaurant']"
+Burrito Boyz,66 King St E,CA,,"66 King St E, Hamilton ON L8N 1A6",Hamilton,L8N 1A6,ON,,['Burrito Restaurant']
+Saltlick Smokehouse,282 James St N,CA,Barton Street,"282 James St N (Barton Street), Hamilton ON L8R 2L3",Hamilton,L8R 2L3,ON,,['BBQ Joint']
+Vida la Pita,217 King St W,CA,Caroline,"217 King St W (Caroline), Hamilton ON L8P 1A7",Hamilton,L8P 1A7,ON,,"['Fast Food Restaurant', 'Middle Eastern Restaurant']"
+Coop Hamilton,274 King St W,CA,,"274 King St W, Hamilton ON L8P 1J6",Hamilton,L8P 1J6,ON,# 272,['Fried Chicken Joint']
+Mr Dumpling Express,50 Dundurn St S,CA,at Main St W,"50 Dundurn St S (at Main St W), Hamilton ON L8P 4W3",Hamilton,L8P 4W3,ON,,"['Chinese Restaurant', 'Fast Food Restaurant']"
+McDonald's,50 Dundurn St S,CA,at Main St W,"50 Dundurn St S (at Main St W), Hamilton ON L8P 4W3",Hamilton,L8P 4W3,ON,,"['Burger Joint', 'Fast Food Restaurant']"
+Subway,50 Dundurn St S,CA,at Main St W,"50 Dundurn St S (at Main St W), Hamilton ON L8P 4W3",Hamilton,L8P 4W3,ON,Unit 107,"['Fast Food Restaurant', 'Sandwich Spot']"
+Pizza Pizza,50 Dundurn St S,CA,,"50 Dundurn St S, Hamilton ON L8P 4W3",Hamilton,L8P 4W3,ON,Unit 4,"['Pizzeria', 'Fast Food Restaurant']"
+Shehnai Restaurant,447 Main St W,CA,,"447 Main St W, Hamilton ON L8P 1K5",Hamilton,L8P 1K5,ON,,"['Diner', 'Indian Restaurant']"
+Wimpy's Diner,405 Main St W,CA,,"405 Main St W, Hamilton ON L8P 1K5",Hamilton,L8P 1K5,ON,,['Diner']
+KFC,631 King St W,CA,,"631 King St W, Hamilton ON L8P 1C4",Hamilton,L8P 1C4,ON,,"['Fried Chicken Joint', 'Fast Food Restaurant']"
+Pizza Hut,610 King St W,CA,Dundurn,"610 King St W (Dundurn), Hamilton ON L8P 1C2",Hamilton,L8P 1C2,ON,,"['Pizzeria', 'Fast Food Restaurant']"
+Brown Dog Coffee Shop,211 Locke St S,CA,,"211 Locke St S, Hamilton ON L8P 4B6",Hamilton,L8P 4B6,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+The Burnt Tongue,182 Locke St S,CA,Pine St.,"182 Locke St S (Pine St.), Hamilton ON L8P 4B3",Hamilton,L8P 4B3,ON,,['Soup Spot']
+Queen's Pizza & Wings,838 King St E,CA,,"838 King St E, Hamilton ON L8M 1B4",Hamilton,L8M 1B4,ON,# 2,['Pizzeria']
+Bruno's Pizza & Wings,718 Main St E,CA,Sherman,"718 Main St E (Sherman), Hamilton ON L8M 1K9",Hamilton,L8M 1K9,ON,,['Pizzeria']
+Big Top Family Restaurant,754 Main St E,CA,,"754 Main St E, Hamilton ON L8M 1L1",Hamilton,L8M 1L1,ON,,['Diner']
+Subway,810 Main St E,CA,,"810 Main St E, Hamilton ON L8M 1L6",Hamilton,L8M 1L6,ON,Unit 1,"['Fast Food Restaurant', 'Sandwich Spot']"
+Vibez Caribbean and Southern Food,971 King St E,CA,,"971 King St E, Hamilton ON L8M 1C3",Hamilton,L8M 1C3,ON,,['Caribbean Restaurant']
+Tall Tree Sandwich Co,1000 King St E,CA,,"1000 King St E, Hamilton ON L8M 1C8",Hamilton,L8M 1C8,ON,,['Sandwich Spot']
+Festival Foods,1013 King St E,CA,Spadina,"1013 King St E (Spadina), Hamilton ON L8M 1C9",Hamilton,L8M 1C9,ON,,['Fast Food Restaurant']
+541 Eatery & Exchange,541 Barton St E,CA,,"541 Barton St E, Hamilton ON L8L 2Z2",Hamilton,L8L 2Z2,ON,,['Restaurant']
+DeRosa Bakery and Restaurant,71 Sanford Ave N,CA,,"71 Sanford Ave N, Hamilton ON L8L 5Y9",Hamilton,L8L 5Y9,ON,# 21,['Deli']
+Amir Pita and Grill,114 Sanford Ave N,CA,,"114 Sanford Ave N, Hamilton ON L8L 5Z2",Hamilton,L8L 5Z2,ON,Unit 2,"['Bar', 'Fast Food Restaurant', 'Middle Eastern Restaurant']"
+Queen's Pizza & Wings,838 King St E,CA,,"838 King St E, Hamilton ON L8M 1B4",Hamilton,L8M 1B4,ON,# 2,['Pizzeria']
+Bruno's Pizza & Wings,718 Main St E,CA,Sherman,"718 Main St E (Sherman), Hamilton ON L8M 1K9",Hamilton,L8M 1K9,ON,,['Pizzeria']
+Big Top Family Restaurant,754 Main St E,CA,,"754 Main St E, Hamilton ON L8M 1L1",Hamilton,L8M 1L1,ON,,['Diner']
+Subway,810 Main St E,CA,,"810 Main St E, Hamilton ON L8M 1L6",Hamilton,L8M 1L6,ON,Unit 1,"['Fast Food Restaurant', 'Sandwich Spot']"
+Vibez Caribbean and Southern Food,971 King St E,CA,,"971 King St E, Hamilton ON L8M 1C3",Hamilton,L8M 1C3,ON,,['Caribbean Restaurant']
+Tall Tree Sandwich Co,1000 King St E,CA,,"1000 King St E, Hamilton ON L8M 1C8",Hamilton,L8M 1C8,ON,,['Sandwich Spot']
+Festival Foods,1013 King St E,CA,Spadina,"1013 King St E (Spadina), Hamilton ON L8M 1C9",Hamilton,L8M 1C9,ON,,['Fast Food Restaurant']
+541 Eatery & Exchange,541 Barton St E,CA,,"541 Barton St E, Hamilton ON L8L 2Z2",Hamilton,L8L 2Z2,ON,,['Restaurant']
+DeRosa Bakery and Restaurant,71 Sanford Ave N,CA,,"71 Sanford Ave N, Hamilton ON L8L 5Y9",Hamilton,L8L 5Y9,ON,# 21,['Deli']
+Amir Pita and Grill,114 Sanford Ave N,CA,,"114 Sanford Ave N, Hamilton ON L8L 5Z2",Hamilton,L8L 5Z2,ON,Unit 2,"['Bar', 'Fast Food Restaurant', 'Middle Eastern Restaurant']"
+Pita Pizza,526 Main St E,CA,,"526 Main St E, HAMILTON ON L8M 1J1",HAMILTON,L8M 1J1,ON,,"['Pizzeria', 'Fast Food Restaurant']"
+Little Caesars Pizza,557 Main St E,CA,,"557 Main St E, Hamilton ON L8M 1H9",Hamilton,L8M 1H9,ON,# 1,"['Pizzeria', 'Fast Food Restaurant']"
+Mississippi Queen Foods,635 King St E,CA,,"635 King St E, Hamilton ON L8N 1E5",Hamilton,L8N 1E5,ON,,"['Music Venue', 'Cajun and Creole Restaurant', 'South American Restaurant']"
+Apllada Greek Fusion Restaurant,635 King St E,CA,,"635 King St E, Hamilton ON L8N 1E5",Hamilton,L8N 1E5,ON,,['Greek Restaurant']
+DeRosa Bakery and Restaurant,71 Sanford Ave N,CA,,"71 Sanford Ave N, Hamilton ON L8L 5Y9",Hamilton,L8L 5Y9,ON,# 21,['Deli']
+Ellis Kitchen & More,455 King St E,CA,East & King,"455 King St E (East & King), Hamilton ON L8N 1C7",Hamilton,L8N 1C7,ON,,['Restaurant']
+Denninger Ltd,284 King St E,CA,,"284 King St E, Hamilton ON L8N 1B7",Hamilton,L8N 1B7,ON,,"['Deli', 'German Restaurant']"
+Owl of Minerva,309 Main St E,CA,Victoria,"309 Main St E (Victoria), Hamilton ON L8N 1H8",Hamilton,L8N 1H8,ON,,['Korean Restaurant']
+Amir Pita and Grill,114 Sanford Ave N,CA,,"114 Sanford Ave N, Hamilton ON L8L 5Z2",Hamilton,L8L 5Z2,ON,Unit 2,"['Bar', 'Fast Food Restaurant', 'Middle Eastern Restaurant']"
+Oriental Restaurant & Tavern,408 King St E,CA,,"408 King St E, Hamilton ON L8N 1C3",Hamilton,L8N 1C3,ON,,"['Diner', 'Cantonese Restaurant']"
+August 8,1 Wilson St,CA,James St.,"1 Wilson St (James St.), Hamilton ON L8R 1C4",Hamilton,L8R 1C4,ON,# 12,"['Dim Sum Restaurant', 'Sushi Restaurant']"
+The Burnt Tongue,10 Cannon St E,CA,James St N,"10 Cannon St E (James St N), Hamilton ON L8L 1Z5",Hamilton,L8L 1Z5,ON,,"['Fast Food Restaurant', 'Soup Spot']"
+Mulberry Street Coffeehouse,193 James St N,CA,Mulberry St.,"193 James St N (Mulberry St.), Hamilton ON L8R 2L2",Hamilton,L8R 2L2,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+The Mule,41 King William St,CA,Hughson,"41 King William St (Hughson), Hamilton ON L8R 1A2",Hamilton,L8R 1A2,ON,,['Taco Restaurant']
+Charred,244 James St N,CA,btwn Robert St & Colbourne St,"244 James St N (btwn Robert St & Colbourne St), Hamilton ON L8R 2L3",Hamilton,L8R 2L3,ON,,"['BBQ Joint', 'Portuguese Restaurant']"
+Lulu's Shawarma,32 John St N,CA,at King William St.,"32 John St N (at King William St.), Hamilton ON L8R 1H3",Hamilton,L8R 1H3,ON,,"['Mediterranean Restaurant', 'Middle Eastern Restaurant']"
+Burrito Boyz,66 King St E,CA,,"66 King St E, Hamilton ON L8N 1A6",Hamilton,L8N 1A6,ON,,['Burrito Restaurant']
+Saltlick Smokehouse,282 James St N,CA,Barton Street,"282 James St N (Barton Street), Hamilton ON L8R 2L3",Hamilton,L8R 2L3,ON,,['BBQ Joint']
+Vida la Pita,217 King St W,CA,Caroline,"217 King St W (Caroline), Hamilton ON L8P 1A7",Hamilton,L8P 1A7,ON,,"['Fast Food Restaurant', 'Middle Eastern Restaurant']"
+Coop Hamilton,274 King St W,CA,,"274 King St W, Hamilton ON L8P 1J6",Hamilton,L8P 1J6,ON,# 272,['Fried Chicken Joint']
+August 8,1 Wilson St,CA,James St.,"1 Wilson St (James St.), Hamilton ON L8R 1C4",Hamilton,L8R 1C4,ON,# 12,"['Dim Sum Restaurant', 'Sushi Restaurant']"
+The Burnt Tongue,10 Cannon St E,CA,James St N,"10 Cannon St E (James St N), Hamilton ON L8L 1Z5",Hamilton,L8L 1Z5,ON,,"['Fast Food Restaurant', 'Soup Spot']"
+Mulberry Street Coffeehouse,193 James St N,CA,Mulberry St.,"193 James St N (Mulberry St.), Hamilton ON L8R 2L2",Hamilton,L8R 2L2,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+The Mule,41 King William St,CA,Hughson,"41 King William St (Hughson), Hamilton ON L8R 1A2",Hamilton,L8R 1A2,ON,,['Taco Restaurant']
+Charred,244 James St N,CA,btwn Robert St & Colbourne St,"244 James St N (btwn Robert St & Colbourne St), Hamilton ON L8R 2L3",Hamilton,L8R 2L3,ON,,"['BBQ Joint', 'Portuguese Restaurant']"
+Lulu's Shawarma,32 John St N,CA,at King William St.,"32 John St N (at King William St.), Hamilton ON L8R 1H3",Hamilton,L8R 1H3,ON,,"['Mediterranean Restaurant', 'Middle Eastern Restaurant']"
+Burrito Boyz,66 King St E,CA,,"66 King St E, Hamilton ON L8N 1A6",Hamilton,L8N 1A6,ON,,['Burrito Restaurant']
+Saltlick Smokehouse,282 James St N,CA,Barton Street,"282 James St N (Barton Street), Hamilton ON L8R 2L3",Hamilton,L8R 2L3,ON,,['BBQ Joint']
+Vida la Pita,217 King St W,CA,Caroline,"217 King St W (Caroline), Hamilton ON L8P 1A7",Hamilton,L8P 1A7,ON,,"['Fast Food Restaurant', 'Middle Eastern Restaurant']"
+Coop Hamilton,274 King St W,CA,,"274 King St W, Hamilton ON L8P 1J6",Hamilton,L8P 1J6,ON,# 272,['Fried Chicken Joint']
+Duarte Supermarket,417 Barton St E,CA,Cheevers,"417 Barton St E (Cheevers), Hamilton ON L8L 2Y4",Hamilton,L8L 2Y4,ON,,['Grocery Store']
+KFC,307 Cannon St E,CA,East ave,"307 Cannon St E (East ave), Hamilton ON L8L 2B7",Hamilton,L8L 2B7,ON,,"['Fried Chicken Joint', 'Fast Food Restaurant']"
+541 Eatery & Exchange,541 Barton St E,CA,,"541 Barton St E, Hamilton ON L8L 2Z2",Hamilton,L8L 2Z2,ON,,['Restaurant']
+A&W Restaurant,190 Barton St E,CA,,"190 Barton St E, Hamilton ON L8L 2W8",Hamilton,L8L 2W8,ON,,"['American Restaurant', 'Fast Food Restaurant']"
+Hello Baked,549 Barton St E,CA,,"549 Barton St E, Hamilton ON L8L 2Z2",Hamilton,L8L 2Z2,ON,,['Bakery']
+Amir Pita and Grill,114 Sanford Ave N,CA,,"114 Sanford Ave N, Hamilton ON L8L 5Z2",Hamilton,L8L 5Z2,ON,Unit 2,"['Bar', 'Fast Food Restaurant', 'Middle Eastern Restaurant']"
+Plaza Pizza & Wings,90 Wellington St N,CA,Wilson,"90 Wellington St N (Wilson), Hamilton ON L8R 1N1",Hamilton,L8R 1N1,ON,,['Pizzeria']
+DeRosa Bakery and Restaurant,71 Sanford Ave N,CA,,"71 Sanford Ave N, Hamilton ON L8L 5Y9",Hamilton,L8L 5Y9,ON,# 21,['Deli']
+Apllada Greek Fusion Restaurant,635 King St E,CA,,"635 King St E, Hamilton ON L8N 1E5",Hamilton,L8N 1E5,ON,,['Greek Restaurant']
+Mississippi Queen Foods,635 King St E,CA,,"635 King St E, Hamilton ON L8N 1E5",Hamilton,L8N 1E5,ON,,"['Music Venue', 'Cajun and Creole Restaurant', 'South American Restaurant']"
+The Harbour Diner,486 James St N,CA,btwn Ferrie St and Picton St,"486 James St N (btwn Ferrie St and Picton St), Hamilton ON L8L 1J1",Hamilton,L8L 1J1,ON,,"['Diner', 'Comfort Food Restaurant']"
+Fisher's Pier 4 Pub & Grub,554 James St N,CA,,"554 James St N, Hamilton ON L8L 1J5",Hamilton,L8L 1J5,ON,,['Restaurant']
+Saltlick Smokehouse,282 James St N,CA,Barton Street,"282 James St N (Barton Street), Hamilton ON L8R 2L3",Hamilton,L8R 2L3,ON,,['BBQ Joint']
+Charred,244 James St N,CA,btwn Robert St & Colbourne St,"244 James St N (btwn Robert St & Colbourne St), Hamilton ON L8R 2L3",Hamilton,L8R 2L3,ON,,"['BBQ Joint', 'Portuguese Restaurant']"
+Mulberry Street Coffeehouse,193 James St N,CA,Mulberry St.,"193 James St N (Mulberry St.), Hamilton ON L8R 2L2",Hamilton,L8R 2L2,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+Bonanza Bakery,100 Murray St E,CA,,"100 Murray St E, Hamilton ON L8L 3G4",Hamilton,L8L 3G4,ON,,['Bakery']
+Born and Raised,224 James St N,CA,,"224 James St N, Hamilton ON L8R 2L3",Hamilton,L8R 2L3,ON,,"['Gastropub', 'Italian Restaurant']"
+Ola Bakery & Pastries,230 James St N,CA,Barton St. W,"230 James St N (Barton St. W), Hamilton ON L8R 2L3",Hamilton,L8R 2L3,ON,,"['Bakery', 'Coffee Shop', 'Restaurant']"
+Neit Bar,337 James St N,CA,Murray,"337 James St N (Murray), Hamilton ON L8L 1H3",Hamilton,L8L 1H3,ON,,['Restaurant']
+Mesa,255 James St N,CA,,"255 James St N, Hamilton ON L8R 2L2",Hamilton,L8R 2L2,ON,,['Mexican Restaurant']
+Denninger Ltd,284 King St E,CA,,"284 King St E, Hamilton ON L8N 1B7",Hamilton,L8N 1B7,ON,,"['Deli', 'German Restaurant']"
+Shakespeare's Steak and Seafood,181 Main St E,CA,,"181 Main St E, Hamilton ON L8N 1H2",Hamilton,L8N 1H2,ON,,"['Diner', 'Seafood Restaurant', 'Steakhouse']"
+Black Forest Inn,255 King St E,CA,,"255 King St E, Hamilton ON L8N 1B9",Hamilton,L8N 1B9,ON,,['German Restaurant']
+Tea Hut,100 Main St E,CA,,"100 Main St E, Hamilton ON L8N 3W4",Hamilton,L8N 3W4,ON,# 100,"['Bar', 'Diner', 'Asian Restaurant']"
+Owl of Minerva,309 Main St E,CA,Victoria,"309 Main St E (Victoria), Hamilton ON L8N 1H8",Hamilton,L8N 1H8,ON,,['Korean Restaurant']
+Oriental Restaurant & Tavern,408 King St E,CA,,"408 King St E, Hamilton ON L8N 1C3",Hamilton,L8N 1C3,ON,,"['Diner', 'Cantonese Restaurant']"
+Ajio Sushi,161 King St E,CA,Mary St,"161 King St E (Mary St), Hamilton ON L8N 1B1",Hamilton,L8N 1B1,ON,,['Sushi Restaurant']
+Pizza Hut,203 Main St E,CA,,"203 Main St E, Stayner ON L0M 1S0",Stayner,L0M 1S0,ON,,"['Pizzeria', 'Fast Food Restaurant']"
+Atlantic Submarines,212 John St S,CA,Young Street,"212 John St S (Young Street), Hamilton ON L8N 2C8",Hamilton,L8N 2C8,ON,,['Sandwich Spot']
+Burrito Boyz,66 King St E,CA,,"66 King St E, Hamilton ON L8N 1A6",Hamilton,L8N 1A6,ON,,['Burrito Restaurant']
+Durand Coffee,142 Charlton Ave W,CA,Caroline St S.,"142 Charlton Ave W (Caroline St S.), Hamilton ON L8P 2C7",Hamilton,L8P 2C7,ON,,"['Café', 'Coffee Shop']"
+Earth to Table Bread Bar,258 Locke St S,CA,Herkimer St.,"258 Locke St S (Herkimer St.), Hamilton ON L8P 4B9",Hamilton,L8P 4B9,ON,,"['Bakery', 'Pizzeria']"
+Queen's Pizza & Wings,178 Queen St S,CA,at Duke St.,"178 Queen St S (at Duke St.), Hamilton ON L8P 3S7",Hamilton,L8P 3S7,ON,,['Pizzeria']
+One Duke Restaurant & Lounge,1 Duke St,CA,at James St. South,"1 Duke St (at James St. South), Hamilton ON L8P 1W9",Hamilton,L8P 1W9,ON,,"['American Restaurant', 'Comfort Food Restaurant', 'Italian Restaurant']"
+Donut Monster,246 Locke St S,CA,,"246 Locke St S, Hamilton ON L8P 4B9",Hamilton,L8P 4B9,ON,,"['Bagel Shop', 'Bakery', 'Restaurant']"
+Red Crow Coffee,211 James St S,CA,Charlton Ave,"211 James St S (Charlton Ave), Hamilton ON L8P 3B2",Hamilton,L8P 3B2,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+Brown Dog Coffee Shop,211 Locke St S,CA,,"211 Locke St S, Hamilton ON L8P 4B6",Hamilton,L8P 4B6,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+Wass Ethiopian Restaurant,207 James St N,CA,at Forest Ave.,"207 James St N (at Forest Ave.), Hamilton ON L8R 2L2",Hamilton,L8R 2L2,ON,,['Ethiopian Restaurant']
+Bronzie's Place,201 James St S,CA,at Forest Ave,"201 James St S (at Forest Ave), Hamilton ON L8P 3A8",Hamilton,L8P 3A8,ON,,['Pizzeria']
+Tomah,132 Queen St S,CA,,"132 Queen St S, Hamilton ON L8P 3S2",Hamilton,L8P 3S2,ON,,['Syrian Restaurant']
+Duarte Supermarket,417 Barton St E,CA,Cheevers,"417 Barton St E (Cheevers), Hamilton ON L8L 2Y4",Hamilton,L8L 2Y4,ON,,['Grocery Store']
+KFC,307 Cannon St E,CA,East ave,"307 Cannon St E (East ave), Hamilton ON L8L 2B7",Hamilton,L8L 2B7,ON,,"['Fried Chicken Joint', 'Fast Food Restaurant']"
+541 Eatery & Exchange,541 Barton St E,CA,,"541 Barton St E, Hamilton ON L8L 2Z2",Hamilton,L8L 2Z2,ON,,['Restaurant']
+A&W Restaurant,190 Barton St E,CA,,"190 Barton St E, Hamilton ON L8L 2W8",Hamilton,L8L 2W8,ON,,"['American Restaurant', 'Fast Food Restaurant']"
+Hello Baked,549 Barton St E,CA,,"549 Barton St E, Hamilton ON L8L 2Z2",Hamilton,L8L 2Z2,ON,,['Bakery']
+Amir Pita and Grill,114 Sanford Ave N,CA,,"114 Sanford Ave N, Hamilton ON L8L 5Z2",Hamilton,L8L 5Z2,ON,Unit 2,"['Bar', 'Fast Food Restaurant', 'Middle Eastern Restaurant']"
+Plaza Pizza & Wings,90 Wellington St N,CA,Wilson,"90 Wellington St N (Wilson), Hamilton ON L8R 1N1",Hamilton,L8R 1N1,ON,,['Pizzeria']
+DeRosa Bakery and Restaurant,71 Sanford Ave N,CA,,"71 Sanford Ave N, Hamilton ON L8L 5Y9",Hamilton,L8L 5Y9,ON,# 21,['Deli']
+Apllada Greek Fusion Restaurant,635 King St E,CA,,"635 King St E, Hamilton ON L8N 1E5",Hamilton,L8N 1E5,ON,,['Greek Restaurant']
+Mississippi Queen Foods,635 King St E,CA,,"635 King St E, Hamilton ON L8N 1E5",Hamilton,L8N 1E5,ON,,"['Music Venue', 'Cajun and Creole Restaurant', 'South American Restaurant']"
+Fisher's Pier 4 Pub & Grub,554 James St N,CA,,"554 James St N, Hamilton ON L8L 1J5",Hamilton,L8L 1J5,ON,,['Restaurant']
+The Harbour Diner,486 James St N,CA,btwn Ferrie St and Picton St,"486 James St N (btwn Ferrie St and Picton St), Hamilton ON L8L 1J1",Hamilton,L8L 1J1,ON,,"['Diner', 'Comfort Food Restaurant']"
+Weston Pizza and Wings,574 James St N,CA,,"574 James St N, Hamilton ON L8L 1J7",Hamilton,L8L 1J7,ON,,['Pizzeria']
+Bonanza Bakery,100 Murray St E,CA,,"100 Murray St E, Hamilton ON L8L 3G4",Hamilton,L8L 3G4,ON,,['Bakery']
+North End Pita,574 James St N,CA,Burlington St E,"574 James St N (Burlington St E), Hamilton ON L8L 1J7",Hamilton,L8L 1J7,ON,,"['Chinese Restaurant', 'Fast Food Restaurant', 'Middle Eastern Restaurant']"
+Williams Fresh Cafe,47 Discovery Dr,CA,Guise St. E.,"47 Discovery Dr (Guise St. E.), Hamilton ON L8L 8B4",Hamilton,L8L 8B4,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+The Beergarden,207 Burlington St E,CA,,"207 Burlington St E, Hamilton ON L8L 4H2",Hamilton,L8L 4H2,ON,,['Hot Dog Joint']
+Saltlick Smokehouse,282 James St N,CA,Barton Street,"282 James St N (Barton Street), Hamilton ON L8R 2L3",Hamilton,L8R 2L3,ON,,['BBQ Joint']
+Charred,244 James St N,CA,btwn Robert St & Colbourne St,"244 James St N (btwn Robert St & Colbourne St), Hamilton ON L8R 2L3",Hamilton,L8R 2L3,ON,,"['BBQ Joint', 'Portuguese Restaurant']"
+Born and Raised,224 James St N,CA,,"224 James St N, Hamilton ON L8R 2L3",Hamilton,L8R 2L3,ON,,"['Gastropub', 'Italian Restaurant']"
+The Harbour Diner,486 James St N,CA,btwn Ferrie St and Picton St,"486 James St N (btwn Ferrie St and Picton St), Hamilton ON L8L 1J1",Hamilton,L8L 1J1,ON,,"['Diner', 'Comfort Food Restaurant']"
+Fisher's Pier 4 Pub & Grub,554 James St N,CA,,"554 James St N, Hamilton ON L8L 1J5",Hamilton,L8L 1J5,ON,,['Restaurant']
+Saltlick Smokehouse,282 James St N,CA,Barton Street,"282 James St N (Barton Street), Hamilton ON L8R 2L3",Hamilton,L8R 2L3,ON,,['BBQ Joint']
+Charred,244 James St N,CA,btwn Robert St & Colbourne St,"244 James St N (btwn Robert St & Colbourne St), Hamilton ON L8R 2L3",Hamilton,L8R 2L3,ON,,"['BBQ Joint', 'Portuguese Restaurant']"
+Mulberry Street Coffeehouse,193 James St N,CA,Mulberry St.,"193 James St N (Mulberry St.), Hamilton ON L8R 2L2",Hamilton,L8R 2L2,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+Bonanza Bakery,100 Murray St E,CA,,"100 Murray St E, Hamilton ON L8L 3G4",Hamilton,L8L 3G4,ON,,['Bakery']
+Born and Raised,224 James St N,CA,,"224 James St N, Hamilton ON L8R 2L3",Hamilton,L8R 2L3,ON,,"['Gastropub', 'Italian Restaurant']"
+Ola Bakery & Pastries,230 James St N,CA,Barton St. W,"230 James St N (Barton St. W), Hamilton ON L8R 2L3",Hamilton,L8R 2L3,ON,,"['Bakery', 'Coffee Shop', 'Restaurant']"
+Neit Bar,337 James St N,CA,Murray,"337 James St N (Murray), Hamilton ON L8L 1H3",Hamilton,L8L 1H3,ON,,['Restaurant']
+Mesa,255 James St N,CA,,"255 James St N, Hamilton ON L8R 2L2",Hamilton,L8R 2L2,ON,,['Mexican Restaurant']
+Fisher's Pier 4 Pub & Grub,554 James St N,CA,,"554 James St N, Hamilton ON L8L 1J5",Hamilton,L8L 1J5,ON,,['Restaurant']
+The Harbour Diner,486 James St N,CA,btwn Ferrie St and Picton St,"486 James St N (btwn Ferrie St and Picton St), Hamilton ON L8L 1J1",Hamilton,L8L 1J1,ON,,"['Diner', 'Comfort Food Restaurant']"
+Weston Pizza and Wings,574 James St N,CA,,"574 James St N, Hamilton ON L8L 1J7",Hamilton,L8L 1J7,ON,,['Pizzeria']
+Bonanza Bakery,100 Murray St E,CA,,"100 Murray St E, Hamilton ON L8L 3G4",Hamilton,L8L 3G4,ON,,['Bakery']
+North End Pita,574 James St N,CA,Burlington St E,"574 James St N (Burlington St E), Hamilton ON L8L 1J7",Hamilton,L8L 1J7,ON,,"['Chinese Restaurant', 'Fast Food Restaurant', 'Middle Eastern Restaurant']"
+Williams Fresh Cafe,47 Discovery Dr,CA,Guise St. E.,"47 Discovery Dr (Guise St. E.), Hamilton ON L8L 8B4",Hamilton,L8L 8B4,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+The Beergarden,207 Burlington St E,CA,,"207 Burlington St E, Hamilton ON L8L 4H2",Hamilton,L8L 4H2,ON,,['Hot Dog Joint']
+Saltlick Smokehouse,282 James St N,CA,Barton Street,"282 James St N (Barton Street), Hamilton ON L8R 2L3",Hamilton,L8R 2L3,ON,,['BBQ Joint']
+Charred,244 James St N,CA,btwn Robert St & Colbourne St,"244 James St N (btwn Robert St & Colbourne St), Hamilton ON L8R 2L3",Hamilton,L8R 2L3,ON,,"['BBQ Joint', 'Portuguese Restaurant']"
+Born and Raised,224 James St N,CA,,"224 James St N, Hamilton ON L8R 2L3",Hamilton,L8R 2L3,ON,,"['Gastropub', 'Italian Restaurant']"
+Tim Hortons,1134 Plains Rd W,CA,,"1134 Plains Rd W, Burlington ON L7T 1H3",Burlington,L7T 1H3,ON,,"['Restaurant', 'Fast Food Restaurant']"
+Rose Garden Family Restaurant,1124 Plains Rd W,CA,,"1124 Plains Rd W, Burlington ON L7T 1H3",Burlington,L7T 1H3,ON,,"['American Restaurant', 'Chinese Restaurant']"
+Williams Fresh Cafe,47 Discovery Dr,CA,Guise St. E.,"47 Discovery Dr (Guise St. E.), Hamilton ON L8L 8B4",Hamilton,L8L 8B4,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+Fisher's Pier 4 Pub & Grub,554 James St N,CA,,"554 James St N, Hamilton ON L8L 1J5",Hamilton,L8L 1J5,ON,,['Restaurant']
+North End Pita,574 James St N,CA,Burlington St E,"574 James St N (Burlington St E), Hamilton ON L8L 1J7",Hamilton,L8L 1J7,ON,,"['Chinese Restaurant', 'Fast Food Restaurant', 'Middle Eastern Restaurant']"
+Weston Pizza and Wings,574 James St N,CA,,"574 James St N, Hamilton ON L8L 1J7",Hamilton,L8L 1J7,ON,,['Pizzeria']
+541 Eatery & Exchange,541 Barton St E,CA,,"541 Barton St E, Hamilton ON L8L 2Z2",Hamilton,L8L 2Z2,ON,,['Restaurant']
+Hello Baked,549 Barton St E,CA,,"549 Barton St E, Hamilton ON L8L 2Z2",Hamilton,L8L 2Z2,ON,,['Bakery']
+Frank's Sicilia Bakery,669 Barton St E,CA,Sherman Ave N,"669 Barton St E (Sherman Ave N), Hamilton ON L8L 3A3",Hamilton,L8L 3A3,ON,,['Bakery']
+Two Cougars & a Cafe,601 Burlington St E,CA,,"601 Burlington St E, Hamilton ON L8L 4J5",Hamilton,L8L 4J5,ON,,['Diner']
+Duarte Supermarket,417 Barton St E,CA,Cheevers,"417 Barton St E (Cheevers), Hamilton ON L8L 2Y4",Hamilton,L8L 2Y4,ON,,['Grocery Store']
+Starpolskie,711 Barton St E,CA,,"711 Barton St E, Hamilton ON L8L 3A7",Hamilton,L8L 3A7,ON,,['Deli']
+Amir Pita and Grill,114 Sanford Ave N,CA,,"114 Sanford Ave N, Hamilton ON L8L 5Z2",Hamilton,L8L 5Z2,ON,Unit 2,"['Bar', 'Fast Food Restaurant', 'Middle Eastern Restaurant']"
+Wingporium,737 Barton St E,CA,Barnesdale,"737 Barton St E (Barnesdale), Hamilton ON L8L 3A9",Hamilton,L8L 3A9,ON,,['Wings Joint']
+McDonald's,787 Barton St E,CA,Lottridge,"787 Barton St E (Lottridge), Hamilton ON L8L 3B2",Hamilton,L8L 3B2,ON,,"['Burger Joint', 'Fast Food Restaurant']"
+Karlik Pastry,762 Barton St E,CA,Lottridge,"762 Barton St E (Lottridge), Hamilton ON L8L 3B1",Hamilton,L8L 3B1,ON,# 1,['Bakery']
+August 8,1 Wilson St,CA,James St.,"1 Wilson St (James St.), Hamilton ON L8R 1C4",Hamilton,L8R 1C4,ON,# 12,"['Dim Sum Restaurant', 'Sushi Restaurant']"
+The Burnt Tongue,10 Cannon St E,CA,James St N,"10 Cannon St E (James St N), Hamilton ON L8L 1Z5",Hamilton,L8L 1Z5,ON,,"['Fast Food Restaurant', 'Soup Spot']"
+Mulberry Street Coffeehouse,193 James St N,CA,Mulberry St.,"193 James St N (Mulberry St.), Hamilton ON L8R 2L2",Hamilton,L8R 2L2,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+The Mule,41 King William St,CA,Hughson,"41 King William St (Hughson), Hamilton ON L8R 1A2",Hamilton,L8R 1A2,ON,,['Taco Restaurant']
+Charred,244 James St N,CA,btwn Robert St & Colbourne St,"244 James St N (btwn Robert St & Colbourne St), Hamilton ON L8R 2L3",Hamilton,L8R 2L3,ON,,"['BBQ Joint', 'Portuguese Restaurant']"
+Lulu's Shawarma,32 John St N,CA,at King William St.,"32 John St N (at King William St.), Hamilton ON L8R 1H3",Hamilton,L8R 1H3,ON,,"['Mediterranean Restaurant', 'Middle Eastern Restaurant']"
+Burrito Boyz,66 King St E,CA,,"66 King St E, Hamilton ON L8N 1A6",Hamilton,L8N 1A6,ON,,['Burrito Restaurant']
+Saltlick Smokehouse,282 James St N,CA,Barton Street,"282 James St N (Barton Street), Hamilton ON L8R 2L3",Hamilton,L8R 2L3,ON,,['BBQ Joint']
+Vida la Pita,217 King St W,CA,Caroline,"217 King St W (Caroline), Hamilton ON L8P 1A7",Hamilton,L8P 1A7,ON,,"['Fast Food Restaurant', 'Middle Eastern Restaurant']"
+Coop Hamilton,274 King St W,CA,,"274 King St W, Hamilton ON L8P 1J6",Hamilton,L8P 1J6,ON,# 272,['Fried Chicken Joint']
+Ye Olde Squire,875 Main St W,CA,,"875 Main St W, Hamilton ON L8S 4P9",Hamilton,L8S 4P9,ON,,"['Bar', 'English Restaurant']"
+Valentino's Restaurant,824 King St W,CA,at Paradise Rd N,"824 King St W (at Paradise Rd N), Hamilton ON L8S 1K3",Hamilton,L8S 1K3,ON,,"['Bakery', 'Pizzeria', 'Italian Restaurant']"
+The Hungry Traveler Hamilton,649 Main St W,CA,,"649 Main St W, Hamilton ON L8S 1A2",Hamilton,L8S 1A2,ON,,"['Breakfast Spot', 'American Restaurant']"
+Saigon Asian Restaurant,1024 King St W,CA,,"1024 King St W, Hamilton ON L8S 1L5",Hamilton,L8S 1L5,ON,,['Vietnamese Restaurant']
+Burrito Bandidos,1028 King St W,CA,Paisley Ave. N.,"1028 King St W (Paisley Ave. N.), Hamilton ON L8S 1L5",Hamilton,L8S 1L5,ON,,"['Fast Food Restaurant', 'Burrito Restaurant']"
+Second Cup Coffee Co,1004 King St W,CA,at Marion Ave,"1004 King St W (at Marion Ave), Hamilton ON L8S 1L1",Hamilton,L8S 1L1,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+Subway,1018 King St W,CA,Marion Ave. North,"1018 King St W (Marion Ave. North), Hamilton ON L8S 1L4",Hamilton,L8S 1L4,ON,,"['Fast Food Restaurant', 'Sandwich Spot']"
+Pita Pit,1056 King St W,CA,,"1056 King St W, Hamilton ON L8S 1L7",Hamilton,L8S 1L7,ON,Hamilton-Westdale,"['Sandwich Spot', 'Restaurant']"
+Mr Dumpling Express,50 Dundurn St S,CA,at Main St W,"50 Dundurn St S (at Main St W), Hamilton ON L8P 4W3",Hamilton,L8P 4W3,ON,,"['Chinese Restaurant', 'Fast Food Restaurant']"
+Subway,50 Dundurn St S,CA,at Main St W,"50 Dundurn St S (at Main St W), Hamilton ON L8P 4W3",Hamilton,L8P 4W3,ON,Unit 107,"['Fast Food Restaurant', 'Sandwich Spot']"
+August 8,1 Wilson St,CA,James St.,"1 Wilson St (James St.), Hamilton ON L8R 1C4",Hamilton,L8R 1C4,ON,# 12,"['Dim Sum Restaurant', 'Sushi Restaurant']"
+The Burnt Tongue,10 Cannon St E,CA,James St N,"10 Cannon St E (James St N), Hamilton ON L8L 1Z5",Hamilton,L8L 1Z5,ON,,"['Fast Food Restaurant', 'Soup Spot']"
+Mulberry Street Coffeehouse,193 James St N,CA,Mulberry St.,"193 James St N (Mulberry St.), Hamilton ON L8R 2L2",Hamilton,L8R 2L2,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+The Mule,41 King William St,CA,Hughson,"41 King William St (Hughson), Hamilton ON L8R 1A2",Hamilton,L8R 1A2,ON,,['Taco Restaurant']
+Charred,244 James St N,CA,btwn Robert St & Colbourne St,"244 James St N (btwn Robert St & Colbourne St), Hamilton ON L8R 2L3",Hamilton,L8R 2L3,ON,,"['BBQ Joint', 'Portuguese Restaurant']"
+Lulu's Shawarma,32 John St N,CA,at King William St.,"32 John St N (at King William St.), Hamilton ON L8R 1H3",Hamilton,L8R 1H3,ON,,"['Mediterranean Restaurant', 'Middle Eastern Restaurant']"
+Burrito Boyz,66 King St E,CA,,"66 King St E, Hamilton ON L8N 1A6",Hamilton,L8N 1A6,ON,,['Burrito Restaurant']
+Saltlick Smokehouse,282 James St N,CA,Barton Street,"282 James St N (Barton Street), Hamilton ON L8R 2L3",Hamilton,L8R 2L3,ON,,['BBQ Joint']
+Vida la Pita,217 King St W,CA,Caroline,"217 King St W (Caroline), Hamilton ON L8P 1A7",Hamilton,L8P 1A7,ON,,"['Fast Food Restaurant', 'Middle Eastern Restaurant']"
+Coop Hamilton,274 King St W,CA,,"274 King St W, Hamilton ON L8P 1J6",Hamilton,L8P 1J6,ON,# 272,['Fried Chicken Joint']
+Saigon Asian Restaurant,1024 King St W,CA,,"1024 King St W, Hamilton ON L8S 1L5",Hamilton,L8S 1L5,ON,,['Vietnamese Restaurant']
+Pita Pit,1056 King St W,CA,,"1056 King St W, Hamilton ON L8S 1L7",Hamilton,L8S 1L7,ON,Hamilton-Westdale,"['Sandwich Spot', 'Restaurant']"
+Burrito Bandidos,1028 King St W,CA,Paisley Ave. N.,"1028 King St W (Paisley Ave. N.), Hamilton ON L8S 1L5",Hamilton,L8S 1L5,ON,,"['Fast Food Restaurant', 'Burrito Restaurant']"
+Second Cup Coffee Co,1004 King St W,CA,at Marion Ave,"1004 King St W (at Marion Ave), Hamilton ON L8S 1L1",Hamilton,L8S 1L1,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+Ye Olde Squire,875 Main St W,CA,,"875 Main St W, Hamilton ON L8S 4P9",Hamilton,L8S 4P9,ON,,"['Bar', 'English Restaurant']"
+Pinks Burgers,1335 Main St W,CA,,"1335 Main St W, Hamilton ON L8S 1C6",Hamilton,L8S 1C6,ON,,['Burger Joint']
+Valentino's Restaurant,824 King St W,CA,at Paradise Rd N,"824 King St W (at Paradise Rd N), Hamilton ON L8S 1K3",Hamilton,L8S 1K3,ON,,"['Bakery', 'Pizzeria', 'Italian Restaurant']"
+Mac Farmstand,1280 Main St W,CA,,"1280 Main St W, Hamilton ON",Hamilton,,ON,,['Grocery Store']
+The Chopped Leaf,1280 Main St W,CA,,"1280 Main St W, Hamilton ON L8S 4L8",Hamilton,L8S 4L8,ON,,['Salad Restaurant']
+Atlantic Submarines,212 John St S,CA,Young Street,"212 John St S (Young Street), Hamilton ON L8N 2C8",Hamilton,L8N 2C8,ON,,['Sandwich Spot']
+Red Crow Coffee,211 James St S,CA,Charlton Ave,"211 James St S (Charlton Ave), Hamilton ON L8P 3B2",Hamilton,L8P 3B2,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+Wass Ethiopian Restaurant,207 James St N,CA,at Forest Ave.,"207 James St N (at Forest Ave.), Hamilton ON L8R 2L2",Hamilton,L8R 2L2,ON,,['Ethiopian Restaurant']
+Bronzie's Place,201 James St S,CA,at Forest Ave,"201 James St S (at Forest Ave), Hamilton ON L8P 3A8",Hamilton,L8P 3A8,ON,,['Pizzeria']
+One Duke Restaurant & Lounge,1 Duke St,CA,at James St. South,"1 Duke St (at James St. South), Hamilton ON L8P 1W9",Hamilton,L8P 1W9,ON,,"['American Restaurant', 'Comfort Food Restaurant', 'Italian Restaurant']"
+Mezcal TNT,150 James St S,CA,Augusta,"150 James St S (Augusta), Hamilton ON L8P 3A2",Hamilton,L8P 3A2,ON,,"['Bar', 'Tex-Mex Restaurant']"
+Radius,151 James St S,CA,at Augusta St,"151 James St S (at Augusta St), Hamilton ON L8P 2Z5",Hamilton,L8P 2Z5,ON,,['Fast Food Restaurant']
+Tea Hut,100 Main St E,CA,,"100 Main St E, Hamilton ON L8N 3W4",Hamilton,L8N 3W4,ON,# 100,"['Bar', 'Diner', 'Asian Restaurant']"
+Burrito Boyz,66 King St E,CA,,"66 King St E, Hamilton ON L8N 1A6",Hamilton,L8N 1A6,ON,,['Burrito Restaurant']
+Shakespeare's Steak and Seafood,181 Main St E,CA,,"181 Main St E, Hamilton ON L8N 1H2",Hamilton,L8N 1H2,ON,,"['Diner', 'Seafood Restaurant', 'Steakhouse']"
+Saigon Asian Restaurant,1024 King St W,CA,,"1024 King St W, Hamilton ON L8S 1L5",Hamilton,L8S 1L5,ON,,['Vietnamese Restaurant']
+Pita Pit,1056 King St W,CA,,"1056 King St W, Hamilton ON L8S 1L7",Hamilton,L8S 1L7,ON,Hamilton-Westdale,"['Sandwich Spot', 'Restaurant']"
+Burrito Bandidos,1028 King St W,CA,Paisley Ave. N.,"1028 King St W (Paisley Ave. N.), Hamilton ON L8S 1L5",Hamilton,L8S 1L5,ON,,"['Fast Food Restaurant', 'Burrito Restaurant']"
+Second Cup Coffee Co,1004 King St W,CA,at Marion Ave,"1004 King St W (at Marion Ave), Hamilton ON L8S 1L1",Hamilton,L8S 1L1,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+Ye Olde Squire,875 Main St W,CA,,"875 Main St W, Hamilton ON L8S 4P9",Hamilton,L8S 4P9,ON,,"['Bar', 'English Restaurant']"
+Pinks Burgers,1335 Main St W,CA,,"1335 Main St W, Hamilton ON L8S 1C6",Hamilton,L8S 1C6,ON,,['Burger Joint']
+Valentino's Restaurant,824 King St W,CA,at Paradise Rd N,"824 King St W (at Paradise Rd N), Hamilton ON L8S 1K3",Hamilton,L8S 1K3,ON,,"['Bakery', 'Pizzeria', 'Italian Restaurant']"
+Mac Farmstand,1280 Main St W,CA,,"1280 Main St W, Hamilton ON",Hamilton,,ON,,['Grocery Store']
+The Chopped Leaf,1280 Main St W,CA,,"1280 Main St W, Hamilton ON L8S 4L8",Hamilton,L8S 4L8,ON,,['Salad Restaurant']
+Hambrgr,207 Ottawa St N,CA,,"207 Ottawa St N, Hamilton ON L8H 3Z4",Hamilton,L8H 3Z4,ON,,"['Bar', 'Burger Joint']"
+Cannon Coffee Co,179 Ottawa St N,CA,Cannon Street,"179 Ottawa St N (Cannon Street), Hamilton ON L8H 3Z4",Hamilton,L8H 3Z4,ON,,"['Café', 'Coffee Shop', 'Restaurant']"
+Boston Pizza,1219 Barton St E,CA,Kenilworth Ave. N.,"1219 Barton St E (Kenilworth Ave. N.), Hamilton ON L8H 2V4",Hamilton,L8H 2V4,ON,,['Pizzeria']
+Hi-Line Centre Pizza & Wings,1150 King St E,CA,Gage,"1150 King St E (Gage), Hamilton ON L8M 1E8",Hamilton,L8M 1E8,ON,# 2,['Pizzeria']
+Harvey's,1200 Barton St E,CA,,"1200 Barton St E, Hamilton ON L8H 2V7",Hamilton,L8H 2V7,ON,,['Restaurant']
