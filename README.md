@@ -84,15 +84,21 @@ Throughout each stage, I made sure to conduct a thorough exploratory analysis of
 
 ## Results
 
-(fill in what you found about the comparative quality of API coverage in your chosen area and the results of your model.)
+- I believe Yelp had the best features for to build out the model however, I could have take more time in selecting the right features that would be of interest or that could potentially impact the number of available bikes.
 
 ## Challenges
-
-(discuss challenges you faced in the project)
+- Spent some time going back and forth between the respective Parts of the project as a result of not understanding the instructions.
+- Choosing the right visualization also took some time in Seaborn
+- Parsing the JSON and trying to determine the correct data type based on the objective of the question.
 
 ## Future Goals
 
-(what would you do if you had more time?)
+What would you do if you had more time?
+- Spend more time choosing the right features for the regression model
+- Delve deeper into the Yelp and Foursquare to find more numeral data to help tune the regression model
+- Optmize on some of the code. I believe some of the code in the notebooks could be shorter and better use of functions could have been used throughout
+- Spend more time cleaning the data. I dont think I enough time cleaning the data.
+- Start with the end in mind, in other works, what was the goal we are trying to achieve in Part 4, then work backwards to ensure that all the other steps had enough data to make the model sound.
 
 ---
 
