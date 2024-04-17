@@ -23,13 +23,13 @@ This repository contains a data analysis project that integrates data from CityB
 ### `/images`
 
 - `heatmap_viz_02.png` & `heatmap_viz.png`: Heatmaps visualizing different aspects of the data.
-- `project_banner.png`: The banner image for the project, useful for documentation and presentations.
+- `project_banner.png`: The banner image for the project.
 - `relplot.png`: A relational plot that demonstrates correlations within the data.
 
 ### `/notebooks`
 
 - `city_bikes.ipynb`: Jupyter notebook containing the exploratory analysis of CityBike data.
-- `joining_data.ipynb`: Notebook documenting the process of combining datasets from different sources.
+- `joining_data.ipynb`: Notebook documenting the process of combining datasets from Yelp and CityBike.
 - `model_building.ipynb`: Contains the regression model and its evaluation.
 - `yelp_foursquare_EDA.ipynb`: Dedicated notebook for exploratory data analysis of Foursquare and Yelp data.
 
@@ -70,25 +70,24 @@ I began by delving into the CityBikes API documentation to understand its struct
 
 ### Part 2: Connecting to Foursquare and Yelp APIs
 
-I set up and authenticated my connections with the Foursquare and Yelp APIs, securely storing the authentication tokens as environment variables to ensure the security of my keys when committing code to GitHub. For each of the bike stations identified in Part 1, I used these APIs to retrieve information on nearby restaurants, bars, and other POIs. I created two separate DataFrames to organize the data from Yelp and Foursquare and conducted a thorough comparative analysis to evaluate the quality of data provided by each service. I defined my own criteria for 'coverage' and documented the entire exploratory process in a Jupyter notebook called `yelp_foursquare_EDA.ipynb`.
+I set up and authenticated my connections with the Foursquare and Yelp APIs, securely storing the authentication tokens as environment variables to ensure the security of my keys when committing code to GitHub. For each of the bike stations identified in Part 1, I used these APIs to retrieve information on nearby restaurants. I created two separate DataFrames to organize the data from Yelp and Foursquare and conducted a thorough comparative analysis to evaluate the quality of data provided by each service. I defined my criteria for 'coverage' and documented the process in a Jupyter notebook called `yelp_foursquare_EDA.ipynb`.
 
 ### Part 3: Joining Data
 
-I joined the data from the CityBikes bike stations with the POI data from Foursquare and Yelp into a new DataFrame. Exploratory data analysis was carried out using various visualization techniques to uncover patterns. I also created my own SQLite database, thoughtfully considering the structure to store the collected data, and took measures to validate the data integrity. The entire process was meticulously detailed in a Jupyter notebook, `joining_data.ipynb`.
+I joined the data from the CityBikes bike stations with the POI data from Yelp into a new DataFrame. Exploratory data analysis was carried out using various visualization techniques to uncover patterns. I also created my own SQLite database, thoughtfully considering the structure to store the collected data, and took measures to validate the data integrity. The entire process was meticulously detailed in a Jupyter notebook, `joining_data.ipynb`.
 
 ### Part 4: Building a Model
 
 I built a regression model using Python’s statsmodels module, which showcased the relationship between the number of bikes at each station and the characteristics of nearby POIs. I interpreted the results of the model to derive meaningful insights. Furthermore, I spent time conceptualizing how this regression problem could be transformed into a classification problem, outlining potential approaches without coding. The steps taken and insights gained were all documented in the Jupyter notebook `model_building.ipynb`.
 
-Throughout each stage, I made sure to conduct a thorough exploratory analysis of the API documentation and structures and to take steps such as storing authentication tokens securely as environment variables to maintain the integrity and security of the project.
 
 ## Results
 
-- I believe Yelp had the best features for to build out the model however, I could have take more time in selecting the right features that would be of interest or that could potentially impact the number of available bikes.
+- I believe Yelp had the best features to build out the model however, I could have taken more time in selecting the right features that would be of interest or that could potentially impact the number of available bikes.
 
 ## Challenges
 - Spent some time going back and forth between the respective Parts of the project as a result of not understanding the instructions.
-- Choosing the right visualization also took some time in Seaborn
+- Choosing the right visualization also took some time in Seaborn.
 - Parsing the JSON and trying to determine the correct data type based on the objective of the question.
 
 ## Future Goals
@@ -96,9 +95,9 @@ Throughout each stage, I made sure to conduct a thorough exploratory analysis of
 What would you do if you had more time?
 - Spend more time choosing the right features for the regression model
 - Delve deeper into the Yelp and Foursquare to find more numeral data to help tune the regression model
-- Optmize on some of the code. I believe some of the code in the notebooks could be shorter and better use of functions could have been used throughout
-- Spend more time cleaning the data. I dont think I enough time cleaning the data.
-- Start with the end in mind, in other works, what was the goal we are trying to achieve in Part 4, then work backwards to ensure that all the other steps had enough data to make the model sound.
+- Optimize on some of the code. I believe some of the code in the notebooks could be shorter and better use of functions could have been used throughout
+- Spend more time cleaning the data. I don't think I spent enough to clean the data.
+- Start with the end in mind, in other words, what was the goal we are trying to achieve in Part 4, then work backward to ensure that all the other steps had enough data to make the model sound.
 
 ---
 
